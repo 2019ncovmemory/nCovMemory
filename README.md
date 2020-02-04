@@ -388,9 +388,6 @@
 |---|:----------:|:---:|-----|-----|
 |01-30|有谁想去武汉？我们7个摄影记者全部报了名：武汉一线摄影师专访|[link](https://mp.weixin.qq.com/s/nZecHSVTjFMqk0qCKhvc5w)|[link](articles/lundao/lundao-1.png)|[link](https://archive.vn/W5SXB)|
 
-亲历者叙述](#亲历者叙述)
-  * [系列：疫区日记](#疫区日记)
-  
 ## 亲历者叙述
 ### 疫区日记
 | 日期 | 标题 | 原始URL|截图|archive|
