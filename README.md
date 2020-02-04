@@ -389,6 +389,7 @@ PAYWALL
 |01-31|肺炎日记｜1月31日：疾控、红会陷争议，防疫环节何处失守？|[link](http://www.caixin.com/2020-02-01/101510052.html)|[link](articles/caixin/caixin-14.png)|[link](https://web.archive.org/web/20200203104331/http://www.caixin.com/2020-02-01/101510052.html)|
 |02-01|肺炎日记｜2月1日：全国病例破万 社会力量参与抗疫呼声不止|[link](http://www.caixin.com/2020-02-02/101510545.html)|[link](articles/caixin/caixin-15.png)|[link](https://web.archive.org/web/20200203142833/http://www.caixin.com/2020-02-02/101510545.html)|
 |02-02|肺炎日记｜2月2日：力不从心红会“让路”，双黄连惹质疑|[link](http://www.caixin.com/2020-02-03/101510766.html)|[link](articles/caixin/caixin-16.png)|[link](https://web.archive.org/web/20200203104351/http://www.caixin.com/2020-02-03/101510766.html)|
+|02-03|肺炎日记｜2月3日：武汉大量疑似患者获收治 医疗措施是关键|[link](http://www.caixin.com/2020-02-04/101511212.html)|[link](articles/caixin/caixin-016a.png)|[link](https://web.archive.org/web/20200204085039/http://www.caixin.com/2020-02-04/101511212.html)|
 |01-22|记者手记｜野味成武汉肺炎元凶 你见过香港菜市场这么卖活物吗？|[link](http://www.caixin.com/2020-01-22/101507417.html)|[link](articles/caixin/caixin-17.png)|[link](https://web.archive.org/web/20200202210656/http://www.caixin.com/2020-01-22/101507417.html)|
 |01-23|解读｜武汉肺炎是如何确诊和发布的|[link](http://www.caixin.com/2020-01-23/101507556.html)|[link](articles/caixin/caixin-18.png)|[link](https://web.archive.org/web/20200202210707/http://www.caixin.com/2020-01-23/101507556.html)|
 |01-23|武汉百步亭“万家宴”过后 当地药店口罩脱销|[link](http://www.caixin.com/2020-01-23/101507508.html)|[link](articles/caixin/caixin-19.png)|[link](https://web.archive.org/web/20200202210722/http://www.caixin.com/2020-01-23/101507508.html)|
@@ -406,3 +407,7 @@ PAYWALL
 |02-01|境内统筹不力境外遇阻 防疫物资为何这么难？|[link](http://www.caixin.com/2020-02-01/101510420.html)|[link](articles/caixin/caixin-31.png)|[link](https://web.archive.org/web/20200203160747/http://www.caixin.com/2020-02-01/101510420.html)|
 |02-02|抗新冠病毒“有效药”层出不穷 治疗效果如何证实？|[link](http://www.caixin.com/2020-02-02/101510543.html)|[link](articles/caixin/caixin-32.png)|[link](https://web.archive.org/web/20200203160811/http://www.caixin.com/2020-02-02/101510543.html)|
 |02-02|菲律宾出现境外首个新冠肺炎死亡病例 逝者为44岁武汉观光客|[link](http://www.caixin.com/2020-02-02/101510661.html)|[link](articles/caixin/caixin-33.png)|[link](https://web.archive.org/web/2020020316)|
+|02-03|应对节后返工潮 各地建设本地“小汤山”|[link](http://www.caixin.com/2020-02-03/101511195.html)|[link](articles/caixin/caixin-34.png)|[link](https://web.archive.org/web/20200204084038/http://www.caixin.com/2020-02-03/101511195.html)|
+|02-04|武汉疫情调查追踪：医护感染应受关注|[link](http://www.caixin.com/2020-02-04/101511377.html)|[link](articles/caixin/caixin-35.png)|[link](https://web.archive.org/web/20200204084331/http://www.caixin.com/2020-02-04/101511377.html)|
+
+
