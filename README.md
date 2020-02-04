@@ -1,5 +1,5 @@
 # 2020新冠肺炎记忆：传媒报道与非虚构写作
-收录了2020年新型冠状病毒感染的肺炎(2019-nCoV)相关报道和文章的地址、截图、存档。
+收录了2020年新型冠状病毒感染的肺炎(2019-nCoV)深度报道和非虚构作品的地址、截图、存档。
 
 我们使用了网友制作的archive存档，深表感激。同时感谢许多网友与我们共享资料并提供建议。
 
@@ -12,7 +12,7 @@
 * [联系](#联系)
 * [媒体](#媒体)
   * [财新网](#财新网)
-  * [冰点](#冰点)
+  * [冰点周刊](#冰点周刊)
   * [人物](#人物)
   * [三联生活周刊](#三联生活周刊)
   * [GQ报道](#GQ报道)
@@ -24,6 +24,7 @@
   * [南都周刊](#南都周刊)
   * [财经杂志](#财经杂志)
   * [大象公会](#大象公会)
+  * [故事FM](#故事FM)
 
 ## 介绍
 此处收集内地各类传媒发布（原创或转载）的有关新型冠状病毒感染的肺炎(2019-nCoV)的深度报道和非虚构作品，并将持续更新。
@@ -142,7 +143,7 @@ PAYWALL
 |02-03|那些储备的医用物资都去了哪儿|[link](https://mp.weixin.qq.com/s/Vqi5j05wgNy83Nwnn61Ywg)|[link](articles/renwu/renwu-15.png)|[link](https://archive.vn/K592l)|
 |02-03|穿梭在疫区的摆渡人：武汉的每个人都在努力|[link](https://mp.weixin.qq.com/s/53pDJgSyEkm4DJtQ75zm0w)|[link](articles/renwu/renwu-16.png)|[link](https://archive.ph/TfQpz)|
 
-### 冰点
+### 冰点周刊
 | 日期 | 标题 | 原始URL|截图|archive|
 |---|:----------:|:---:|-----|-----|
 |01-22|新型肺炎疫情防控下的武汉生活|[link](https://mp.weixin.qq.com/s/cg4qHhta8nLx93PDaW1dHQ)|[link](articles/bingdian/bingdian-1.png)|[link](https://archive.ph/KijR8)|
@@ -412,3 +413,10 @@ PAYWALL
 |02-04|武汉疫情调查追踪：医护感染应受关注|[link](http://www.caixin.com/2020-02-04/101511377.html)|[link](articles/caixin/caixin-35.png)|[link](https://web.archive.org/web/20200204084331/http://www.caixin.com/2020-02-04/101511377.html)|
 
 
+
+### 故事FM
+| 日期 | 标题 | 原始URL|截图|archive|
+|---|:----------:|:---:|-----|-----|
+|01-26|五个武汉人的封城日记|[link](https://mp.weixin.qq.com/s/0CfHc9OqmP9rNGIaznnoHQ)|[link](articles/gushi/gushi-1.png)|[link](https://archive.vn/G9eIQ)|
+|02-02|武汉医生工作见闻：下了班，我还得帮科室抢物资|[link](https://mp.weixin.qq.com/s/GMtH8mWqfYe8HGnlakTdug)|[link](articles/gushi/gushi-2.png)|[link](http://archive.ph/8FI2F)|
+|02-03|三个武汉人的外地隔离日记|[link](https://mp.weixin.qq.com/s/4p4rD_V9W5HblfkAChSwVg)|[link](articles/gushi/gushi-3.png)|[link](http://archive.ph/Ye6VJ)|
