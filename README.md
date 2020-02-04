@@ -203,15 +203,6 @@ PAYWALL
 ### 在人间living
 | 日期 | 标题 | 原始URL|截图|archive|
 |---|:----------:|:---:|-----|-----|
-|01-26|武汉的除夕夜，我一个人在家自行观察|[link](https://mp.weixin.qq.com/s/U4IrYQcPc6G-ce9X5eRE_g)|[link](articles/gq/gq-1.png)|[link](https://archive.ph/EmrjV)|
-|01-27|父亲双肺感染严重，然而一床难求|[link](https://mp.weixin.qq.com/s/_jOl6mDa-BzCknUwGLaj3Q)|[link](articles/gq/gq-2.png)|[link](https://archive.ph/DxXxE)|
-|01-28|一个武汉隔离病房护士的自述|[link](https://mp.weixin.qq.com/s/WZ3sotusU6FX-eXcN5MrnA)|[link](articles/gq/gq-3.png)|[link](https://archive.ph/OL2w7)|
-|01-28|妈妈在武汉隔离病房去世|[link](https://mp.weixin.qq.com/s?__biz=MzI4ODc3ODYzMg==&mid=2247495376&idx=1&sn=a83235d62e106d7228c00754ea77cd0e&chksm=ec3b9e37db4c172121f374a3ac21a63662624f3f451cb038391998a17662b98e10325d1de5fd&scene=126&sessionid=1580451821&key=008658d21f0cfb81b79569bd02c57d24479b8ff19258f4bcf51e7e2356c08095bab72b85e47eb8a33bf786aeb0184084af6f0a0d344823ec0bdff1c7fe4349154f4277c9f979d9d018a448e1bb85ea26&ascene=1&uin=MTE4NzU2NTYyOQ%3D%3D&devicetype=Windows+10&version=6208006f&lang=zh_CN&exportkey=A2UGnpY0Gzt73nwiEmSV8K0%3D&pass_ticket=smwZG1Ev%2F5TU057DZsbfym7%2ByPMgMyVvu0nTN9pybWzO289iTYSYYMeFRyJVlD1N)|[link](articles/gq/gq-4.png)|[link](https://archive.ph/mXk7J)|
-|01-29|寻药的武汉护士: 虽然怕，但我们愿意守护这座城|[link](https://mp.weixin.qq.com/s/Xl-uXGHEYUC-FBkLoaIJuw)|[link](articles/gq/gq-5.png)|[link](https://archive.ph/WEmhA)|
-|01-31|武汉：一条与肺炎赛跑的餐饮供应链|[link](https://mp.weixin.qq.com/s/__CNpvaXb7EoVPT0vSOjdg)|[link](articles/gq/gq-6.png)|[link](https://archive.ph/YJGiY)|
-|01-31|一辆载着15万副医用手套的车向武汉开去|[link](https://mp.weixin.qq.com/s/qCY1T3MV0_hTvlGxQBlQaQ)|[link](articles/gq/gq-7.png)|[link](https://archive.vn/HVzKl)|
-|02-02|疫情中一夜长大的少年|[link](https://mp.weixin.qq.com/s/9Li-0f3IjRsWVr6rwcT37A)|[link](articles/gq/gq-8.png)|[link](https://archive.ph/V5GvI)|
-|02-03|我在电话这头，试图帮武汉人平复“被现实打蒙的感觉”|[link](https://mp.weixin.qq.com/s/Wt0wXiHClJvkO6-ksxZ1hQ)|[link](articles/gq/gq-9.png)|[link](https://archive.ph/ihIGd)|
 |01-26|武汉的除夕夜，我一个人在家自行观察|[link](https://mp.weixin.qq.com/s/U4IrYQcPc6G-ce9X5eRE_g)|[link](articles/living/living-1.png)|[link](https://archive.ph/EmrjV)|
 |01-27|父亲双肺感染严重，然而一床难求|[link](https://mp.weixin.qq.com/s/_jOl6mDa-BzCknUwGLaj3Q)|[link](articles/living/living-2.png)|[link](https://archive.ph/DxXxE)|
 |01-28|一个武汉隔离病房护士的自述|[link](https://mp.weixin.qq.com/s/WZ3sotusU6FX-eXcN5MrnA)|[link](articles/living/living-3.png)|[link](https://archive.ph/OL2w7)|
@@ -222,19 +213,24 @@ PAYWALL
 |02-02|疫情中一夜长大的少年|[link](https://mp.weixin.qq.com/s/9Li-0f3IjRsWVr6rwcT37A)|[link](articles/living/living-8.png)|[link](https://archive.ph/V5GvI)|
 |02-03|我在电话这头，试图帮武汉人平复“被现实打蒙的感觉”|[link](https://mp.weixin.qq.com/s/Wt0wXiHClJvkO6-ksxZ1hQ)|[link](articles/living/living-9.png)|[link](https://archive.ph/ihIGd)|
 
-
 ### 剥洋葱people
 | 日期 | 标题 | 原始URL|截图|archive|
 |---|:----------:|:---:|-----|-----|
-|01-26|武汉的除夕夜，我一个人在家自行观察|[link](https://mp.weixin.qq.com/s/U4IrYQcPc6G-ce9X5eRE_g)|[link](articles/people/people-1.png)|[link](https://archive.ph/EmrjV)|
-|01-27|父亲双肺感染严重，然而一床难求|[link](https://mp.weixin.qq.com/s/_jOl6mDa-BzCknUwGLaj3Q)|[link](articles/people/people-2.png)|[link](https://archive.ph/DxXxE)|
-|01-28|一个武汉隔离病房护士的自述|[link](https://mp.weixin.qq.com/s/WZ3sotusU6FX-eXcN5MrnA)|[link](articles/people/people-3.png)|[link](https://archive.ph/OL2w7)|
-|01-28|妈妈在武汉隔离病房去世|[link](https://mp.weixin.qq.com/s?__biz=MzI4ODc3ODYzMg==&mid=2247495376&idx=1&sn=a83235d62e106d7228c00754ea77cd0e&chksm=ec3b9e37db4c172121f374a3ac21a63662624f3f451cb038391998a17662b98e10325d1de5fd&scene=126&sessionid=1580451821&key=008658d21f0cfb81b79569bd02c57d24479b8ff19258f4bcf51e7e2356c08095bab72b85e47eb8a33bf786aeb0184084af6f0a0d344823ec0bdff1c7fe4349154f4277c9f979d9d018a448e1bb85ea26&ascene=1&uin=MTE4NzU2NTYyOQ%3D%3D&devicetype=Windows+10&version=6208006f&lang=zh_CN&exportkey=A2UGnpY0Gzt73nwiEmSV8K0%3D&pass_ticket=smwZG1Ev%2F5TU057DZsbfym7%2ByPMgMyVvu0nTN9pybWzO289iTYSYYMeFRyJVlD1N)|[link](articles/people/people-4.png)|[link](https://archive.ph/mXk7J)|
-|01-29|寻药的武汉护士: 虽然怕，但我们愿意守护这座城|[link](https://mp.weixin.qq.com/s/Xl-uXGHEYUC-FBkLoaIJuw)|[link](articles/people/people-5.png)|[link](https://archive.ph/WEmhA)|
-|01-31|武汉：一条与肺炎赛跑的餐饮供应链|[link](https://mp.weixin.qq.com/s/__CNpvaXb7EoVPT0vSOjdg)|[link](articles/people/people-6.png)|[link](https://archive.ph/YJGiY)|
-|01-31|一辆载着15万副医用手套的车向武汉开去|[link](https://mp.weixin.qq.com/s/qCY1T3MV0_hTvlGxQBlQaQ)|[link](articles/people/people-7.png)|[link](https://archive.vn/HVzKl)|
-|02-02|疫情中一夜长大的少年|[link](https://mp.weixin.qq.com/s/9Li-0f3IjRsWVr6rwcT37A)|[link](articles/people/people-8.png)|[link](https://archive.ph/V5GvI)|
-|02-03|我在电话这头，试图帮武汉人平复“被现实打蒙的感觉”|[link](https://mp.weixin.qq.com/s/Wt0wXiHClJvkO6-ksxZ1hQ)|[link](articles/people/people-9.png)|[link](https://archive.ph/ihIGd)|
+|01-20|直击肺炎疫情下的武汉、北京、香港|[link](https://mp.weixin.qq.com/s/g0yMaWd6JbkSp2t79wjh7A)|[link](articles/people/people-1.png)|[link](https://archive.ph/BLmAC)|
+|01-21|聚焦武汉肺炎疫情：“大众畜牧野味”确实存在，市场休市后才闭店|[link](https://mp.weixin.qq.com/s/6CPkhUWzM6f2NxP8rMWNUQ)|[link](articles/people/people-2.png)|[link](https://archive.ph/F71nd)|
+|01-23|武汉“封城”首日|[link](https://mp.weixin.qq.com/s/wsF9JFH2CayADLXqJIS1wg)|[link](articles/people/people-3.png)|[link](https://archive.ph/eEy4D)|
+|01-24|除夕夜，写下“请战书”的小汤山非典医疗队驰援武汉|[link](https://mp.weixin.qq.com/s/RiHMv1FKurR2PJDiJNMw1g)|[link](articles/people/people-4.png)|[link](https://archive.ph/pr6x0)|
+|01-25|小汤山医院设计师：没想到图纸再用，希望武汉新医院效果更好|[link](https://mp.weixin.qq.com/s/1n-xp71p0D8odkuZhIvfTg)|[link](articles/people/people-5.png)|[link](https://archive.ph/SKFP4)|
+|01-27|绿色通道、通行证、医院证明：医疗捐赠物资出入武汉记|[link](https://mp.weixin.qq.com/s/R-iXDgYd3ZZLBLiLEzxH9g)|[link](articles/people/people-6.png)|[link](https://archive.ph/DQGB0)|
+|01-28|一个河北县城的防疫：建成隔离病区，医护缺乏专业口罩|[link](https://mp.weixin.qq.com/s/K8K3KJiTbOhXW8_x_-eCJg)|[link](articles/people/people-7.png)|[link](https://archive.ph/vQypN)|
+|01-30|武汉某定点医院被隔离的医生：曾一晚接诊200名患者|[link](https://mp.weixin.qq.com/s/FefTq9st-CqqEPTL02D-Kg)|[link](articles/people/people-8.png)|[link](https://archive.ph/DiLpu)|
+|01-31|黄冈“小汤山”的志愿服务48小时|[link](https://mp.weixin.qq.com/s/FefTq9st-CqqEPTL02D-Kg)|[link](articles/people/people-9.png)|[link](https://archive.ph/KSl5B)|
+|01-31|武汉医生驿站 ：为4万人次提供住宿 有退出也有坚守|[link](https://mp.weixin.qq.com/s/9xE1nK4DkFcutVCsG7WNaA)|[link](articles/people/people-10.png)|[link](https://archive.ph/iTHtH)|
+|02-01|武汉定点医院一床难求，患者居家用衣柜隔离|[link](https://mp.weixin.qq.com/s/p45GBxC_Nm1lcZJg1hf6ZA)|[link](articles/people/people-11.png)|[link](https://archive.ph/bAMkD)|
+|02-02|肺炎时期的“生门”故事|[link](https://mp.weixin.qq.com/s/qhZoz__WW69klJ200JUMdw)|[link](articles/people/people-12.png)|[link](https://archive.vn/85jOE)|
+|02-03|为家乡医院筹口罩|[link](https://mp.weixin.qq.com/s/Mknh3AVvWcjOSaNPJXFduQ)|[link](articles/people/people-13.png)|[link](https://archive.vn/2B12I)|
+|02-03|疫情下的心理危机干预：用电话线联结的救援行动|[link](https://mp.weixin.qq.com/s/aLMcuHvTAYvrYoUL6MNcHg)|[link](articles/people/people-14.png)|[link](https://archive.vn/sfmr4)|
+|02-03|“战友变患者”的武汉医生：我们怕了、退了，武汉怎么办？|[link](https://mp.weixin.qq.com/s/SE6RSOF68h6jUrWZ5SUp6Q)|[link](articles/people/people-15.png)|[link](https://archive.vn/th1sL)|
 
 ### 新京报
 | 日期 | 标题 | 原始URL|截图|archive|
