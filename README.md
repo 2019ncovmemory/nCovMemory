@@ -12,8 +12,8 @@
 * [联系](#联系)
 * [媒体](#媒体)
   * [财新网](#财新网)
-  * [冰点周刊](#冰点周刊)
   * [人物](#人物)
+  * [冰点周刊](#冰点周刊)
   * [三联生活周刊](#三联生活周刊)
   * [GQ报道](#GQ报道)
   * [在人间living](#在人间living)
@@ -38,7 +38,7 @@
 请发送email至2019ncovmemory@gmail.com.
 
 ## 媒体
-### 财新网
+### 财新
 | 日期 | 标题 | 原始URL|截图|archive|
 |---|:----------:|:---:|-----|-----|
 |02-03|封面报道｜37位记者四万字全景调查：新冠病毒何以至此？（1）現場篇：武漢圍城|[link](http://weekly.caixin.com/2020-02-01/101510145.html)|[link](articles/caixin/caixin-1.png)|[link](https://web.archive.org/web/20200201160704/http://weekly.caixin.com/2020-02-01/101510145.html)|
@@ -57,6 +57,7 @@
 |01-31|肺炎日记｜1月31日：疾控、红会陷争议，防疫环节何处失守？|[link](http://www.caixin.com/2020-02-01/101510052.html)|[link](articles/caixin/caixin-14.png)|[link](https://web.archive.org/web/20200203104331/http://www.caixin.com/2020-02-01/101510052.html)|
 |02-01|肺炎日记｜2月1日：全国病例破万 社会力量参与抗疫呼声不止|[link](http://www.caixin.com/2020-02-02/101510545.html)|[link](articles/caixin/caixin-15.png)|[link](https://web.archive.org/web/20200203142833/http://www.caixin.com/2020-02-02/101510545.html)|
 |02-02|肺炎日记｜2月2日：力不从心红会“让路”，双黄连惹质疑|[link](http://www.caixin.com/2020-02-03/101510766.html)|[link](articles/caixin/caixin-16.png)|[link](https://web.archive.org/web/20200203104351/http://www.caixin.com/2020-02-03/101510766.html)|
+|02-03|肺炎日记｜2月3日：武汉大量疑似患者获收治 医疗措施是关键|[link](http://www.caixin.com/2020-02-04/101511212.html)|[link](articles/caixin/caixin-016a.png)|[link](https://web.archive.org/web/20200204085039/http://www.caixin.com/2020-02-04/101511212.html)|
 |01-22|记者手记｜野味成武汉肺炎元凶 你见过香港菜市场这么卖活物吗？|[link](http://www.caixin.com/2020-01-22/101507417.html)|[link](articles/caixin/caixin-17.png)|[link](https://web.archive.org/web/20200202210656/http://www.caixin.com/2020-01-22/101507417.html)|
 |01-23|解读｜武汉肺炎是如何确诊和发布的|[link](http://www.caixin.com/2020-01-23/101507556.html)|[link](articles/caixin/caixin-18.png)|[link](https://web.archive.org/web/20200202210707/http://www.caixin.com/2020-01-23/101507556.html)|
 |01-23|武汉百步亭“万家宴”过后 当地药店口罩脱销|[link](http://www.caixin.com/2020-01-23/101507508.html)|[link](articles/caixin/caixin-19.png)|[link](https://web.archive.org/web/20200202210722/http://www.caixin.com/2020-01-23/101507508.html)|
@@ -74,54 +75,9 @@
 |02-01|境内统筹不力境外遇阻 防疫物资为何这么难？|[link](http://www.caixin.com/2020-02-01/101510420.html)|[link](articles/caixin/caixin-31.png)|[link](https://web.archive.org/web/20200203160747/http://www.caixin.com/2020-02-01/101510420.html)|
 |02-02|抗新冠病毒“有效药”层出不穷 治疗效果如何证实？|[link](http://www.caixin.com/2020-02-02/101510543.html)|[link](articles/caixin/caixin-32.png)|[link](https://web.archive.org/web/20200203160811/http://www.caixin.com/2020-02-02/101510543.html)|
 |02-02|菲律宾出现境外首个新冠肺炎死亡病例 逝者为44岁武汉观光客|[link](http://www.caixin.com/2020-02-02/101510661.html)|[link](articles/caixin/caixin-33.png)|[link](https://web.archive.org/web/2020020316)|
+|02-03|应对节后返工潮 各地建设本地“小汤山”|[link](http://www.caixin.com/2020-02-03/101511195.html)|[link](articles/caixin/caixin-34.png)|[link](https://web.archive.org/web/20200204084038/http://www.caixin.com/2020-02-03/101511195.html)|
+|02-04|武汉疫情调查追踪：医护感染应受关注|[link](http://www.caixin.com/2020-02-04/101511377.html)|[link](articles/caixin/caixin-35.png)|[link](https://web.archive.org/web/20200204084331/http://www.caixin.com/2020-02-04/101511377.html)|
 
-<!---
-| 日期 | 标题 | 原始URL|截图|
-|---|:----------:|:---:|-----|
-|02-03 |封面报道｜37位记者四万字全景调查：新冠病毒何以至此？(1)现场篇：武汉围城|[link](http://weekly.caixin.com/2020-02-01/101510145.html)|[link](articles/caixin/caixin-1A.png) [link](articles/caixin/caixin-1B.png)|
-|02-03 |封面报道｜37位记者四万字全景调查：新冠病毒何以至此？(2)疑似病人难题：谁来关心“移动的传染源”|[link](http://weekly.caixin.com/2020-02-01/101510146.html)|[link](articles/caixin/caixin-2.png)|
-|02-03 |封面报道｜37位记者四万字全景调查：新冠病毒何以至此？(3)解毒篇：溯源新冠病毒|[link](http://weekly.caixin.com/2020-02-01/101510144.html)|[link](articles/caixin/caixin-3.png)|
-|02-03 |封面报道｜37位记者四万字全景调查：新冠病毒何以至此？(4)国际篇：全球共济|[link](http://weekly.caixin.com/2020-02-01/101510143.html)|[link](articles/caixin/caixin-4.png)|
-|02-01 |肺炎日记｜全国病例破万 社会力量参与抗疫呼声不止|[link](http://www.caixin.com/2020-02-02/101510545.html)|[link](articles/caixin/caixin-5.png)|
-|01-31 |肺炎日记｜疾控、红会陷争议，防疫环节何处失守？|[link](http://www.caixin.com/2020-02-01/101510052.html)|[link](articles/caixin/caixin-6.png)|
-|01-30 |肺炎日记｜“人传人”证据惹风波 重症患者救治难|[link](http://www.caixin.com/2020-01-31/101509652.html)|[link](articles/caixin/caixin-7.png)|
-|01-29 |肺炎日记｜北京警示疫情扩散 社区是防疫第二战场|[link](http://www.caixin.com/2020-01-29/101509414.html)|[link](articles/caixin/caixin-8.png)|
-|01-28 |肺炎日记｜疫情十天或达高峰 武汉周边难题待解|[link](http://www.caixin.com/2020-01-28/101509184.html)|[link](articles/caixin/caixin-9.png)|
-|01-27 |肺炎日记｜争夺抗疫窗口期，求解封堵战次生问题|[link](http://www.caixin.com/2020-01-27/101508881.html)|[link](articles/caixin/caixin-10.png)|
-|01-26 |肺炎日记｜研究揭开肺炎扩散冰山一角|[link](http://www.caixin.com/2020-01-26/101508615.html)|[link](articles/caixin/caixin-11.png)|
-|01-25 |肺炎日记｜抗疫全国总动员，物资困境如何解决？|[link](http://www.caixin.com/2020-01-25/101508394.html)|[link](articles/caixin/caixin-12.png)|
-|01-24 |肺炎日记｜除夕夜：医护人员一线奋战，外地队伍千里驰援|[link](http://www.caixin.com/2020-01-24/101508185.html)|[link](articles/caixin/caixin-13.png)|
-|01-23 |肺炎日记｜武汉全面“封城”，全力遏制疫情|[link](http://www.caixin.com/2020-01-23/101507939.html)|[link](articles/caixin/caixin-14.png)|
-|01-22 |记者手记｜野味成武汉肺炎元凶 你见过香港菜市场这么卖活物吗？|[link](http://www.caixin.com/2020-01-22/101507417.html)|[link](articles/caixin/caixin-17.png)|
-|01-23 |解读｜武汉肺炎是如何确诊和发布的 |[link](http://www.caixin.com/2020-01-23/101507556.html)|[link](articles/caixin/caixin-35.png)|
-|01-23 |武汉百步亭“万家宴”过后 当地药店口罩脱销|[link](http://www.caixin.com/2020-01-23/101507508.html)|[link](articles/caixin/caixin-18.png)|
-|01-24 |发热患者定点医院里的故事|[link](http://www.caixin.com/2020-01-24/101508140.html)|[link](articles/caixin/caixin-19.png)|
-|01-24 |汉口医院直击：何时不再一床难求|[link](http://www.caixin.com/2020-01-24/101508168.html)|[link](articles/caixin/caixin-20.png)|
-|01-26 |湖北抗击肺炎疫情这一周：防控措施如何升级 |[link](http://www.caixin.com/2020-01-26/101508442.html)|[link](articles/caixin/caixin-21.png)|
-|01-27 |抗击“武汉肺炎” 多险企为医护人员提供保险保障 |[link](http://www.caixin.com/2020-01-27/101508806.html)|[link](articles/caixin/caixin-22.png)|
-|01-28|超万名医生线上问诊 补充湖北医疗资源|[link](http://www.caixin.com/2020-01-28/101508924.html)|[link](articles/caixin/caixin-23.png)|
-|01-29|特写｜疫情重压下的武汉社区：老人高烧死在家里之后 |[link](http://www.caixin.com/2020-01-29/101509272.html)|[link](articles/caixin/caixin-24.png)|
-|01-30 |新春新知｜解药：新药和疫苗远水难救近火 专家吁政府长期投入|[link](http://www.caixin.com/2020-01-30/101509498.html)|[link](articles/caixin/caixin-25.png)|
-|01-31 |独家｜中国疾控中心高福、冯子健回应论文风波|[link](http://www.caixin.com/2020-01-31/101509841.html)|[link](articles/caixin/caixin-26.png)|
-|02-01 |交通管制重创湖北家禽养殖业 鸡蛋积压鸡苗难消化|[link](http://www.caixin.com/2020-02-01/101510167.html)|[link](articles/caixin/caixin-27.png)|
-|02-01 |武汉红会仓库直击：堆满物资，多家医院等数小时领到少许|[link](http://www.caixin.com/2020-02-01/101510494.html)|[link](articles/caixin/caixin-28.png)|
-|02-01 |民航包机接送海外滞留湖北籍旅客回国|[link](http://www.caixin.com/2020-02-01/101510403.html)|[link](articles/caixin/caixin-29.png)|
-|02-01 |境内统筹不力境外遇阻 防疫物资为何这么难？|[link](http://www.caixin.com/2020-02-01/101510420.html)|[link](articles/caixin/caixin-30.png)|
-|02-02 |抗新冠病毒“有效药”层出不穷 治疗效果如何证实？|[link](http://www.caixin.com/2020-02-02/101510543.html)|[link](articles/caixin/caixin-31.png)|
-|01-02 |菲律宾出现境外首个新冠肺炎死亡病例 逝者为44岁武汉观光客|[link](http://www.caixin.com/2020-02-02/101510661.html)|[link](articles/caixin/caixin-32.png)|
-|01-20 |武汉新型冠状病毒肺炎大事记（2019年12月—2020年1月20日|[link](http://www.caixin.com/2020-01-20/101506242.html)|[link](articles/caixin/caixin-33.png)|
-|01-21 |武汉新型冠状病毒肺炎大事记（2020年1月21日—今|[link](http://www.caixin.com/2020-01-21/101506971.html)|[link](articles/caixin/caixin-34A.png) [link](articles/caixin/caixin-34B.png) [link](articles/caixin/caixin-34C.png)|
---->
-<!---
-PAYWALL
-#|01-22 |肺炎日记｜疫情蔓延谣言飞起，攻坚战燃烽火|[link](http://www.caixin.com/2020-01-22/101507421.html)|[link](articles/caixin/caixin-15.png)|
-
-#|01-21 |春节健康特稿｜压床：ICU不能承受之重|[link](http://weekly.caixin.com/2019-01-19/101371897.html)|[link](articles/caixin/caixin-16.png)|
---->
-
-
-<!---|01-02 ||[link]()|[link](articles/caixin/caixin-.png)|
-## 财经杂志--->
 
 ### 人物
 | 日期 | 标题 | 原始URL|截图|archive|
@@ -369,48 +325,6 @@ PAYWALL
 |01-27|中国的传染病是怎样防控的|[link](https://mp.weixin.qq.com/s/J50k5jLWoOufSW27hjyd0g)|[link](articles/daxiang/daxiang-1.png)|[link](https://archive.vn/L8gWz)|
 |01-30|不要让华农兄弟成为查禁野味的受害者|[link](https://mp.weixin.qq.com/s/RKk1JopiBgiBlrhOdVr-4A)|[link](articles/daxiang/daxiang-2.png)|[link](https://archive.vn/KZDuI)|
 |02-01|中西医是怎么结合起来的|[link](https://mp.weixin.qq.com/s/QTKiV_jFc75JuTz3y0AIuA)|[link](articles/daxiang/daxiang-3.png)|[link](https://archive.vn/F6zH9)|
-
-
-
-### 财新2
-| 日期 | 标题 | 原始URL|截图|archive|
-|---|:----------:|:---:|-----|-----|
-|02-03|封面报道｜37位记者四万字全景调查：新冠病毒何以至此？（1）現場篇：武漢圍城|[link](http://weekly.caixin.com/2020-02-01/101510145.html)|[link](articles/caixin/caixin-1.png)|[link](https://web.archive.org/web/20200201160704/http://weekly.caixin.com/2020-02-01/101510145.html)|
-|02-03|封面报道｜37位记者四万字全景调查：新冠病毒何以至此？（2）疑似病人難題：誰來關心「移動的傳染源」|[link](http://weekly.caixin.com/2020-02-01/101510146.html)|[link](articles/caixin/caixin-2.png)|[link](https://web.archive.org/web/20200201160747/http://weekly.caixin.com/2020-02-01/101510146.html)|
-|02-03|封面报道｜37位记者四万字全景调查：新冠病毒何以至此？（3）解毒篇：溯源新冠病毒|[link](http://weekly.caixin.com/2020-02-01/101510144.html)|[link](articles/caixin/caixin-3.png)|[link](https://web.archive.org/web/20200201160819/http://weekly.caixin.com/2020-02-01/101510144.html)|
-|02-03|封面报道｜37位记者四万字全景调查：新冠病毒何以至此？（4）國際篇：全球共濟|[link](http://weekly.caixin.com/2020-02-01/101510143.html)|[link](articles/caixin/caixin-4.png)|[link](https://web.archive.org/web/20200201160849/http://weekly.caixin.com/2020-02-01/101510143.html)|
-|01-22|肺炎日记｜1月22日：疫情蔓延谣言飞起，攻坚战燃烽火|[link](http://www.caixin.com/2020-01-22/101507421.html)|[link](articles/caixin/caixin-5.png)|[link](https://web.archive.org/web/20200122214427/http://www.caixin.com/2020-01-22/101507421.html)|
-|01-23|肺炎日记 ｜ 1月23日：武汉全面“封城”，全力遏制疫情|[link](http://www.caixin.com/2020-01-23/101507939.html)|[link](articles/caixin/caixin-6.png)|[link](https://web.archive.org/web/20200203103504/http://www.caixin.com/2020-01-23/101507939.html)|
-|01-24|肺炎日记 ｜ 除夕夜：医护人员一线奋战，外地队伍千里驰援|[link](http://www.caixin.com/2020-01-24/101508185.html)|[link](articles/caixin/caixin-7.png)|[link](https://web.archive.org/web/20200203104203/http://www.caixin.com/2020-01-24/101508185.html)|
-|01-25|肺炎日记｜1月25日：抗疫全国总动员，物资困境如何解决？|[link](http://www.caixin.com/2020-01-25/101508394.html)|[link](articles/caixin/caixin-8.png)|[link](https://web.archive.org/web/20200203104205/http://www.caixin.com/2020-01-25/101508394.html)|
-|01-26|肺炎日记丨1月26日：研究揭开肺炎扩散冰山一角|[link](http://www.caixin.com/2020-01-26/101508615.html)|[link](articles/caixin/caixin-9.png)|[link](https://web.archive.org/web/20200203104225/http://www.caixin.com/2020-01-26/101508615.html)|
-|01-27|肺炎日记 ｜ 1月27日：争夺抗疫窗口期，求解封堵战次生问题|[link](http://www.caixin.com/2020-01-27/101508881.html)|[link](articles/caixin/caixin-10.png)|[link](https://web.archive.org/web/20200203104247/http://www.caixin.com/2020-01-27/101508881.html)|
-|01-28|肺炎日记 ｜ 1月28日：疫情十天或达高峰 武汉周边难题待解|[link](http://www.caixin.com/2020-01-28/101509184.html)|[link](articles/caixin/caixin-11.png)|[link](https://web.archive.org/web/20200203104306/http://www.caixin.com/2020-01-28/101509184.html)|
-|01-29|肺炎日记 ｜ 1月29日：北京警示疫情扩散 社区是防疫第二战场|[link](http://www.caixin.com/2020-01-29/101509414.html)|[link](articles/caixin/caixin-12.png)|[link](https://web.archive.org/web/20200203104308/http://www.caixin.com/2020-01-29/101509414.html)|
-|01-30|肺炎日记｜1月30日：“人传人”证据惹风波 重症患者救治难|[link](http://www.caixin.com/2020-01-31/101509652.html)|[link](articles/caixin/caixin-13.png)|[link](https://web.archive.org/web/20200203104330/http://www.caixin.com/2020-01-31/101509652.html)|
-|01-31|肺炎日记｜1月31日：疾控、红会陷争议，防疫环节何处失守？|[link](http://www.caixin.com/2020-02-01/101510052.html)|[link](articles/caixin/caixin-14.png)|[link](https://web.archive.org/web/20200203104331/http://www.caixin.com/2020-02-01/101510052.html)|
-|02-01|肺炎日记｜2月1日：全国病例破万 社会力量参与抗疫呼声不止|[link](http://www.caixin.com/2020-02-02/101510545.html)|[link](articles/caixin/caixin-15.png)|[link](https://web.archive.org/web/20200203142833/http://www.caixin.com/2020-02-02/101510545.html)|
-|02-02|肺炎日记｜2月2日：力不从心红会“让路”，双黄连惹质疑|[link](http://www.caixin.com/2020-02-03/101510766.html)|[link](articles/caixin/caixin-16.png)|[link](https://web.archive.org/web/20200203104351/http://www.caixin.com/2020-02-03/101510766.html)|
-|02-03|肺炎日记｜2月3日：武汉大量疑似患者获收治 医疗措施是关键|[link](http://www.caixin.com/2020-02-04/101511212.html)|[link](articles/caixin/caixin-016a.png)|[link](https://web.archive.org/web/20200204085039/http://www.caixin.com/2020-02-04/101511212.html)|
-|01-22|记者手记｜野味成武汉肺炎元凶 你见过香港菜市场这么卖活物吗？|[link](http://www.caixin.com/2020-01-22/101507417.html)|[link](articles/caixin/caixin-17.png)|[link](https://web.archive.org/web/20200202210656/http://www.caixin.com/2020-01-22/101507417.html)|
-|01-23|解读｜武汉肺炎是如何确诊和发布的|[link](http://www.caixin.com/2020-01-23/101507556.html)|[link](articles/caixin/caixin-18.png)|[link](https://web.archive.org/web/20200202210707/http://www.caixin.com/2020-01-23/101507556.html)|
-|01-23|武汉百步亭“万家宴”过后 当地药店口罩脱销|[link](http://www.caixin.com/2020-01-23/101507508.html)|[link](articles/caixin/caixin-19.png)|[link](https://web.archive.org/web/20200202210722/http://www.caixin.com/2020-01-23/101507508.html)|
-|01-24|发热患者定点医院里的故事|[link](http://www.caixin.com/2020-01-24/101508140.html)|[link](articles/caixin/caixin-20.png)|[link](https://web.archive.org/web/20200202210728/http://www.caixin.com/2020-01-24/101508140.html)|
-|01-24|汉口医院直击：何时不再一床难求|[link](http://www.caixin.com/2020-01-24/101508168.html)|[link](articles/caixin/caixin-21.png)|[link](https://web.archive.org/web/20200202210740/http://www.caixin.com/2020-01-24/101508168.html)|
-|01-26|湖北抗击肺炎疫情这一周：防控措施如何升级|[link](http://www.caixin.com/2020-01-26/101508442.html)|[link](articles/caixin/caixin-22.png)|[link](https://web.archive.org/web/20200202210743/http://www.caixin.com/2020-01-26/101508442.html)|
-|01-27|抗击“武汉肺炎” 多险企为医护人员提供保险保障|[link](http://www.caixin.com/2020-01-27/101508806.html)|[link](articles/caixin/caixin-23.png)|[link](https://web.archive.org/web/20200202210749/http://www.caixin.com/2020-01-27/101508806.html)|
-|01-28|超万名医生线上问诊 补充湖北医疗资源|[link](http://www.caixin.com/2020-01-28/101508924.html)|[link](articles/caixin/caixin-24.png)|[link](https://web.archive.org/web/20200202210802/http://www.caixin.com/2020-01-28/101508924.html)|
-|01-29|特写｜疫情重压下的武汉社区：老人高烧死在家里之后|[link](http://www.caixin.com/2020-01-29/101509272.html)|[link](articles/caixin/caixin-25.png)|[link](https://web.archive.org/web/20200202210808/http://www.caixin.com/2020-01-29/101509272.html)|
-|01-30|新春新知｜解药：新药和疫苗远水难救近火 专家吁政府长期投入|[link](http://www.caixin.com/2020-01-30/101509498.html)|[link](articles/caixin/caixin-26.png)|[link](https://web.archive.org/web/20200202210810/http://www.caixin.com/2020-01-30/101509498.html)|
-|01-31|独家｜中国疾控中心高福、冯子健回应论文风波|[link](http://www.caixin.com/2020-01-31/101509841.html)|[link](articles/caixin/caixin-27.png)|[link](https://web.archive.org/web/20200202210822/http://www.caixin.com/2020-01-31/101509841.html)|
-|02-01|交通管制重创湖北家禽养殖业  鸡蛋积压鸡苗难消化|[link](http://www.caixin.com/2020-02-01/101510167.html)|[link](articles/caixin/caixin-28.png)|[link](https://web.archive.org/web/20200202210829/http://www.caixin.com/2020-02-01/101510167.html)|
-|02-01|武汉红会仓库直击：堆满物资，多家医院等数小时领到少许|[link](http://www.caixin.com/2020-02-01/101510494.html)|[link](articles/caixin/caixin-29.png)|[link](https://web.archive.org/web/20200203160703/http://www.caixin.com/2020-02-01/101510494.html)|
-|02-01|民航包机接送海外滞留湖北籍旅客回国|[link](http://www.caixin.com/2020-02-01/101510403.html)|[link](articles/caixin/caixin-30.png)|[link](https://web.archive.org/web/20200203160726/http://www.caixin.com/2020-02-01/101510403.html)|
-|02-01|境内统筹不力境外遇阻 防疫物资为何这么难？|[link](http://www.caixin.com/2020-02-01/101510420.html)|[link](articles/caixin/caixin-31.png)|[link](https://web.archive.org/web/20200203160747/http://www.caixin.com/2020-02-01/101510420.html)|
-|02-02|抗新冠病毒“有效药”层出不穷 治疗效果如何证实？|[link](http://www.caixin.com/2020-02-02/101510543.html)|[link](articles/caixin/caixin-32.png)|[link](https://web.archive.org/web/20200203160811/http://www.caixin.com/2020-02-02/101510543.html)|
-|02-02|菲律宾出现境外首个新冠肺炎死亡病例 逝者为44岁武汉观光客|[link](http://www.caixin.com/2020-02-02/101510661.html)|[link](articles/caixin/caixin-33.png)|[link](https://web.archive.org/web/2020020316)|
-|02-03|应对节后返工潮 各地建设本地“小汤山”|[link](http://www.caixin.com/2020-02-03/101511195.html)|[link](articles/caixin/caixin-34.png)|[link](https://web.archive.org/web/20200204084038/http://www.caixin.com/2020-02-03/101511195.html)|
-|02-04|武汉疫情调查追踪：医护感染应受关注|[link](http://www.caixin.com/2020-02-04/101511377.html)|[link](articles/caixin/caixin-35.png)|[link](https://web.archive.org/web/20200204084331/http://www.caixin.com/2020-02-04/101511377.html)|
 
 
 
