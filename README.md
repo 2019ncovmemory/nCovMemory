@@ -268,6 +268,7 @@ PAYWALL
 |02-01|新冠病毒出现多例“两阴后变阳”病例，专家称临床不应轻易排除|[link](https://mp.weixin.qq.com/s/ROO6IRPYUHHnJzHnCR88sQ)|[link](articles/beiqing/beiqing-9.png)|[link](https://archive.ph/HF5xY)|
 |02-02|一个武汉红十字会志愿者的自述|[link](https://mp.weixin.qq.com/s/f-5AC4hP2M06Va48CsLRxQ)|[link](articles/beiqing/beiqing-10.png)|[link](https://archive.ph/fc7Td)|
 |02-03|一个高铁密切接触者的“自白”：他就坐在我旁边，没摘过口罩|[link](https://mp.weixin.qq.com/s/emor4QFaVJCKDLitIQcPsw)|[link](articles/beiqing/beiqing-11.png)|[link](https://archive.vn/pyT50)|
+|02-04|武汉早期感染最重医生：出ICU还要很长康复期，目前呼吸仍困难|[link](https://mp.weixin.qq.com/s/KmyIc8SZIYCWZuUSU2cmRg)|[link](articles/beiqing/beiqing-12.png)|[link](http://archive.is/wDwnn)|
 
 
 ### 南方周末
