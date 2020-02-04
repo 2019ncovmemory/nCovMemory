@@ -49,9 +49,9 @@
 ## 联系
 请发送email至2019ncovmemory@gmail.com.
 
-## 媒体
+## 传媒报道与非虚构写作
 ### 财新网
-| 日期 | 标题 | 原始URL|截图|archive|
+| 日期 | 标题 | 原始URL|截图|archive|
 |---|:----------:|:---:|-----|-----|
 |02-03|封面报道｜37位记者四万字全景调查：新冠病毒何以至此？（1）现场篇：武汉围城|[link](http://weekly.caixin.com/2020-02-01/101510145.html)|[link](articles/caixin/caixin-1.png)|[link](https://web.archive.org/web/20200201160704/http://weekly.caixin.com/2020-02-01/101510145.html)|
 |02-03|封面报道｜37位记者四万字全景调查：新冠病毒何以至此？（2）疑似病人难题：谁来关心“移动的传染源”|[link](http://weekly.caixin.com/2020-02-01/101510146.html)|[link](articles/caixin/caixin-2.png)|[link](https://web.archive.org/web/20200201160747/http://weekly.caixin.com/2020-02-01/101510146.html)|
@@ -92,7 +92,7 @@
 
 
 ### 人物
-| 日期 | 标题 | 原始URL|截图|archive|
+| 日期 | 标题 | 原始URL|截图|archive|
 |---|:----------:|:---:|-----|-----|
 |01-24|试剂盒供不应求，武汉新型冠状病毒肺炎确诊之难|[link](https://mp.weixin.qq.com/s/Jazc0sbrp8ozVScWm3ksfQ)|[link](articles/renwu/renwu-1.png)|[link](https://archive.is/D4Ct9)|
 |01-25|除夕夜，他们在武汉|[link](https://mp.weixin.qq.com/s/ibJV7JcZ3S_O5zIGbIxxWw)|[link](articles/renwu/renwu-2.png)|[link](https://archive.ph/ZnUOw)|
@@ -114,7 +114,7 @@
 |02-04|武汉一线送奶工：我们只能相互依靠|[link](https://mp.weixin.qq.com/s/5HgREEYkLH91Yq04FrPvjg)|[link](articles/renwu-renwu-18.png)|[link](http://archive.is/LSIYq)
 
 ### 冰点周刊
-| 日期 | 标题 | 原始URL|截图|archive|
+| 日期 | 标题 | 原始URL|截图|archive|
 |---|:----------:|:---:|-----|-----|
 |01-22|新型肺炎疫情防控下的武汉生活|[link](https://mp.weixin.qq.com/s/cg4qHhta8nLx93PDaW1dHQ)|[link](articles/bingdian/bingdian-1.png)|[link](https://archive.ph/KijR8)|
 |01-23|肺炎疫情中的人們|[link](https://mp.weixin.qq.com/s/kUY_Sr3s52pn4jfs8RK60A)|[link](articles/bingdian/bingdian-2.png)|[link](https://archive.ph/IltEn)|
@@ -129,7 +129,7 @@
 |02-03|他感染了，可仍在网上给患者看病|[link](https://mp.weixin.qq.com/s/X024ciV2BPayaLabwHoo5w)|[link](articles/bingdian/bingdian-11.png)|[link](https://archive.vn/HThCt)|
 
 ### 三联生活周刊
-| 日期 | 标题 | 原始URL|截图|archive|
+| 日期 | 标题 | 原始URL|截图|archive|
 |---|:----------:|:---:|-----|-----|
 |01-22|武汉新型肺炎：为何直到今天才引起更大注意？|[link](https://mp.weixin.qq.com/s/xuf8nn1OPOY51cyZMduQ-Q)|[link](articles/sanlian/sanlian-1.png)|[link](https://archive.ph/Dm0pv)|
 |01-23|武汉肺炎一线医生口述：大爆发期或将到来|[link](https://mp.weixin.qq.com/s?__biz=MTc5MTU3NTYyMQ==&mid=2650709421&idx=1&sn=b643a6cbe426320e5a64bcbbacbd3bb2&chksm=5afc8c876d8b059163ff43a650baea29857c1d8cb71010513e24de31c629f01e2e79a2261d32&scene=126&sessionid=1580366836&key=1f3bd73ca2cb19584342f3aa2370c04e7fc6f8e4f82ed6048fa2d6135a7ab3ff22ce7a8f3d9e22056bd52e1bf0de7d462a9aa8995cd08a545868ae7c407c23063ed8b7b044c11ffac1a7c18420ed9177&ascene=1&uin=MTE4NzU2NTYyOQ%3D%3D&devicetype=Windows+10&version=6208006f&lang=zh_CN&exportkey=AyFz3BtC8iCrYiPrNcKDwho%3D&pass_ticket=i9btyJOnbdJyPOU5NMCl5joL3LW7wnzSU%2FfpPiBYy%2Fuz50mYZm6MO38z1f3hfOZP)|[link](articles/sanlian/sanlian-2.png)|[link](http://archive.is/49ZPr)|
@@ -157,7 +157,7 @@
 |02-04|现场：火神山开通：病床该留给谁？|[link](https://mp.weixin.qq.com/s/07-eyh4PxUtXf2F_WHpApQ)|[link](articles/sanlian/sanlian-24.png)|[link](https://web.archive.org/web/20200204055934/https://mp.weixin.qq.com/s/07-eyh4PxUtXf2F_WHpApQ)|
 
 ### GQ报道
-| 日期 | 标题 | 原始URL|截图|archive|
+| 日期 | 标题 | 原始URL|截图|archive|
 |---|:----------:|:---:|-----|-----|
 |01-27|10000个临时发往武汉的口罩|[link](https://mp.weixin.qq.com/s/p-uPky_zB6XKcAetthqkKg)|[link](articles/gq/gq-1.png)|[link](https://archive.ph/9s1ug)|
 |01-28|我家离华南海鲜市场很近：返乡、封城、过年，一位武汉大学生的过去一周|[link](https://mp.weixin.qq.com/s/n7dXGHh-79d6VEzDhhOUbQ)|[link](articles/gq/gq-2.png)|[link](https://archive.ph/RSmFx)|
@@ -172,7 +172,7 @@
 |02-03|疫情中的武汉孕妇：我想活命，我的孩子也是|[link](https://mp.weixin.qq.com/s/-RADC529RPq099XE6-kwyw)|[link](articles/gq/gq-11.png)|[link](https://archive.vn/HMvOi)|
 
 ### 在人间living
-| 日期 | 标题 | 原始URL|截图|archive|
+| 日期 | 标题 | 原始URL|截图|archive|
 |---|:----------:|:---:|-----|-----|
 |01-26|武汉的除夕夜，我一个人在家自行观察|[link](https://mp.weixin.qq.com/s/U4IrYQcPc6G-ce9X5eRE_g)|[link](articles/living/living-1.png)|[link](https://archive.ph/EmrjV)|
 |01-27|父亲双肺感染严重，然而一床难求|[link](https://mp.weixin.qq.com/s/_jOl6mDa-BzCknUwGLaj3Q)|[link](articles/living/living-2.png)|[link](https://archive.ph/DxXxE)|
@@ -185,7 +185,7 @@
 |02-03|我在电话这头，试图帮武汉人平复“被现实打蒙的感觉”|[link](https://mp.weixin.qq.com/s/Wt0wXiHClJvkO6-ksxZ1hQ)|[link](articles/living/living-9.png)|[link](https://archive.ph/ihIGd)|
 
 ### 剥洋葱people
-| 日期 | 标题 | 原始URL|截图|archive|
+| 日期 | 标题 | 原始URL|截图|archive|
 |---|:----------:|:---:|-----|-----|
 |01-20|直击肺炎疫情下的武汉、北京、香港|[link](https://mp.weixin.qq.com/s/g0yMaWd6JbkSp2t79wjh7A)|[link](articles/people/people-1.png)|[link](https://archive.ph/BLmAC)|
 |01-21|聚焦武汉肺炎疫情：“大众畜牧野味”确实存在，市场休市后才闭店|[link](https://mp.weixin.qq.com/s/6CPkhUWzM6f2NxP8rMWNUQ)|[link](articles/people/people-2.png)|[link](https://archive.ph/F71nd)|
@@ -204,7 +204,7 @@
 |02-03|“战友变患者”的武汉医生：我们怕了、退了，武汉怎么办？|[link](https://mp.weixin.qq.com/s/SE6RSOF68h6jUrWZ5SUp6Q)|[link](articles/people/people-15.png)|[link](https://archive.vn/th1sL)|
 
 ### 新京报
-| 日期 | 标题 | 原始URL|截图|archive|
+| 日期 | 标题 | 原始URL|截图|archive|
 |---|:----------:|:---:|-----|-----|
 |01-22|失控的野味|[link](https://mp.weixin.qq.com/s/3Cxd9SKzxIxZIOKp6uz-VQ)|[link](articles/xinjing/xinjing-1.png)|[link](https://archive.ph/efM1D)|
 |01-22|暴风眼中的武汉|[link](https://mp.weixin.qq.com/s/W0sY-XHFBcp382BKWSi90w)|[link](articles/xinjing/xinjing-2.png)|[link](https://archive.ph/r67e0)|
@@ -226,7 +226,7 @@
 |02-02|疫情之下，守护武汉的面孔|[link](https://mp.weixin.qq.com/s/eY6JN2OlexP9LyU7JxwTlg)|[link](articles/xinjing/xinjing-18.png)|[link](https://archive.ph/08oKB)|
 
 ### 北青深一度
-| 日期 | 标题 | 原始URL|截图|archive|
+| 日期 | 标题 | 原始URL|截图|archive|
 |---|:----------:|:---:|-----|-----|
 |01-21|一个武汉肺炎康复患者的样本观察：我与新型冠状病毒搏斗的22天|[link](https://mp.weixin.qq.com/s/Ps5lUon8LMCxLrPGwqKjMg)|[link](articles/beiqing/beiqing-1.png)|[link](https://archive.ph/cMxZj)|
 |01-23|抗击新型冠状病毒的基层医院：发热门诊排长队，防疫物资现短缺，送检需有疫区接触史|[link](https://mp.weixin.qq.com/s/f-mER12NzQPQBjVlXgpUYA)|[link](articles/beiqing/beiqing-2.png)|[link](https://archive.ph/pwuCZ)|
@@ -245,7 +245,7 @@
 ### 南方周末
 包括南方人物周刊。
 
-| 日期 | 标题 | 原始URL|截图|archive|
+| 日期 | 标题 | 原始URL|截图|archive|
 |---|:----------:|:---:|-----|-----|
 |01-24|口罩每天产800万只，厂商疯狂加班生产|[link](https://mp.weixin.qq.com/s/pLJOk_83sCkqnyL9_nI6zA)|[link](articles/nanfang/nanfang-1.png)|[link](https://archive.vn/MmWNO)|
 |01-24|武汉试剂代理商口述：我所知道的新型肺炎确诊盒供应现状|[link](https://mp.weixin.qq.com/s/qoukJCLyFhUamB0GetOhLw)|[link](articles/nanfang/nanfang-2.png)|[link](https://archive.vn/AAWBP)|
@@ -286,7 +286,7 @@
 
 
 ### 南都周刊
-| 日期 | 标题 | 原始URL|截图|archive|
+| 日期 | 标题 | 原始URL|截图|archive|
 |---|:----------:|:---:|-----|-----|
 |01-25|疫情风暴眼中的武汉居民生活|[link](https://mp.weixin.qq.com/s/kwBENUa9-Y8YRU5AfUEp2Q)|[link](articles/nandu/nandu-1.png)|[link](https://archive.vn/m7eQB)|
 |01-25|医护人员住宿需求大，逾235家武汉酒店自发免费接待医护工作者|[link](https://mp.weixin.qq.com/s/1VnblN_kMRVXqq-duvdqpg)|[link](articles/nandu/nandu-2.png)|[link](https://archive.vn/0BTtk)|
@@ -305,7 +305,7 @@
 
 
 ### 财经杂志
-| 日期 | 标题 | 原始URL|截图|archive|
+| 日期 | 标题 | 原始URL|截图|archive|
 |---|:----------:|:---:|-----|-----|
 |01-22|“我丈夫感染了新型冠状病毒，治愈了”|[link](https://mp.weixin.qq.com/s/zy0Pj-9CGT5rDC3j5ULnJg)|[link](articles/caijing/caijing-1.png)|[link](https://archive.vn/KBIin)|
 |01-23|口罩告急！武汉医生每日发愁防护物资短缺|[link](https://mp.weixin.qq.com/s/OG_c3iE4WB3AMpFgKcu4pQ)|[link](articles/caijing/caijing-2.png)|[link](https://archive.vn/Xqnu3)|
@@ -334,7 +334,7 @@
 |02-04|黄冈确诊病例过千，市长称防控不力，曾一天问责135人|[link](https://mp.weixin.qq.com/s/n4kJ5PKBUhTGoYko-6jPaw)|[link](articles/caijing/caijing-25.png)|[link](http://archive.ph/jtDNI)|
 
 ### 大象公会
-| 日期 | 标题 | 原始URL|截图|archive|
+| 日期 | 标题 | 原始URL|截图|archive|
 |---|:----------:|:---:|-----|-----|
 |01-27|中国的传染病是怎样防控的|[link](https://mp.weixin.qq.com/s/J50k5jLWoOufSW27hjyd0g)|[link](articles/daxiang/daxiang-1.png)|[link](https://archive.vn/L8gWz)|
 |01-30|不要让华农兄弟成为查禁野味的受害者|[link](https://mp.weixin.qq.com/s/RKk1JopiBgiBlrhOdVr-4A)|[link](articles/daxiang/daxiang-2.png)|[link](https://archive.vn/KZDuI)|
@@ -343,14 +343,14 @@
 
 
 ### 潇湘晨报
-| 日期 | 标题 | 原始URL|截图|archive|
+| 日期 | 标题 | 原始URL|截图|archive|
 |---|:----------:|:---:|-----|-----|
 |01-27|武汉ICU主任万字口述：我们收治了一个“毒王”|[link](https://search.weixin.qq.com/k/RFNWW1VCblVdR11TRlJabEBYRE5eakdWVF4ILytQb1RZXFRFUlNZUENuW11D?pass_ticket=i9EmKalhIaqaaPkOM1sWZrTjB8UFXa%2F6nyfmsWSYniOYdcl3u5l%2FkPmV%2FTaC95ty)|[link](articles/xiaoxiang/xiaoxiang-1.png)|[link](https://archive.ph/6My8c)|
 
 
 
 ### 故事FM
-| 日期 | 标题 | 原始URL|截图|archive|
+| 日期 | 标题 | 原始URL|截图|archive|
 |---|:----------:|:---:|-----|-----|
 |01-26|五个武汉人的封城日记|[link](https://mp.weixin.qq.com/s/0CfHc9OqmP9rNGIaznnoHQ)|[link](articles/gushi/gushi-1.png)|[link](https://archive.vn/G9eIQ)|
 |02-02|武汉医生工作见闻：下了班，我还得帮科室抢物资|[link](https://mp.weixin.qq.com/s/GMtH8mWqfYe8HGnlakTdug)|[link](articles/gushi/gushi-2.png)|[link](http://archive.ph/8FI2F)|
@@ -359,7 +359,7 @@
 
 
 ### 女孩别怕
-| 日期 | 标题 | 原始URL|截图|archive|
+| 日期 | 标题 | 原始URL|截图|archive|
 |---|:----------:|:---:|-----|-----|
 |01-27|确诊两天后去世，但官方没有他的名字：六个湖北女孩的封城日记|[link](https://mp.weixin.qq.com/s/bdMSA_DDTYkZhUout2KauQ)|[link](articles/nvhai/nvhai-1.png)|[link](https://archive.vn/OF4n5)|
 |01-30|疫情下的海外华人：孤立、恐慌、种族歧视和鼓励|[link](https://mp.weixin.qq.com/s/-Z0FwcTUQezsdoUAArhWMA)|[link](articles/nvhai/nvhai-2.png)|[link](https://archive.vn/yvdyW)|
@@ -369,7 +369,7 @@
 
 
 ### 大米和小米
-| 日期 | 标题 | 原始URL|截图|archive|
+| 日期 | 标题 | 原始URL|截图|archive|
 |---|:----------:|:---:|-----|-----|
 |01-29|家人疑似新冠肺炎被隔离，湖北17岁脑瘫儿独自在家6天后死亡|[link](https://mp.weixin.qq.com/s?__biz=MzA4NDgzMjk3Ng==&mid=2650799792&idx=1&sn=58d76d718bb86c4cd94769127aa33c90&chksm=87ea790fb09df019eb55a333f551dea838b2f9b7cc6d19d47b4661111e5af59fd6f3cd24280b&scene=126&sessionid=1580532221&key=008658d21f0cfb819412c46f0f67f616ebee8d3cea0c0dce9efc0b9cf81559964c13d61a1c545bc91503ad62829ba22e3863d969fbce51539e1c3aadeec68b1ae3847deed91d94be901d85e2e123d739&ascene=1&uin=MTE4NzU2NTYyOQ%3D%3D&devicetype=Windows+10&version=6208006f&lang=zh_CN&exportkey=A0r%2FFcOfI%2B%2BZoc9YHSy5ShE%3D&pass_ticket=MyOZVmDvzUptdoALL%2BSN9RRALdIcJwET%2BGt1a8OxjSTfIomR188qf6TCxSM0pD0K)|[link](articles/dami/dami-1.png)|[link](https://archive.vn/n4odp)|
 |01-31|湖北17岁脑瘫儿死亡前一天，父亲多次拨打120和110求助无果|[link](https://mp.weixin.qq.com/s/_kgcFgzKW_tPNuzXlLVllg)|[link](articles/dami/dami-2.png)|[link](https://archive.vn/mJdmX)|
@@ -377,13 +377,21 @@
 
 
 ### 一条
-| 日期 | 标题 | 原始URL|截图|archive|
+| 日期 | 标题 | 原始URL|截图|archive|
 |---|:----------:|:---:|-----|-----|
 |01-29|媒体不死！武汉一线记者口述实录|[link](https://mp.weixin.qq.com/s/zvYFAwO3mTm50HS8RA_PpQ)|[link](articles/yitiao/yitiao-1.png)|[link](https://archive.vn/KhdKV)|
 
 
 
 ### 轮到你了
-| 日期 | 标题 | 原始URL|截图|archive|
+| 日期 | 标题 | 原始URL|截图|archive|
 |---|:----------:|:---:|-----|-----|
 |01-30|有谁想去武汉？我们7个摄影记者全部报了名：武汉一线摄影师专访|[link](https://mp.weixin.qq.com/s/nZecHSVTjFMqk0qCKhvc5w)|[link](articles/lundao/lundao-1.png)|[link](https://archive.vn/W5SXB)|
+
+亲历者叙述](#亲历者叙述)
+  * [系列：疫区日记](#疫区日记)
+  
+## 亲历者叙述
+### 疫区日记
+| 日期 | 标题 | 原始URL|截图|archive|
+|---|:----------:|:---:|-----|-----|
