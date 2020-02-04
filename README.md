@@ -24,7 +24,9 @@
   * [南都周刊](#南都周刊)
   * [财经杂志](#财经杂志)
   * [大象公会](#大象公会)
+  * [潇湘晨报](#潇湘晨报)
   * [故事FM](#故事FM)
+  * [女孩别怕](#女孩别怕)
 
 ## 介绍
 此处收集内地各类传媒发布（原创或转载）的有关新型冠状病毒感染的肺炎(2019-nCoV)的深度报道和非虚构作品，并将持续更新。
@@ -328,9 +330,26 @@
 
 
 
+### 潇湘晨报
+| 日期 | 标题 | 原始URL|截图|archive|
+|---|:----------:|:---:|-----|-----|
+|01-27|武汉ICU主任万字口述：我们收治了一个“毒王”|[link](https://search.weixin.qq.com/k/RFNWW1VCblVdR11TRlJabEBYRE5eakdWVF4ILytQb1RZXFRFUlNZUENuW11D?pass_ticket=i9EmKalhIaqaaPkOM1sWZrTjB8UFXa%2F6nyfmsWSYniOYdcl3u5l%2FkPmV%2FTaC95ty)|[link](articles/xiaoxiang/xiaoxiang-1.png)|[link](https://archive.ph/6My8c)|
+
+
+
 ### 故事FM
 | 日期 | 标题 | 原始URL|截图|archive|
 |---|:----------:|:---:|-----|-----|
 |01-26|五个武汉人的封城日记|[link](https://mp.weixin.qq.com/s/0CfHc9OqmP9rNGIaznnoHQ)|[link](articles/gushi/gushi-1.png)|[link](https://archive.vn/G9eIQ)|
 |02-02|武汉医生工作见闻：下了班，我还得帮科室抢物资|[link](https://mp.weixin.qq.com/s/GMtH8mWqfYe8HGnlakTdug)|[link](articles/gushi/gushi-2.png)|[link](http://archive.ph/8FI2F)|
 |02-03|三个武汉人的外地隔离日记|[link](https://mp.weixin.qq.com/s/4p4rD_V9W5HblfkAChSwVg)|[link](articles/gushi/gushi-3.png)|[link](http://archive.ph/Ye6VJ)|
+
+
+
+### 女孩别怕
+| 日期 | 标题 | 原始URL|截图|archive|
+|---|:----------:|:---:|-----|-----|
+|01-27|确诊两天后去世，但官方没有他的名字：六个湖北女孩的封城日记|[link](https://mp.weixin.qq.com/s/bdMSA_DDTYkZhUout2KauQ)|[link](articles/nvhai/nvhai-1.png)|[link](https://archive.vn/OF4n5)|
+|01-30|疫情下的海外华人：孤立、恐慌、种族歧视和鼓励|[link](https://mp.weixin.qq.com/s/-Z0FwcTUQezsdoUAArhWMA)|[link](articles/nvhai/nvhai-2.png)|[link](https://archive.vn/yvdyW)|
+|01-31|外国人眼里的疫情中国：唱国歌，喝蝙蝠汤和只相信政府的中国人|[link](https://mp.weixin.qq.com/s/qF9UYXx0q-tDTJ9AJDaaaw)|[link](articles/nvhai/nvhai-3.png)|[link](https://archive.vn/zxSzD)|
+|02-03|我的「抗疫」日记：濒临死亡时，我给家人留了告别视频|[link](https://mp.weixin.qq.com/s/gmj0YbodxxTTmxVBdmU7WQ)|[link](articles/nvhai/nvhai-4.png)|[link](http://archive.ph/RgCQt)|
