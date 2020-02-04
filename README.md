@@ -103,6 +103,8 @@
 |02-02|​我在金银潭重症监护室|[link](https://mp.weixin.qq.com/s/yvdG6Svo6m71118C3ASpvQ)|[link](articles/renwu/renwu-14.png)|[link](https://archive.vn/H6xQB)|
 |02-03|那些储备的医用物资都去了哪儿|[link](https://mp.weixin.qq.com/s/Vqi5j05wgNy83Nwnn61Ywg)|[link](articles/renwu/renwu-15.png)|[link](https://archive.vn/K592l)|
 |02-03|穿梭在疫区的摆渡人：武汉的每个人都在努力|[link](https://mp.weixin.qq.com/s/53pDJgSyEkm4DJtQ75zm0w)|[link](articles/renwu/renwu-16.png)|[link](https://archive.ph/TfQpz)|
+|02-04|关于火神山医院的七个细节|[link](https://mp.weixin.qq.com/s/g0gn0kmT0k5_8cozb1IMTg)|[link](articles/renwu-renwu-17.png)|[link](http://archive.is/AxVEq)
+|02-04|武汉一线送奶工：我们只能相互依靠|[link](https://mp.weixin.qq.com/s/5HgREEYkLH91Yq04FrPvjg)|[link](articles/renwu-renwu-18.png)|[link](http://archive.is/LSIYq)
 
 ### 冰点周刊
 | 日期 | 标题 | 原始URL|截图|archive|
