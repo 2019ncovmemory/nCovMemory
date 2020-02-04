@@ -27,6 +27,7 @@
   * [潇湘晨报](#潇湘晨报)
   * [故事FM](#故事FM)
   * [女孩别怕](#女孩别怕)
+  * [大米和小米](#大米和小米)
 
 ## 介绍
 此处收集内地各类传媒发布（原创或转载）的有关新型冠状病毒感染的肺炎(2019-nCoV)的深度报道和非虚构作品，并将持续更新。
@@ -40,7 +41,7 @@
 请发送email至2019ncovmemory@gmail.com.
 
 ## 媒体
-### 财新
+### 财新网
 | 日期 | 标题 | 原始URL|截图|archive|
 |---|:----------:|:---:|-----|-----|
 |02-03|封面报道｜37位记者四万字全景调查：新冠病毒何以至此？（1）现场篇：武汉围城|[link](http://weekly.caixin.com/2020-02-01/101510145.html)|[link](articles/caixin/caixin-1.png)|[link](https://web.archive.org/web/20200201160704/http://weekly.caixin.com/2020-02-01/101510145.html)|
@@ -353,3 +354,11 @@
 |01-30|疫情下的海外华人：孤立、恐慌、种族歧视和鼓励|[link](https://mp.weixin.qq.com/s/-Z0FwcTUQezsdoUAArhWMA)|[link](articles/nvhai/nvhai-2.png)|[link](https://archive.vn/yvdyW)|
 |01-31|外国人眼里的疫情中国：唱国歌，喝蝙蝠汤和只相信政府的中国人|[link](https://mp.weixin.qq.com/s/qF9UYXx0q-tDTJ9AJDaaaw)|[link](articles/nvhai/nvhai-3.png)|[link](https://archive.vn/zxSzD)|
 |02-03|我的「抗疫」日记：濒临死亡时，我给家人留了告别视频|[link](https://mp.weixin.qq.com/s/gmj0YbodxxTTmxVBdmU7WQ)|[link](articles/nvhai/nvhai-4.png)|[link](http://archive.ph/RgCQt)|
+
+
+
+### 大米和小米
+| 日期 | 标题 | 原始URL|截图|archive|
+|---|:----------:|:---:|-----|-----|
+|01-29|家人疑似新冠肺炎被隔离，湖北17岁脑瘫儿独自在家6天后死亡|[link](https://mp.weixin.qq.com/s?__biz=MzA4NDgzMjk3Ng==&mid=2650799792&idx=1&sn=58d76d718bb86c4cd94769127aa33c90&chksm=87ea790fb09df019eb55a333f551dea838b2f9b7cc6d19d47b4661111e5af59fd6f3cd24280b&scene=126&sessionid=1580532221&key=008658d21f0cfb819412c46f0f67f616ebee8d3cea0c0dce9efc0b9cf81559964c13d61a1c545bc91503ad62829ba22e3863d969fbce51539e1c3aadeec68b1ae3847deed91d94be901d85e2e123d739&ascene=1&uin=MTE4NzU2NTYyOQ%3D%3D&devicetype=Windows+10&version=6208006f&lang=zh_CN&exportkey=A0r%2FFcOfI%2B%2BZoc9YHSy5ShE%3D&pass_ticket=MyOZVmDvzUptdoALL%2BSN9RRALdIcJwET%2BGt1a8OxjSTfIomR188qf6TCxSM0pD0K)|[link](articles/dami/dami-1.png)|[link](https://archive.vn/n4odpQ)|
+|01-31|湖北17岁脑瘫儿死亡前一天，父亲多次拨打120和110求助无果|[link](https://mp.weixin.qq.com/s/_kgcFgzKW_tPNuzXlLVllg)|[link](articles/dami/dami-2.png)|[link](https://archive.vn/mJdmX)|
