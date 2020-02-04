@@ -23,6 +23,7 @@
   * [南方周末](#南方周末)
   * [南都周刊](#南都周刊)
   * [财经杂志](#财经杂志)
+  * [經濟觀察報](#經濟觀察報)
   * [大象公会](#大象公会)
   * [潇湘晨报](#潇湘晨报)
   * [故事FM](#故事FM)
@@ -332,6 +333,17 @@
 |02-02|双黄连口服液能治新冠肺炎？一场闹剧|[link](https://mp.weixin.qq.com/s/rGMgkgyFifOqKvCd7pkqFA)|[link](articles/caijing/caijing-23.png)|[link](https://archive.vn/6D5kz)|
 |02-03|经历两次疫情考验，这位小企业主宁追债求生也不裁员|[link](https://mp.weixin.qq.com/s/TK-QvWOiiYkCKNdOUtUYsg)|[link](articles/caijing/caijing-24.png)|[link](http://archive.ph/nc4Yv)|
 |02-04|黄冈确诊病例过千，市长称防控不力，曾一天问责135人|[link](https://mp.weixin.qq.com/s/n4kJ5PKBUhTGoYko-6jPaw)|[link](articles/caijing/caijing-25.png)|[link](http://archive.ph/jtDNI)|
+
+
+
+### 經濟觀察報
+| 日期 | 标题 | 原始URL|截图|archive|
+|---|:----------:|:---:|-----|-----|
+|01-31|武汉同济医院一线医生口述：每天面对死亡，紧张但不恐惧——专访武汉同济医院心内科医生赵金召|[link]( http://www.eeo.com.cn/2020/0131/375299.shtml)|[link](articles/jingji/jingji-1.png)|[link](https://web.archive.org/web/20200201125743/http://www.eeo.com.cn/2020/0131/375299.shtml)|
+|01-31|肺炎疫情下的武汉高考生：节前紧急停课 节后教师排班在线授课 鼓励自主学习|[link](http://www.eeo.com.cn/2020/0131/375283.shtml)|[link](articles/jingji/jingji-2.png)|[link](https://web.archive.org/web/20200201154707/http://www.eeo.com.cn/2020/0131/375283.shtml)|
+
+
+
 
 ### 大象公会
 | 日期 | 标题 | 原始URL|截图|archive|
