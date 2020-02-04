@@ -141,7 +141,6 @@ PAYWALL
 |02-02|​我在金银潭重症监护室|[link](https://mp.weixin.qq.com/s/yvdG6Svo6m71118C3ASpvQ)|[link](articles/renwu/renwu-14.png)|[link](https://archive.vn/H6xQB)|
 |02-03|那些储备的医用物资都去了哪儿|[link](https://mp.weixin.qq.com/s/Vqi5j05wgNy83Nwnn61Ywg)|[link](articles/renwu/renwu-15.png)|[link](https://archive.vn/K592l)|
 |02-03|穿梭在疫区的摆渡人：武汉的每个人都在努力|[link](https://mp.weixin.qq.com/s/53pDJgSyEkm4DJtQ75zm0w)|[link](articles/renwu/renwu-16.png)|[link](https://archive.ph/TfQpz)|
-|02-04| 关于火神山医院的七个细节|[link](https://mp.weixin.qq.com/s/g0gn0kmT0k5_8cozb1IMTg)|[link](articles/renwu/renwu-17.png)|[link](http://archive.is/dQTlm)|
 
 ### 冰点
 | 日期 | 标题 | 原始URL|截图|archive|
@@ -184,7 +183,7 @@ PAYWALL
 |02-03|武汉动物园求助：鹈鹕的命也是命|[link](https://mp.weixin.qq.com/s/dGESQDDUDGqOB2bmbwUsgg)|[link](articles/sanlian/sanlian-21.png)|[link](https://archive.vn/XdI9a)|
 |02-03|口罩产能全球过半，为何还是“一罩难求”？|[link](https://mp.weixin.qq.com/s/k_8VwKZRbrj5KZOqATrgdA)|[link](articles/sanlian/sanlian-22.png)|[link](https://archive.vn/9vdIG)|
 |02-03|疫情下，尿毒症患者的艰难“透析”路|[link](https://mp.weixin.qq.com/s/viZO891XMPtERGJmM-7Cow)|[link](articles/sanlian/sanlian-23.png)|[link](https://archive.vn/XJdwH)|
-
+|02-04|现场 |火神山开通：病床该留给谁？|[link](https://mp.weixin.qq.com/s/07-eyh4PxUtXf2F_WHpApQ)|[link](articles/sanlian/sanlian-24.png)|[link](https://web.archive.org/web/20200204055934/https://mp.weixin.qq.com/s/07-eyh4PxUtXf2F_WHpApQ)|
 
 ### GQ报道
 | 日期 | 标题 | 原始URL|截图|archive|
