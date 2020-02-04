@@ -183,7 +183,7 @@ PAYWALL
 |02-03|武汉动物园求助：鹈鹕的命也是命|[link](https://mp.weixin.qq.com/s/dGESQDDUDGqOB2bmbwUsgg)|[link](articles/sanlian/sanlian-21.png)|[link](https://archive.vn/XdI9a)|
 |02-03|口罩产能全球过半，为何还是“一罩难求”？|[link](https://mp.weixin.qq.com/s/k_8VwKZRbrj5KZOqATrgdA)|[link](articles/sanlian/sanlian-22.png)|[link](https://archive.vn/9vdIG)|
 |02-03|疫情下，尿毒症患者的艰难“透析”路|[link](https://mp.weixin.qq.com/s/viZO891XMPtERGJmM-7Cow)|[link](articles/sanlian/sanlian-23.png)|[link](https://archive.vn/XJdwH)|
-|02-04|现场 |火神山开通：病床该留给谁？|[link](https://mp.weixin.qq.com/s/07-eyh4PxUtXf2F_WHpApQ)|[link](articles/sanlian/sanlian-24.png)|[link](https://web.archive.org/web/20200204055934/https://mp.weixin.qq.com/s/07-eyh4PxUtXf2F_WHpApQ)|
+|02-04|现场：火神山开通：病床该留给谁？|[link](https://mp.weixin.qq.com/s/07-eyh4PxUtXf2F_WHpApQ)|[link](articles/sanlian/sanlian-24.png)|[link](https://web.archive.org/web/20200204055934/https://mp.weixin.qq.com/s/07-eyh4PxUtXf2F_WHpApQ)|
 
 ### GQ报道
 | 日期 | 标题 | 原始URL|截图|archive|
