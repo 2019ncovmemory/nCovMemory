@@ -341,6 +341,10 @@
 |---|:----------:|:---:|-----|-----|
 |01-31|武汉同济医院一线医生口述：每天面对死亡，紧张但不恐惧——专访武汉同济医院心内科医生赵金召|[link]( http://www.eeo.com.cn/2020/0131/375299.shtml)|[link](articles/jingji/jingji-1.png)|[link](https://web.archive.org/web/20200201125743/http://www.eeo.com.cn/2020/0131/375299.shtml)|
 |01-31|肺炎疫情下的武汉高考生：节前紧急停课 节后教师排班在线授课 鼓励自主学习|[link](http://www.eeo.com.cn/2020/0131/375283.shtml)|[link](articles/jingji/jingji-2.png)|[link](https://web.archive.org/web/20200201154707/http://www.eeo.com.cn/2020/0131/375283.shtml)|
+|02-01|为给高烧8天的父亲找一个床位 她拨通了自我举报电话|[link](http://www.eeo.com.cn/2020/0201/375381.shtml)|[link](articles/jingji/jingji-6.png)|[link](https://web.archive.org/web/20200203065734/http://www.eeo.com.cn/2020/0201/375381.shtml)|
+|02-01|专访武汉“造谣”者之一谢琳卡医生：我的事情其实很简单，希望更多支援医护人员抗疫物|[link](http://www.eeo.com.cn/2020/0201/375357.shtml)|[link](articles/jingji/jingji-7.png)|[link](https://web.archive.org/web/20200203065733/http://www.eeo.com.cn/2020/0201/375357.shtml)|
+|02-02|武汉确诊病人被要求自我隔离 求助社区被拒后步行两小时就醫|[link](http://www.eeo.com.cn/2020/0202/375421.shtml)|[link](articles/jingji/jingji-9.png)|[link](https://web.archive.org/web/20200203163837/http://www.eeo.com.cn/2020/0202/375421.shtml)|
+
 
 
 
