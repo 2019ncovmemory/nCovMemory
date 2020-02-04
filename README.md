@@ -342,7 +342,7 @@
 |02-04|直击火神山医院：首批病人已经入院，现场忙碌装配收尾|[link](https://mp.weixin.qq.com/s/J1u9ZaoLL9vETrumSKPWRQ)|[link](articles/caijing/caijing-28.png)|[link](http://archive.today/PYrTA)|
 |02-04|协力抗疫：京沪等地纾困中小企业，效力发挥待政策落实|[link](https://mp.weixin.qq.com/s/3uQFO6ppT_bgEELzcjXYmg)|[link](articles/caijing/caijing-29.png)|[link](http://archive.today/I61GI)|
 |02-04|香港抗疫实录：减少人流再关口岸，准备新的检疫设施|[link](https://mp.weixin.qq.com/s/eCDjkjKlU7sC3ne49NJRiw)|[link](articles/caijing/caijing-30.png)|[link](http://archive.today/gMU7g)|
-|02-04|武汉“四类人员”集中收治第一日：“我们没有被抛弃！”|[link](http://https://mp.weixin.qq.com/s/E23_MJfTe0ADlE0MAVvCXg)|[link](articles/caijing/caijing-30.png)|[link](http://archive.today/hNOER)|
+|02-04|武汉“四类人员”集中收治第一日：“我们没有被抛弃！”|[link](http://https://mp.weixin.qq.com/s/E23_MJfTe0ADlE0MAVvCXg)|[link](articles/caijing/caijing-31.png)|[link](http://archive.today/hNOER)|
 
 
 
