@@ -358,9 +358,8 @@ PAYWALL
 |02-02|17年前香港淘大花园抗疫事件，对今天的启示是什么？|[link](https://mp.weixin.qq.com/s/Nh0Hp8HrYRftfB6SZVW6Fg)|[link](articles/caijing/caijing-21.png)|[link](https://archive.vn/YUAVA)|
 |02-02|中小企业现金流告急，停工裁员待扶持|[link](https://mp.weixin.qq.com/s/FAm349BZgiZ6XDS5K6Rd3g)|[link](articles/caijing/caijing-22.png)|[link](https://archive.vn/ip5wy)|
 |02-02|双黄连口服液能治新冠肺炎？一场闹剧|[link](https://mp.weixin.qq.com/s/rGMgkgyFifOqKvCd7pkqFA)|[link](articles/caijing/caijing-23.png)|[link](https://archive.vn/6D5kz)|
-
-
-
+|02-03|经历两次疫情考验，这位小企业主宁追债求生也不裁员|[link](https://mp.weixin.qq.com/s/TK-QvWOiiYkCKNdOUtUYsg)|[link](articles/caijing/caijing-24.png)|[link](http://archive.ph/nc4Yv)|
+|02-04|黄冈确诊病例过千，市长称防控不力，曾一天问责135人|[link](https://mp.weixin.qq.com/s/n4kJ5PKBUhTGoYko-6jPaw)|[link](articles/caijing/caijing-25.png)|[link](http://archive.ph/jtDNI)|
 
 ### 大象公会
 | 日期 | 标题 | 原始URL|截图|archive|
