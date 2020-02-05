@@ -194,6 +194,7 @@
 |01-31|一辆载着15万副医用手套的车向武汉开去|[link](https://mp.weixin.qq.com/s/qCY1T3MV0_hTvlGxQBlQaQ)|[link](articles/living/living-7.png)|[link](https://archive.vn/HVzKl)|
 |02-02|疫情中一夜长大的少年|[link](https://mp.weixin.qq.com/s/9Li-0f3IjRsWVr6rwcT37A)|[link](articles/living/living-8.png)|[link](https://archive.ph/V5GvI)|
 |02-03|我在电话这头，试图帮武汉人平复“被现实打蒙的感觉”|[link](https://mp.weixin.qq.com/s/Wt0wXiHClJvkO6-ksxZ1hQ)|[link](articles/living/living-9.png)|[link](https://archive.ph/ihIGd)|
+|02-05|我走了50公里，回武汉送外卖|[link](https://mp.weixin.qq.com/s/kLAdvBG3UAQqEFYQoU9BSA)|[link](article/living/living-10.png)|[link](http://archive.is/0ea7J)
 
 ### 剥洋葱people
 | 日期 | 标题 | 原始URL|截图|archive|
