@@ -470,7 +470,7 @@
 |02-01|鸡在瘟疫蔓延时|[link](https://mp.weixin.qq.com/s/yJ2ygq2NrMAhTFWYZsC3QA)|[link](articles/gq/gq-9.png)|[link](https://archive.ph/ykEub)|
 |02-02|一群00后留学生的捐赠行动：“我们和真实的社会接上了”|[link](https://mp.weixin.qq.com/s/JtBYRWZADzEF5fT9k7PgsQ)|[link](articles/gq/gq-10.png)|[link](https://archive.vn/uNEOx)|
 |02-03|疫情中的武汉孕妇：我想活命，我的孩子也是|[link](https://mp.weixin.qq.com/s/-RADC529RPq099XE6-kwyw)|[link](articles/gq/gq-11.png)|[link](https://archive.vn/HMvOi)|
-
+|02-05|饭圈救援2020|[link](https://mp.weixin.qq.com/s/Wj0P1aT-1oHRbVij_Icbgg)|[link](articles/gq/gq-12.png)|[link](http://archive.is/tvF2p)
 
 
 ### 故事FM
