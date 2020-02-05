@@ -116,6 +116,7 @@
 |02-03|穿梭在疫区的摆渡人：武汉的每个人都在努力|[link](https://mp.weixin.qq.com/s/53pDJgSyEkm4DJtQ75zm0w)|[link](articles/renwu/renwu-16.png)|[link](https://archive.ph/TfQpz)|
 |02-04|关于火神山医院的七个细节|[link](https://mp.weixin.qq.com/s/g0gn0kmT0k5_8cozb1IMTg)|[link](articles/renwu-renwu-17.png)|[link](http://archive.is/AxVEq)
 |02-04|武汉一线送奶工：我们只能相互依靠|[link](https://mp.weixin.qq.com/s/5HgREEYkLH91Yq04FrPvjg)|[link](articles/renwu-renwu-18.png)|[link](http://archive.is/LSIYq)
+|02-05|专访王广发：快速诊断是当务之急|[link](https://mp.weixin.qq.com/s/9LOM6C7DGD8Meb6O6cZOoA)|[link](articles/renwu-renwu-19.png)|[link](http://archive.is/jb532)
 
 ### 冰点周刊
 | 日期 | 标题 | 原始URL|截图|archive|
