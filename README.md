@@ -90,6 +90,8 @@
 |02-04|抗击新冠，瑞德西韦进入III期临床试验|[link](https://mp.weixin.qq.com/s/lqthLSBwa2x-cN-mBzKq7g)|[link](articles/sanlian/sanlian-26.png)|[link](http://archive.today/0lw4k)|
 |02-04|感染后，他选择回家给发热患者网上看病，把床位留给病人|[link](https://mp.weixin.qq.com/s/gdWu5PGrPuhZ3Op7Q2AE0g)|[link](articles/sanlian/sanlian-27.png)|[link](http://archive.today/IKLGa)|
 |02-05|武汉一线护士长：“我儿子才7岁，妈妈给他做个榜样”|[link](https://mp.weixin.qq.com/s/lhZlcTObh_YmH2X-5X9QTQ)|[link](articles/sanlian/sanlian-28.png)|[link](http://archive.is/bu4dR)|
+|02-05|海外滞留的游客，你们不在孤岛上|[link](https://mp.weixin.qq.com/s/psMGMQ7MNPN_dz2Q3bui-w)|articles/sanlian/sanlian-29.png|[link](http://archive.today/Jh3gC)|
+|02-05|抗击新冠：CT结果将纳入诊断标准|[link](https://mp.weixin.qq.com/s/nmt0q-JPdKX8HHiU4Liw5A)|articles/sanlian/sanlian-30.png|[link](http://archive.today/waEZA)|
 
 
 
@@ -354,6 +356,11 @@
 |02-04|协力抗疫：京沪等地纾困中小企业，效力发挥待政策落实|[link](https://mp.weixin.qq.com/s/3uQFO6ppT_bgEELzcjXYmg)|[link](articles/caijing/caijing-29.png)|[link](http://archive.today/I61GI)|
 |02-04|香港抗疫实录：减少人流再关口岸，准备新的检疫设施|[link](https://mp.weixin.qq.com/s/eCDjkjKlU7sC3ne49NJRiw)|[link](articles/caijing/caijing-30.png)|[link](http://archive.today/gMU7g)|
 |02-04|武汉“四类人员”集中收治第一日：“我们没有被抛弃！”|[link](https://mp.weixin.qq.com/s/E23_MJfTe0ADlE0MAVvCXg)|[link](articles/caijing/caijing-31.png)|[link](http://archive.today/hNOER)|
+|02-05|武汉接到两个硬任务：检测全部疑似病例，收治所有确诊病人|[link](https://mp.weixin.qq.com/s/ZyC4oXolVK0StdHZ1uKO5g)|articles/caijing/caijing-32.png|[link](http://archive.today/LhnM0)|
+|02-05|武汉"四类人员"集中收治第一日："我们没有被抛弃！"（重发，有删改）|[link](https://mp.weixin.qq.com/s/5LaJYgN4Ic6GZOQTAkixEA)|articles/caijing/caijing-33.png|[link](http://archive.today/BerBR)|
+|02-05|行业观察|关明生回忆：17年前，阿里如何应对"非典"|[link](https://mp.weixin.qq.com/s/D6fcqW_QP_miSk67kx9o3Q)|articles/caijing/caijing-34.png|[link](http://archive.today/IYhyH)|
+|02-05|中国留学生面临选择：承受经济损失，还是改变留学计划？|[link](https://mp.weixin.qq.com/s/8m-GiV1HLhXHRmHK1l2FwA)|articles/caijing/caijing-35.png|[link](http://archive.today/Nhpo6)|
+|02-05|世卫组织称新冠肺炎还不是全球流行病，其他国家如何应对？|[link](https://mp.weixin.qq.com/s/-Kq9NVgbJy6rSDk5N7OXLg)|articles/caijing/caijing-36.png|[link](http://archive.today/P6FmP)|
 
 
 
