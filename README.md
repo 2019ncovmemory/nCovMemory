@@ -11,6 +11,7 @@
 <!--ts-->
 * [介绍](#介绍)
 * [贡献](#贡献)
+* [工具](#工具)
 * [联系](#联系)
 * [传媒报道与非虚构写作](#传媒报道与非虚构写作)
   * [三联生活周刊](#三联生活周刊)
@@ -55,6 +56,11 @@
 
 ## 贡献
 欢迎网友参与贡献。请通过 **[issue](https://github.com/2019ncovmemory/nCovMemory/issues)** 或 **[pull requests](https://github.com/2019ncovmemory/nCovMemory/pulls)** 提交文章和截图，我们在审核后会收录。
+
+## 工具
+我们使用[这个](https://gist.github.com/2019ncovmemory/1e4225aa73011cb0d6e544aad1468541)产生截图。
+
+我们使用[archive.is](https://archive.is/), [archive.org](https://archive.org)等产生archive。
 
 ## 联系
 如发现链接失效，或有其他问题、建议，请发送email至2019ncovmemory@gmail.com。
