@@ -31,13 +31,6 @@
   * [大米和小米](#大米和小米)
   * [一条](#一条)
   * [轮到你了](#轮到你了)
-  * [清流工作室（网易）](#清流工作室)
-  * [偶尔治愈（丁香医生）](#偶尔治愈)
-  * [新周刊](#新周刊)
-  * [第一财经YiMagazine](#第一财经YiMagazine)
-  * [界面新闻](#界面新闻)
-  * [澎湃新闻](#澎湃新闻)
-  * [中国经营报](#中国经营报)
 * [亲历者叙述](#亲历者叙述)
   * [系列：疫区日记](#疫区日记)
   * [系列：一个独居女性的武汉封城日记](#一个独居女性的武汉封城日记)
@@ -50,6 +43,8 @@
 此处收集内地各类传媒发布（原创或转载）的有关新型冠状病毒感染的肺炎(2019-nCoV)的深度报道和非虚构作品，并将持续更新。
 若详尽细致或角度新颖，且来自较可信赖的传媒，原则上均予收入，尤其重视对一线、基层（不只是最受关注的，而是包括各地、各群体、各行业）的非虚构写作和描述性报道，也收入摄影报道。来源包括各主流媒体及网络自媒体的微信公众号、网站等。
 希望这一汇编有助于理解疫情及其影响下的每一个人，并为观察内地传媒如何呈现这场疫情做初步的资料收集。
+
+由于技术原因，截图会比链接稍晚更新，但一般不超过24小时。
 
 ## 贡献
 欢迎网友参与贡献。请通过 **[issue](https://github.com/2019ncovmemory/nCovMemory/issues)** 或 **[pull requests](https://github.com/2019ncovmemory/nCovMemory/pulls)** 提交文章和截图，我们在审核后会收录。
@@ -139,6 +134,9 @@
 |01-28|钟南山发话前，武汉这位医生向附近学校发出疫情警报|[link](https://mp.weixin.qq.com/s/IzzCnz4Yr2jEIYZePiu_ow)|[link](articles/bingdian/bingdian-9.png)|[link](https://archive.ph/lvZhv)|
 |02-02|卫健委专家组成员王广发出院了，回答了我们8个问题|[link](https://mp.weixin.qq.com/s/DWcRVz10zps27VIrml_Khg)|[link](articles/bingdian/bingdian-10.png)|[link](https://archive.vn/UonXY)|
 |02-03|他感染了，可仍在网上给患者看病|[link](https://mp.weixin.qq.com/s/X024ciV2BPayaLabwHoo5w)|[link](articles/bingdian/bingdian-11.png)|[link](https://archive.vn/HThCt)|
+|02-05|最后一道防线|[link](https://mp.weixin.qq.com/s/akX0GrqhjKtsm6s-crVttA)|[link](articles/bingdian/bingdian-12.png)|[link](http://archive.ph/iJOOF)|
+
+
 
 ### 三联生活周刊
 | 日期 | 标题 | 原始URL|截图|archive|
@@ -360,7 +358,7 @@
 
 
 
-### 經濟觀察報
+### 经济观察报
 | 日期 | 标题 | 原始URL|截图|archive|
 |---|:----------:|:---:|-----|-----|
 |01-31|武汉同济医院一线医生口述：每天面对死亡，紧张但不恐惧——专访武汉同济医院心内科医生赵金召|[link]( http://www.eeo.com.cn/2020/0131/375299.shtml)|[link](articles/jingji/jingji-1.png)|[link](https://web.archive.org/web/20200201125743/http://www.eeo.com.cn/2020/0131/375299.shtml)|
@@ -432,65 +430,6 @@
 | 日期 | 标题 | 原始URL|截图|archive|
 |---|:----------:|:---:|-----|-----|
 |01-30|有谁想去武汉？我们7个摄影记者全部报了名：武汉一线摄影师专访|[link](https://mp.weixin.qq.com/s/nZecHSVTjFMqk0qCKhvc5w)|[link](articles/lundao/lundao-1.png)|[link](https://archive.vn/W5SXB)|
-
-### 清流工作室
-| 日期 | 标题 | 原始URL|截图|archive|
-|---|:----------:|:---:|-----|-----|
-|01-26|湖北中部农村防疫日记：买不到口罩，外地归乡人不知道疫情|[link](https://mp.weixin.qq.com/s/G8yzRAiZ8INwnR67sh25EA)|[link]()|[link](https://archive.is/MtzeT)|
-|01-27|华南海鲜市场余氏家族财富增长史：神秘商人如影相随 与武汉国资有交集|[link](https://mp.weixin.qq.com/s/u4uZjK0nGkDzUo8PsbjV-A)|[link]()|[link](https://archive.is/fy1FV)|
-|01-30|湖北脑瘫儿之死：多方曾介入救助 父亲被隔离时想带其入院 |[link](https://mp.weixin.qq.com/s/3ifRFe4Teo7sS5XgJpz7Tw)|[link]()|[link](https://archive.is/tqlTi)|
-|01-31|黄晓明、林志玲捐的扶贫基金会赠170万口罩？供货商称：不做口罩，从未卖口罩给基金会 |[link](https://mp.weixin.qq.com/s/UwnYc3HqxA0xX9bH6vqelQ)|[link]()|[link](https://archive.is/6U0v1)|
-|02-01|莆田系医院获赠1.8万口罩背后: 与湖北红会7年间合作7次 |[link](https://mp.weixin.qq.com/s/OYx0z3_JT-kEhWOgDTIzAA)|[link]()|[link](https://archive.is/wip/hbnme)|
-|02-02|疯狂的假口罩：药店也售假 募捐给武汉医院的物资现三无产品 |[link](https://mp.weixin.qq.com/s/kjSIBv_xca7LKNbLkMVnnw)|[link]()|[link](https://archive.is/5pnaf)|
-|02-03|湖北仙桃口罩厂春节提前复工 4天后被叫停生产 |[link](https://mp.weixin.qq.com/s/1QX7aDTbfIkAuGtz3abXog)|[link]()|[link](https://archive.is/hbnme)|
-
-### 偶尔治愈
-| 日期 | 标题 | 原始URL|截图|archive|
-|---|:----------:|:---:|-----|-----|
-|01-17|武汉病毒纪事——2020 年的第一场疫情|[link](https://w.url.cn/s/AYOFgxx)|[link]()|[link](http://archive.ph/E9KPm)|
-|01-27|武汉不设防|[link](https://mp.weixin.qq.com/s/_H8_U41jm02-Z7opzOPSiw)|[link]()|[link](http://archive.ph/C7XKa)|
-|01-31|除夕夜自我隔离的武汉人和 100 套防护服曲折路|[link](https://mp.weixin.qq.com/s/gIfjcaMuzadobmDvXkq77g)|[link]()|[link](http://archive.ph/FAXHl)|
-|02-04|武汉现场：核酸检测来不及，能用 CT 影像确诊新冠肺炎吗？|[link](https://mp.weixin.qq.com/s/wgAYDAFCRJ-UKWD6CZ6ViA)|[link]()|[link](http://archive.ph/wip/lvTn3)|
-
-### 第一财经YiMagazine
-| 日期 | 标题 | 原始URL|截图|archive|
-|---|:----------:|:---:|-----|-----|
-|01-23| “封城”前的武汉72小时|[link](https://mp.weixin.qq.com/s/y0hV8ICGcI9FxZGAzK2Sbw)|[link]()|[link](https://archive.is/btkuA)|
-|01-24|面对疫情升级，我们追问10个关键问题|[link](https://mp.weixin.qq.com/s/a4ZV2rUOiWpCb69icJdLtA)|[link]()|[link](https://archive.is/MSE5V)|
-|01-27|封城之前，500多万离开武汉的人都去了哪里？|[link](https://mp.weixin.qq.com/s/r_y_pUAH1hBtRNkHBUYBKA)|[link]()|[link](https://archive.is/ohZHg)|
-|01-28|1月6日之后，12天病例零新增之谜|[link](https://mp.weixin.qq.com/s/DDP846cgEhkiFhTgNVIXxw)|[link]()|[link](https://archive.is/ABcym)|
-|01-29|武汉医生亲述：前线究竟需要什么|[link](https://mp.weixin.qq.com/s/BW99ROc_5S1d41OA8wimnw)|[link]()|[link](https://archive.is/cvZvh)|
-|02-01|疾控中心无辜吗？|[link](https://mp.weixin.qq.com/s/MIzNa1Brqse1DY5HyV4r2Q)|[link]()|[link](https://archive.is/0JZji)|
-|02-02|“失踪”的口罩和红十字会“黑洞”|[link](https://mp.weixin.qq.com/s/k-tWQpbld2z4upwp9BX-Yw)|[link]()|[link](https://archive.is/jMtPm)|
-|02-04|武汉可以从非典的经验中学到什么？|[link](https://mp.weixin.qq.com/s/mtOqvgXq_pJPSBAILvAc4w)|[link]()|[link](https://archive.is/DbYVk)|
-
-### 新周刊
-| 日期 | 标题 | 原始URL|截图|archive|
-|---|:----------:|:---:|-----|-----|
-|01-28|武汉的年夜饭：从来没有这么简单，从来没有这么重要|[link](https://mp.weixin.qq.com/s/Ln5d19NcQ88wA639ZIfb1w)|[link]()|[link](https://archive.is/wip/j3OIi)|
-|01-28|72小时全记录，我在K3列车上见证“跨国疫情”|[link](https://mp.weixin.qq.com/s/pA8czro4r7x3gI1i3f39bg)|[link]()|[link](https://archive.is/K2xcH)|
-|01-30|面对风暴，不要让自己患上“情绪瘟疫”|[link](https://mp.weixin.qq.com/s/AWrPqTXP_axA-DOZ3GAdYw)|[link]()|[link](https://archive.is/wip/j3OIi)|
-|01-30|中国疾控中心原副主任杨功焕：不要指望疫苗，最原始的防治可能最有效|[link](https://mp.weixin.qq.com/s/KpJVjUvco88fgEPHu6d50A)|[link]()|[link](https://archive.is/j3OIi)|
-|02-02|那些一直短缺的物资，都是怎样运进武汉的？|[link](https://mp.weixin.qq.com/s/8fAChrvwGiF9whN86pxGcw)|[link]()|[link](https://archive.is/Yiphm)|
-|02-03|旅行社老板荣荣：我在临沂过年关|[link](http://app.neweekly.com.cn/h5/share/articlePage/shp1664152692-c4a006c836481a5e182e1f9e6d458140?m=2&v=1.8.0)|[link]()|[link](https://archive.is/Yiphm)|
-
-### 界面新闻
-| 日期 | 标题 | 原始URL|截图|archive|
-|---|:----------:|:---:|-----|-----|
-|01-25|【特写】昨夜，武汉没有除夕|[link](https://www.jiemian.com/article/3911556.html)|[link]()|[link]()|
-|01-23|对话武汉一线医护人员：所有隔离病房已饱和，身边已有同事感染|[link](https://m.huxiu.com/article/337099.html)|[link]()|[link]()|
-|01-24|医院里新型冠状病毒肺炎检测试剂盒短缺，这是真正的原因|[link](https://www.jiemian.com/article/3909869.html)|[link]()|[link](https://web.archive.org/web/20200126031425/https://www.jiemian.com/article/3909869.html)|
-|01-25|武汉困境：发热病人集中就诊，医疗资源严重短缺 |[link](http://www.sohu.com/a/368883639_313745)|[link]()|[link](https://archive.is/uF51c)|
-
-### 澎湃新闻
-| 日期 | 标题 | 原始URL|截图|archive|
-|---|:----------:|:---:|-----|-----|
-|01-28|一个“重症肺炎”患者的最后12天|[link](https://www.thepaper.cn/newsDetail_forward_5654338)|[link]()|[link](https://archive.is/vIK1T)|
-
-### 中国经营报
-| 日期 | 标题 | 原始URL|截图|archive|
-|---|:----------:|:---:|-----|-----|
-|01-26|重回武汉肺炎起点：卖野味的华南市场老板是谁？|[link](https://www.weibo.com/ttarticle/p/show?id=2309404465112919441868)|[link]()|[link](https://archive.is/5oTdp)|
 
 ## 亲历者叙述
 ### 疫区日记
