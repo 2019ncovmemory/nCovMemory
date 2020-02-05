@@ -11,6 +11,7 @@
 <!--ts-->
 * [介绍](#介绍)
 * [贡献](#贡献)
+* [工具](#工具)
 * [联系](#联系)
 * [传媒报道与非虚构写作](#传媒报道与非虚构写作)
   * [三联生活周刊](#三联生活周刊)
@@ -55,6 +56,11 @@
 
 ## 贡献
 欢迎网友参与贡献。请通过 **[issue](https://github.com/2019ncovmemory/nCovMemory/issues)** 或 **[pull requests](https://github.com/2019ncovmemory/nCovMemory/pulls)** 提交文章和截图，我们在审核后会收录。
+
+## 工具
+我们使用[这个](https://gist.github.com/2019ncovmemory/1e4225aa73011cb0d6e544aad1468541)产生截图。
+
+我们使用[archive.is](https://archive.is/), [archive.org](https://archive.org)等产生archive。
 
 ## 联系
 如发现链接失效，或有其他问题、建议，请发送email至2019ncovmemory@gmail.com。
@@ -245,22 +251,23 @@
 ### 新周刊
 | 日期 | 标题 | 原始URL|截图|archive|
 |---|:----------:|:---:|-----|-----|
-|01-28|武汉的年夜饭：从来没有这么简单，从来没有这么重要|[link](https://mp.weixin.qq.com/s/Ln5d19NcQ88wA639ZIfb1w)|[link]()|[link](https://archive.is/wip/j3OIi)|
-|01-28|72小时全记录，我在K3列车上见证“跨国疫情”|[link](https://mp.weixin.qq.com/s/pA8czro4r7x3gI1i3f39bg)|[link]()|[link](https://archive.is/K2xcH)|
-|01-30|面对风暴，不要让自己患上“情绪瘟疫”|[link](https://mp.weixin.qq.com/s/AWrPqTXP_axA-DOZ3GAdYw)|[link]()|[link](https://archive.is/wip/j3OIi)|
-|01-30|中国疾控中心原副主任杨功焕：不要指望疫苗，最原始的防治可能最有效|[link](https://mp.weixin.qq.com/s/KpJVjUvco88fgEPHu6d50A)|[link]()|[link](https://archive.is/j3OIi)|
-|02-02|那些一直短缺的物资，都是怎样运进武汉的？|[link](https://mp.weixin.qq.com/s/8fAChrvwGiF9whN86pxGcw)|[link]()|[link](https://archive.is/Yiphm)|
-|02-03|旅行社老板荣荣：我在临沂过年关|[link](http://app.neweekly.com.cn/h5/share/articlePage/shp1664152692-c4a006c836481a5e182e1f9e6d458140?m=2&v=1.8.0)|[link]()|[link](https://archive.is/Yiphm)|
+|01-28|武汉的年夜饭：从来没有这么简单，从来没有这么重要|[link](https://mp.weixin.qq.com/s/Ln5d19NcQ88wA639ZIfb1w)|[link](articles/xinzhoukan/xinzhoukan-1.png)|[link](https://archive.is/wip/j3OIi)|
+|01-28|72小时全记录，我在K3列车上见证“跨国疫情”|[link](https://mp.weixin.qq.com/s/pA8czro4r7x3gI1i3f39bg)|[link](articles/xinzhoukan/xinzhoukan-2.png)|[link](https://archive.is/K2xcH)|
+|01-30|面对风暴，不要让自己患上“情绪瘟疫”|[link](https://mp.weixin.qq.com/s/AWrPqTXP_axA-DOZ3GAdYw)|[link](articles/xinzhoukan/xinzhoukan-3.png)|[link](https://archive.is/wip/j3OIi)|
+|01-30|中国疾控中心原副主任杨功焕：不要指望疫苗，最原始的防治可能最有效|[link](https://mp.weixin.qq.com/s/KpJVjUvco88fgEPHu6d50A)|[link](articles/xinzhoukan/xinzhoukan-4.png)|[link](https://archive.is/j3OIi)|
+|02-02|那些一直短缺的物资，都是怎样运进武汉的？|[link](https://mp.weixin.qq.com/s/8fAChrvwGiF9whN86pxGcw)|[link](articles/xinzhoukan/xinzhoukan-5.png)|[link](https://archive.is/Yiphm)|
+|02-03|旅行社老板荣荣：我在临沂过年关|[link](http://app.neweekly.com.cn/h5/share/articlePage/shp1664152692-c4a006c836481a5e182e1f9e6d458140?m=2&v=1.8.0)|[link](articles/xinzhoukan/xinzhoukan-6.png)|[link](https://archive.is/Yiphm)|
 
 
 
 ### 界面新闻
 | 日期 | 标题 | 原始URL|截图|archive|
 |---|:----------:|:---:|-----|-----|
-|01-25|【特写】昨夜，武汉没有除夕|[link](https://www.jiemian.com/article/3911556.html)|[link]()|[link]()|
-|01-23|对话武汉一线医护人员：所有隔离病房已饱和，身边已有同事感染|[link](https://m.huxiu.com/article/337099.html)|[link]()|[link]()|
-|01-24|医院里新型冠状病毒肺炎检测试剂盒短缺，这是真正的原因|[link](https://www.jiemian.com/article/3909869.html)|[link]()|[link](https://web.archive.org/web/20200126031425/https://www.jiemian.com/article/3909869.html)|
-|01-25|武汉困境：发热病人集中就诊，医疗资源严重短缺 |[link](http://www.sohu.com/a/368883639_313745)|[link]()|[link](https://archive.is/uF51c)|
+|01-25|【特写】昨夜，武汉没有除夕|[link](https://www.jiemian.com/article/3911556.html)|[link](articles/jiemianxinwen/jiemianxinwen-1.png)|[link]()|
+|01-23|对话武汉一线医护人员：所有隔离病房已饱和，身边已有同事感染|[link](https://m.huxiu.com/article/337099.html)|[link](articles/jiemianxinwen/jiemianxinwen-2.png)|[link]()|
+|01-24|医院里新型冠状病毒肺炎检测试剂盒短缺，这是真正的原因|[link](https://www.jiemian.com/article/3909869.html)|[link](articles/jiemianxinwen/jiemianxinwen-3.png)|[link](https://web.archive.org/web/20200126031425/https://www.jiemian.com/article/3909869.html)|
+|01-25|武汉困境：发热病人集中就诊，医疗资源严重短缺 |[link](http://www.sohu.com/a/368883639_313745)|[link](articles/jiemianxinwen/jiemianxinwen-4.png)|[link](https://archive.is/uF51c)|
+
 
 
 ### 棱镜
@@ -283,19 +290,17 @@
 
 
 
-
 ### 澎湃新闻
 | 日期 | 标题 | 原始URL|截图|archive|
 |---|:----------:|:---:|-----|-----|
-|01-28|一个“重症肺炎”患者的最后12天|[link](https://www.thepaper.cn/newsDetail_forward_5654338)|[link]()|[link](https://archive.is/vIK1T)|
+|01-28|一个“重症肺炎”患者的最后12天|[link](https://www.thepaper.cn/newsDetail_forward_5654338)|[link](articles/pengpaixinwen/pengpaixinwen-1.png)|[link](https://archive.is/vIK1T)|
 
 
 
 ### 中国经营报
 | 日期 | 标题 | 原始URL|截图|archive|
 |---|:----------:|:---:|-----|-----|
-|01-26|重回武汉肺炎起点：卖野味的华南市场老板是谁？|[link](https://www.weibo.com/ttarticle/p/show?id=2309404465112919441868)|[link]()|[link](https://archive.is/5oTdp)|
-
+|01-26|重回武汉肺炎起点：卖野味的华南市场老板是谁？|[link](https://www.weibo.com/ttarticle/p/show?id=2309404465112919441868)|[link](articles/zhongguojingyingbao/zhongguojingyingbao-1.png)|[link](https://archive.is/5oTdp)|
 
 
 ### 财新网
@@ -318,7 +323,7 @@
 |02-01|肺炎日记｜2月1日：全国病例破万 社会力量参与抗疫呼声不止|[link](http://www.caixin.com/2020-02-02/101510545.html)|[link](articles/caixin/caixin-15.png)|[link](https://web.archive.org/web/20200203142833/http://www.caixin.com/2020-02-02/101510545.html)|
 |02-02|肺炎日记｜2月2日：力不从心红会“让路”，双黄连惹质疑|[link](http://www.caixin.com/2020-02-03/101510766.html)|[link](articles/caixin/caixin-16.png)|[link](https://web.archive.org/web/20200203104351/http://www.caixin.com/2020-02-03/101510766.html)|
 |02-03|肺炎日记｜2月3日：武汉大量疑似患者获收治 医疗措施是关键|[link](http://www.caixin.com/2020-02-04/101511212.html)|[link](articles/caixin/caixin-016a.png)|[link](https://web.archive.org/web/20200204085039/http://www.caixin.com/2020-02-04/101511212.html)|
-|02-04|肺炎日记｜2月4日:确诊破两万，停工停业何时休|[link](http://www.caixin.com/2020-02-05/101511603.html)|[link](articles/caixin/caixin-016b.png)|[link](https://web.archive.org/web/20200205074602/http://www.caixin.com/2020-02-05/101511603.html)|
+|02-04|肺炎日记｜2月4日:确诊破两万，停工停业何时休|[link](http://www.caixin.com/2020-02-05/101511603.html)|[link](articles/caixin/caixin-16b.png)|[link](https://web.archive.org/web/20200205074602/http://www.caixin.com/2020-02-05/101511603.html)|
 |01-22|记者手记｜野味成武汉肺炎元凶 你见过香港菜市场这么卖活物吗？|[link](http://www.caixin.com/2020-01-22/101507417.html)|[link](articles/caixin/caixin-17.png)|[link](https://web.archive.org/web/20200202210656/http://www.caixin.com/2020-01-22/101507417.html)|
 |01-23|解读｜武汉肺炎是如何确诊和发布的|[link](http://www.caixin.com/2020-01-23/101507556.html)|[link](articles/caixin/caixin-18.png)|[link](https://web.archive.org/web/20200202210707/http://www.caixin.com/2020-01-23/101507556.html)|
 |01-23|武汉百步亭“万家宴”过后 当地药店口罩脱销|[link](http://www.caixin.com/2020-01-23/101507508.html)|[link](articles/caixin/caixin-19.png)|[link](https://web.archive.org/web/20200202210722/http://www.caixin.com/2020-01-23/101507508.html)|
@@ -405,28 +410,26 @@
 ### 第一财经YiMagazine
 | 日期 | 标题 | 原始URL|截图|archive|
 |---|:----------:|:---:|-----|-----|
-|01-23| “封城”前的武汉72小时|[link](https://mp.weixin.qq.com/s/y0hV8ICGcI9FxZGAzK2Sbw)|[link]()|[link](https://archive.is/btkuA)|
-|01-24|面对疫情升级，我们追问10个关键问题|[link](https://mp.weixin.qq.com/s/a4ZV2rUOiWpCb69icJdLtA)|[link]()|[link](https://archive.is/MSE5V)|
-|01-27|封城之前，500多万离开武汉的人都去了哪里？|[link](https://mp.weixin.qq.com/s/r_y_pUAH1hBtRNkHBUYBKA)|[link]()|[link](https://archive.is/ohZHg)|
-|01-28|1月6日之后，12天病例零新增之谜|[link](https://mp.weixin.qq.com/s/DDP846cgEhkiFhTgNVIXxw)|[link]()|[link](https://archive.is/ABcym)|
-|01-29|武汉医生亲述：前线究竟需要什么|[link](https://mp.weixin.qq.com/s/BW99ROc_5S1d41OA8wimnw)|[link]()|[link](https://archive.is/cvZvh)|
-|02-01|疾控中心无辜吗？|[link](https://mp.weixin.qq.com/s/MIzNa1Brqse1DY5HyV4r2Q)|[link]()|[link](https://archive.is/0JZji)|
-|02-02|“失踪”的口罩和红十字会“黑洞”|[link](https://mp.weixin.qq.com/s/k-tWQpbld2z4upwp9BX-Yw)|[link]()|[link](https://archive.is/jMtPm)|
-|02-04|武汉可以从非典的经验中学到什么？|[link](https://mp.weixin.qq.com/s/mtOqvgXq_pJPSBAILvAc4w)|[link]()|[link](https://archive.is/DbYVk)|
-
+|01-23| “封城”前的武汉72小时|[link](https://mp.weixin.qq.com/s/y0hV8ICGcI9FxZGAzK2Sbw)|[link](articles/diyicaijing/diyicaijing-1.png)|[link](https://archive.is/btkuA)|
+|01-24|面对疫情升级，我们追问10个关键问题|[link](https://mp.weixin.qq.com/s/a4ZV2rUOiWpCb69icJdLtA)|[link](articles/diyicaijing/diyicaijing-2.png)|[link](https://archive.is/MSE5V)|
+|01-27|封城之前，500多万离开武汉的人都去了哪里？|[link](https://mp.weixin.qq.com/s/r_y_pUAH1hBtRNkHBUYBKA)|[link](articles/diyicaijing/diyicaijing-3.png)|[link](https://archive.is/ohZHg)|
+|01-28|1月6日之后，12天病例零新增之谜|[link](https://mp.weixin.qq.com/s/DDP846cgEhkiFhTgNVIXxw)|[link](articles/diyicaijing/diyicaijing-4.png)|[link](https://archive.is/ABcym)|
+|01-29|武汉医生亲述：前线究竟需要什么|[link](https://mp.weixin.qq.com/s/BW99ROc_5S1d41OA8wimnw)|[link](articles/diyicaijing/diyicaijing-5.png)|[link](https://archive.is/cvZvh)|
+|02-01|疾控中心无辜吗？|[link](https://mp.weixin.qq.com/s/MIzNa1Brqse1DY5HyV4r2Q)|[link](articles/diyicaijing/diyicaijing-6.png)|[link](https://archive.is/0JZji)|
+|02-02|“失踪”的口罩和红十字会“黑洞”|[link](https://mp.weixin.qq.com/s/k-tWQpbld2z4upwp9BX-Yw)|[link](articles/diyicaijing/diyicaijing-7.png)|[link](https://archive.is/jMtPm)|
+|02-04|武汉可以从非典的经验中学到什么？|[link](https://mp.weixin.qq.com/s/mtOqvgXq_pJPSBAILvAc4w)|[link](articles/diyicaijing/diyicaijing-8.png)|[link](https://archive.is/DbYVk)|
 
 
 ### 清流工作室
 | 日期 | 标题 | 原始URL|截图|archive|
 |---|:----------:|:---:|-----|-----|
-|01-26|湖北中部农村防疫日记：买不到口罩，外地归乡人不知道疫情|[link](https://mp.weixin.qq.com/s/G8yzRAiZ8INwnR67sh25EA)|[link]()|[link](https://archive.is/MtzeT)|
-|01-27|华南海鲜市场余氏家族财富增长史：神秘商人如影相随 与武汉国资有交集|[link](https://mp.weixin.qq.com/s/u4uZjK0nGkDzUo8PsbjV-A)|[link]()|[link](https://archive.is/fy1FV)|
-|01-30|湖北脑瘫儿之死：多方曾介入救助 父亲被隔离时想带其入院 |[link](https://mp.weixin.qq.com/s/3ifRFe4Teo7sS5XgJpz7Tw)|[link]()|[link](https://archive.is/tqlTi)|
-|01-31|黄晓明、林志玲捐的扶贫基金会赠170万口罩？供货商称：不做口罩，从未卖口罩给基金会 |[link](https://mp.weixin.qq.com/s/UwnYc3HqxA0xX9bH6vqelQ)|[link]()|[link](https://archive.is/6U0v1)|
-|02-01|莆田系医院获赠1.8万口罩背后: 与湖北红会7年间合作7次 |[link](https://mp.weixin.qq.com/s/OYx0z3_JT-kEhWOgDTIzAA)|[link]()|[link](https://archive.is/wip/hbnme)|
-|02-02|疯狂的假口罩：药店也售假 募捐给武汉医院的物资现三无产品 |[link](https://mp.weixin.qq.com/s/kjSIBv_xca7LKNbLkMVnnw)|[link]()|[link](https://archive.is/5pnaf)|
-|02-03|湖北仙桃口罩厂春节提前复工 4天后被叫停生产 |[link](https://mp.weixin.qq.com/s/1QX7aDTbfIkAuGtz3abXog)|[link]()|[link](https://archive.is/hbnme)|
-
+|01-26|湖北中部农村防疫日记：买不到口罩，外地归乡人不知道疫情|[link](https://mp.weixin.qq.com/s/G8yzRAiZ8INwnR67sh25EA)|[link](articles/qingliu/qingliu-1.png)|[link](https://archive.is/MtzeT)|
+|01-27|华南海鲜市场余氏家族财富增长史：神秘商人如影相随 与武汉国资有交集|[link](https://mp.weixin.qq.com/s/u4uZjK0nGkDzUo8PsbjV-A)|[link](articles/qingliu/qingliu-2.png)|[link](https://archive.is/fy1FV)|
+|01-30|湖北脑瘫儿之死：多方曾介入救助 父亲被隔离时想带其入院 |[link](https://mp.weixin.qq.com/s/3ifRFe4Teo7sS5XgJpz7Tw)|[link](articles/qingliu/qingliu-3.png)|[link](https://archive.is/tqlTi)|
+|01-31|黄晓明、林志玲捐的扶贫基金会赠170万口罩？供货商称：不做口罩，从未卖口罩给基金会 |[link](https://mp.weixin.qq.com/s/UwnYc3HqxA0xX9bH6vqelQ)|[link](articles/qingliu/qingliu-4.png)|[link](https://archive.is/6U0v1)|
+|02-01|莆田系医院获赠1.8万口罩背后: 与湖北红会7年间合作7次 |[link](https://mp.weixin.qq.com/s/OYx0z3_JT-kEhWOgDTIzAA)|[link](articles/qingliu/qingliu-5.png)|[link](https://archive.is/wip/hbnme)|
+|02-02|疯狂的假口罩：药店也售假 募捐给武汉医院的物资现三无产品 |[link](https://mp.weixin.qq.com/s/kjSIBv_xca7LKNbLkMVnnw)|[link](articles/qingliu/qingliu-6.png)|[link](https://archive.is/5pnaf)|
+|02-03|湖北仙桃口罩厂春节提前复工 4天后被叫停生产 |[link](https://mp.weixin.qq.com/s/1QX7aDTbfIkAuGtz3abXog)|[link](articles/qingliu/qingliu-7.png)|[link](https://archive.is/hbnme)|
 
 
 ### 潇湘晨报
@@ -516,11 +519,10 @@
 ### 偶尔治愈
 | 日期 | 标题 | 原始URL|截图|archive|
 |---|:----------:|:---:|-----|-----|
-|01-17|武汉病毒纪事——2020 年的第一场疫情|[link](https://w.url.cn/s/AYOFgxx)|[link]()|[link](http://archive.ph/E9KPm)|
-|01-27|武汉不设防|[link](https://mp.weixin.qq.com/s/_H8_U41jm02-Z7opzOPSiw)|[link]()|[link](http://archive.ph/C7XKa)|
-|01-31|除夕夜自我隔离的武汉人和 100 套防护服曲折路|[link](https://mp.weixin.qq.com/s/gIfjcaMuzadobmDvXkq77g)|[link]()|[link](http://archive.ph/FAXHl)|
-|02-04|武汉现场：核酸检测来不及，能用 CT 影像确诊新冠肺炎吗？|[link](https://mp.weixin.qq.com/s/wgAYDAFCRJ-UKWD6CZ6ViA)|[link]()|[link](http://archive.ph/wip/lvTn3)|
-
+|01-17|武汉病毒纪事——2020 年的第一场疫情|[link](https://w.url.cn/s/AYOFgxx)|[link](articles/ouerzhiyu/ouerzhiyu-1.png)|[link](http://archive.ph/E9KPm)|
+|01-27|武汉不设防|[link](https://mp.weixin.qq.com/s/_H8_U41jm02-Z7opzOPSiw)|[link](articles/ouerzhiyu/ouerzhiyu-2.png)|[link](http://archive.ph/C7XKa)|
+|01-31|除夕夜自我隔离的武汉人和 100 套防护服曲折路|[link](https://mp.weixin.qq.com/s/gIfjcaMuzadobmDvXkq77g)|[link](articles/ouerzhiyu/ouerzhiyu-3.png)|[link](http://archive.ph/FAXHl)|
+|02-04|武汉现场：核酸检测来不及，能用 CT 影像确诊新冠肺炎吗？|[link](https://mp.weixin.qq.com/s/wgAYDAFCRJ-UKWD6CZ6ViA)|[link](articles/ouerzhiyu/ouerzhiyu-4.png)|[link](http://archive.ph/wip/lvTn3)|
 
 
 ### 女孩别怕
