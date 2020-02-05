@@ -71,6 +71,7 @@
 |02-01|肺炎日记｜2月1日：全国病例破万 社会力量参与抗疫呼声不止|[link](http://www.caixin.com/2020-02-02/101510545.html)|[link](articles/caixin/caixin-15.png)|[link](https://web.archive.org/web/20200203142833/http://www.caixin.com/2020-02-02/101510545.html)|
 |02-02|肺炎日记｜2月2日：力不从心红会“让路”，双黄连惹质疑|[link](http://www.caixin.com/2020-02-03/101510766.html)|[link](articles/caixin/caixin-16.png)|[link](https://web.archive.org/web/20200203104351/http://www.caixin.com/2020-02-03/101510766.html)|
 |02-03|肺炎日记｜2月3日：武汉大量疑似患者获收治 医疗措施是关键|[link](http://www.caixin.com/2020-02-04/101511212.html)|[link](articles/caixin/caixin-016a.png)|[link](https://web.archive.org/web/20200204085039/http://www.caixin.com/2020-02-04/101511212.html)|
+|02-04|肺炎日记｜2月4日:确诊破两万，停工停业何时休|[link](http://www.caixin.com/2020-02-05/101511603.html)|[link](articles/caixin/caixin-016b.png)|[link](https://web.archive.org/web/20200205074602/http://www.caixin.com/2020-02-05/101511603.html)|
 |01-22|记者手记｜野味成武汉肺炎元凶 你见过香港菜市场这么卖活物吗？|[link](http://www.caixin.com/2020-01-22/101507417.html)|[link](articles/caixin/caixin-17.png)|[link](https://web.archive.org/web/20200202210656/http://www.caixin.com/2020-01-22/101507417.html)|
 |01-23|解读｜武汉肺炎是如何确诊和发布的|[link](http://www.caixin.com/2020-01-23/101507556.html)|[link](articles/caixin/caixin-18.png)|[link](https://web.archive.org/web/20200202210707/http://www.caixin.com/2020-01-23/101507556.html)|
 |01-23|武汉百步亭“万家宴”过后 当地药店口罩脱销|[link](http://www.caixin.com/2020-01-23/101507508.html)|[link](articles/caixin/caixin-19.png)|[link](https://web.archive.org/web/20200202210722/http://www.caixin.com/2020-01-23/101507508.html)|
@@ -90,6 +91,8 @@
 |02-02|菲律宾出现境外首个新冠肺炎死亡病例 逝者为44岁武汉观光客|[link](http://www.caixin.com/2020-02-02/101510661.html)|[link](articles/caixin/caixin-33.png)|[link](https://web.archive.org/web/2020020316)|
 |02-03|应对节后返工潮 各地建设本地“小汤山”|[link](http://www.caixin.com/2020-02-03/101511195.html)|[link](articles/caixin/caixin-34.png)|[link](https://web.archive.org/web/20200204084038/http://www.caixin.com/2020-02-03/101511195.html)|
 |02-04|武汉疫情调查追踪：医护感染应受关注|[link](http://www.caixin.com/2020-02-04/101511377.html)|[link](articles/caixin/caixin-35.png)|[link](https://web.archive.org/web/20200204084331/http://www.caixin.com/2020-02-04/101511377.html)|
+|02-04|珠海暂停餐饮企业运营 禁止顾客现场就餐|[link](http://www.caixin.com/2020-02-04/101511321.html)|[link](articles/caixin/caixin-36.png)|[link](https://web.archive.org/web/20200205074118/http://www.caixin.com/2020-02-04/101511321.html)|
+|02-05|武汉百步亭社区多个门栋现发热患者 中老年人为主|[link](http://www.caixin.com/2020-02-05/101511617.html)|[link](articles/caixin/caixin-37.png)|[link](https://web.archive.org/web/20200205031020/http://www.caixin.com/2020-02-05/101511617.html)|
 
 
 ### 人物
@@ -159,6 +162,8 @@
 |02-04|猪也饿，二师兄挺住！|[link](https://mp.weixin.qq.com/s/1wZN157owdDGzrAqDpkUZA)|[link](articles/sanlian/sanlian-25.png)|[link](http://archive.today/m9BvX)|
 |02-04|抗击新冠，瑞德西韦进入III期临床试验|[link](https://mp.weixin.qq.com/s/lqthLSBwa2x-cN-mBzKq7g)|[link](articles/sanlian/sanlian-26.png)|[link](http://archive.today/0lw4k)|
 |02-04|感染后，他选择回家给发热患者网上看病，把床位留给病人|[link](https://mp.weixin.qq.com/s/gdWu5PGrPuhZ3Op7Q2AE0g)|[link](articles/sanlian/sanlian-27.png)|[link](http://archive.today/IKLGa)|
+|02-05|武汉一线护士长：“我儿子才7岁，妈妈给他做个榜样”|[link](https://mp.weixin.qq.com/s/lhZlcTObh_YmH2X-5X9QTQ)|[link](articles/sanlian/sanlian-28.png)|[link](http://archive.is/bu4dR)|
+
 
 
 ### GQ报道
@@ -287,8 +292,7 @@
 |02-03|双黄连风波中的上海药物所：曾投资过10家公司，非典中也有发现|[link](http://www.infzm.com/contents/175738)|[link](articles/nanfang/nanfang-33.png)|[link](https://web.archive.org/web/20200203102143/http://www.infzm.com/contents/175738)|
 |02-03|“外援”协助武汉红十字会后：理货效率提高，调配要听指令|[link](https://mp.weixin.qq.com/s/WG9ZH24W79P8dv3Cff-0pg)|[link](articles/nanfang/nanfang-34.png)|[link](http://archive.is/eTyl3)|
 |02-04|驰援武汉的上海专家：多数重症病人体内突然启动炎症风暴|[link](https://mp.weixin.qq.com/s/rSR9IG3Kf6DqMFC17DLbAQ)|[link](articles/nanfang/nanfang-35.png)|[link](http://archive.ph/s3BDM)|
-
-
+|02-05|“我想保护好我的村”|[link](https://mp.weixin.qq.com/s/6YSBkxFykIO2HOe34JP3vw)|[link](articles/nanfang/nanfang-36.png)|[link](http://archive.is/Im9d1)|
 
 ### 南都周刊
 | 日期 | 标题 | 原始URL|截图|archive|
@@ -305,8 +309,7 @@
 |02-01|“她不怕我们！”被刷屏的湛江，这样对待湖北籍旅客|[link](https://mp.weixin.qq.com/s/oqwmmL8xs0JYllpAhTkOWg)|[link](articles/nandu/nandu-10.png)|[link](https://archive.vn/7Uwyb)|
 |02-01|“无法报销邮费”物资被湖北麻城红十字会拒收 市民政局：直接经手人撤职查办|[link](https://mp.weixin.qq.com/s/gr6WT_MuxsGnOuUAcN9vuA)|[link](articles/nandu/nandu-11.png)|[link](https://archive.vn/V8wmc)|
 |02-02|湖北危机之下，饭圈女孩的驰援|[link](https://mp.weixin.qq.com/s/GOFEixDCXSurJgWfYDnwvA)|[link](articles/nandu/nandu-12.png)|[link](https://archive.vn/Kmwad)|
-
-
+|02-05|武汉留守宠物救助：“我收到了人生中最密集的好意|[link](https://mp.weixin.qq.com/s/aq5QSbcsTXNqznFvKv20lA)|[link](articles/nanfang/nandu-13.png)|[link](http://archive.ph/bePr8)|
 
 
 ### 财经杂志
@@ -351,10 +354,15 @@
 |---|:----------:|:---:|-----|-----|
 |01-31|武汉同济医院一线医生口述：每天面对死亡，紧张但不恐惧——专访武汉同济医院心内科医生赵金召|[link]( http://www.eeo.com.cn/2020/0131/375299.shtml)|[link](articles/jingji/jingji-1.png)|[link](https://web.archive.org/web/20200201125743/http://www.eeo.com.cn/2020/0131/375299.shtml)|
 |01-31|肺炎疫情下的武汉高考生：节前紧急停课 节后教师排班在线授课 鼓励自主学习|[link](http://www.eeo.com.cn/2020/0131/375283.shtml)|[link](articles/jingji/jingji-2.png)|[link](https://web.archive.org/web/20200201154707/http://www.eeo.com.cn/2020/0131/375283.shtml)|
+|01-31|20万只口罩泰国扫货记|[link](http://www.eeo.com.cn/2020/0131/375303.shtml)|[link](articles/jingji/jingji-3.png)|[link](https://web.archive.org/web/20200201132919/http://www.eeo.com.cn/2020/0131/375303.shtml)|
+|01-31|疫情中受创行业里的他们：复工无期 月亏房租十几万 期待扶持政策中守望春天|[link](http://www.eeo.com.cn/2020/0131/375272.shtml)|[link](articles/jingji/jingji-4.png)|[link](https://web.archive.org/web/20200131123928/http://www.eeo.com.cn/2020/0131/375272.shtml)|
+|02-01|义乌“另类”劝返：疫情期不返回就发钱 有社区房东主动减免房租|[link](http://www.eeo.com.cn/2020/0201/375364.shtml)|[link](articles/jingji/jingji-5.png)|[link](https://web.archive.org/web/20200202135158/http://www.eeo.com.cn/2020/0201/375364.shtml)|
 |02-01|为给高烧8天的父亲找一个床位 她拨通了自我举报电话|[link](http://www.eeo.com.cn/2020/0201/375381.shtml)|[link](articles/jingji/jingji-6.png)|[link](https://web.archive.org/web/20200203065734/http://www.eeo.com.cn/2020/0201/375381.shtml)|
 |02-01|专访武汉“造谣”者之一谢琳卡医生：我的事情其实很简单，希望更多支援医护人员抗疫物|[link](http://www.eeo.com.cn/2020/0201/375357.shtml)|[link](articles/jingji/jingji-7.png)|[link](https://web.archive.org/web/20200203065733/http://www.eeo.com.cn/2020/0201/375357.shtml)|
+|02-01|捐赠物资“直达”武汉目标医院的另类样本：百万粉丝博主倒逼物流改变收件目的地|[link](http://www.eeo.com.cn/2020/0201/375383.shtml)|[link](articles/jingji/jingji-8.png)|[link](https://web.archive.org/web/20200202133644/http://www.eeo.com.cn/2020/0201/375383.shtml)|
 |02-02|武汉确诊病人被要求自我隔离 求助社区被拒后步行两小时就醫|[link](http://www.eeo.com.cn/2020/0202/375421.shtml)|[link](articles/jingji/jingji-9.png)|[link](https://web.archive.org/web/20200203163837/http://www.eeo.com.cn/2020/0202/375421.shtml)|
-
+|02-02|东北人在武汉：没了温泉、聚餐 一菜一饭也能好好过年|[link](http://www.eeo.com.cn/2020/0202/375419.shtml)|[link](articles/jingji/jingji-10.png)|[link](ttps://web.archive.org/web/20200203163823/http://www.eeo.com.cn/2020/0202/375419.shtml)|
+|02-02|长租公寓“威胁”填表遭质疑 部分长租公寓停止冻结门锁政策|[link](http://www.eeo.com.cn/2020/0202/375407.shtml)|[link](articles/jingji/jingji-11.png)|[link](https://web.archive.org/web/20200203150207/http://www.eeo.com.cn/2020/0202/375407.shtml)|
 
 
 
