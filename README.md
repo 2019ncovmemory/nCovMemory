@@ -91,7 +91,7 @@
 |02-04|感染后，他选择回家给发热患者网上看病，把床位留给病人|[link](https://mp.weixin.qq.com/s/gdWu5PGrPuhZ3Op7Q2AE0g)|[link](articles/sanlian/sanlian-27.png)|[link](http://archive.today/IKLGa)|
 |02-05|武汉一线护士长：“我儿子才7岁，妈妈给他做个榜样”|[link](https://mp.weixin.qq.com/s/lhZlcTObh_YmH2X-5X9QTQ)|[link](articles/sanlian/sanlian-28.png)|[link](http://archive.is/bu4dR)|
 |02-05|海外滞留的游客，你们不在孤岛上|[link](https://mp.weixin.qq.com/s/psMGMQ7MNPN_dz2Q3bui-w)|[link](articles/sanlian/sanlian-29.png)|[link](http://archive.today/Jh3gC)|
-|02-05|抗击新冠：CT结果将纳入诊断标准|[link](https://mp.weixin.qq.com/s/nmt0q-JPdKX8HHiU4Liw5A)|[link](articles/sanlian/sanlian-30.png|)[link](http://archive.today/waEZA)|
+|02-05|抗击新冠：CT结果将纳入诊断标准|[link](https://mp.weixin.qq.com/s/nmt0q-JPdKX8HHiU4Liw5A)|[link](articles/sanlian/sanlian-30.png)|)[link](http://archive.today/waEZA)|
 
 
 
