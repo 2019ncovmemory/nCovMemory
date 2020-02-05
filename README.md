@@ -1,9 +1,11 @@
 # 2020新冠肺炎记忆：传媒报道与非虚构写作（持续更新）
 收录了2020年新型冠状病毒感染的肺炎(2019-nCoV)深度报道和非虚构作品的地址、截图、存档。
 
+（由于技术原因，截图会比链接稍晚更新，但一般不超过24小时。）
+
 我们使用了网友制作的archive存档，深表感激。同时感谢许多网友与我们共享资料并提供建议。
 
-[石墨文档](https://shimo.im/docs/2d05dce1eaa743c7)和[Google Doc](https://docs.google.com/document/d/1EQndEHB0gNlNWY1J5cwI_IT3u-1RP3UJJyzURotwqvk/edit?usp=sharing)的版本会同步更新。
+目前[石墨文档](https://shimo.im/docs/2d05dce1eaa743c7)和[Google Doc](https://docs.google.com/document/d/1EQndEHB0gNlNWY1J5cwI_IT3u-1RP3UJJyzURotwqvk/edit?usp=sharing)的版本会同步更新，但计划在未来几日内停更，今后一切更新将在此处完成。
 
 ### 目录
 <!--ts-->
@@ -33,11 +35,12 @@
   * [在人间living](#在人间living)
   * [GQ报道](#GQ报道)
   * [故事FM](#故事FM)
+  * [云林街十七号](#云林街十七号)
   * [偶尔治愈](#偶尔治愈)
   * [女孩别怕](#女孩别怕)
   * [大米和小米](#大米和小米)
-  * [一条](#一条)
   * [轮到你了](#轮到你了)
+  * [一条](#一条)
 * [亲历者叙述](#亲历者叙述)
   * [系列：疫区日记](#疫区日记)
   * [系列：一个独居女性的武汉封城日记](#一个独居女性的武汉封城日记)
@@ -45,19 +48,16 @@
   * [系列：疫区影像日记](#疫区影像日记)
   * [单篇](#单篇)
 
-
 ## 介绍
 此处收集内地各类传媒发布（原创或转载）的有关新型冠状病毒感染的肺炎(2019-nCoV)的深度报道和非虚构作品，并将持续更新。
 若详尽细致或角度新颖，且来自较可信赖的传媒，原则上均予收入，尤其重视对一线、基层（不只是最受关注的，而是包括各地、各群体、各行业）的非虚构写作和描述性报道，也收入摄影报道。来源包括各主流媒体及网络自媒体的微信公众号、网站等。
-希望这一汇编有助于理解疫情及其影响下的每一个人，并为观察内地传媒如何呈现这场疫情做初步的资料收集。
-
-由于技术原因，截图会比链接稍晚更新，但一般不超过24小时。
+希望这一选编有助于理解疫情及其影响下的每一个人，并为观察内地传媒如何呈现这场疫情做初步的资料收集。
 
 ## 贡献
 欢迎网友参与贡献。请通过 **[issue](https://github.com/2019ncovmemory/nCovMemory/issues)** 或 **[pull requests](https://github.com/2019ncovmemory/nCovMemory/pulls)** 提交文章和截图，我们在审核后会收录。
 
 ## 联系
-请发送email至2019ncovmemory@gmail.com.
+如发现链接失效，或有其他问题、建议，请发送email至2019ncovmemory@gmail.com。
 
 ## 传媒报道与非虚构写作
 ### 三联生活周刊
@@ -503,6 +503,16 @@
 
 
 
+### 云林街十七号
+| 日期 | 标题 | 原始URL|截图|archive|
+|---|:----------:|:---:|-----|-----|
+|02-02|武汉城里的白血病人|[link](https://mp.weixin.qq.com/s/A6umF9iVQCrfOKbrlbcWoA)|[link](articles/yunlin/yunlin-1.png)|[link](http://archive.ph/kl5Xu)|
+|02-03|深夜，我在武汉等一辆救护车|[link](https://mp.weixin.qq.com/s/Y81RfSUijuAJPNJRYf6J4g)|[link](articles/yunlin/yunlin-2.png)|[link](http://archive.ph/IYxS5)|
+|02-04|我在监控里，看着武汉城里的爸爸和奶奶|[link](https://mp.weixin.qq.com/s/3CRfraXnNL8BUSIKc68y-Q)|[link](articles/yunlin/yunlin-3.png)|[link](http://archive.ph/THS4n)|
+|02-05|“我们住在一个家，却无法一起见面”|[link](https://mp.weixin.qq.com/s/2Y29GH8WvTKaiR2nCH-IFA)|[link](articles/yunlin/yunlin-4.png)|[link](http://archive.ph/KA0wG)|
+
+
+
 ### 偶尔治愈
 | 日期 | 标题 | 原始URL|截图|archive|
 |---|:----------:|:---:|-----|-----|
@@ -531,17 +541,18 @@
 
 
 
-### 一条
-| 日期 | 标题 | 原始URL|截图|archive|
-|---|:----------:|:---:|-----|-----|
-|01-29|媒体不死！武汉一线记者口述实录|[link](https://mp.weixin.qq.com/s/zvYFAwO3mTm50HS8RA_PpQ)|[link](articles/yitiao/yitiao-1.png)|[link](https://archive.vn/KhdKV)|
-
-
-
 ### 轮到你了
 | 日期 | 标题 | 原始URL|截图|archive|
 |---|:----------:|:---:|-----|-----|
 |01-30|有谁想去武汉？我们7个摄影记者全部报了名：武汉一线摄影师专访|[link](https://mp.weixin.qq.com/s/nZecHSVTjFMqk0qCKhvc5w)|[link](articles/lundao/lundao-1.png)|[link](https://archive.vn/W5SXB)|
+|02-04|我想让大家看到，武汉到底发生了什么：武汉一线摄影师专访|[link](https://mp.weixin.qq.com/s/TK6RDPjPMwMN7-4U5deRxA)|[link](articles/lundao/lundao-2.png)|[link](http://archive.ph/22qbI)|
+
+
+
+### 一条
+| 日期 | 标题 | 原始URL|截图|archive|
+|---|:----------:|:---:|-----|-----|
+|01-29|媒体不死！武汉一线记者口述实录|[link](https://mp.weixin.qq.com/s/zvYFAwO3mTm50HS8RA_PpQ)|[link](articles/yitiao/yitiao-1.png)|[link](https://archive.vn/KhdKV)|
 
 
 
