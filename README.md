@@ -1,7 +1,7 @@
 # 2020新冠肺炎记忆：传媒报道与非虚构写作（持续更新）
 收录了2020年新型冠状病毒感染的肺炎（2019-nCoV）深度报道和非虚构作品的地址、截图、存档。
 
-（由于技术原因，截图会比链接稍晚更新，但一般不超过24小时。）
+（过去一日更新的文章前会加入![#32a852](https://placehold.it/15/32a852/000000?text=+)， 方便阅读。由于技术原因，截图会比链接稍晚更新，但一般不超过24小时。）
 
 我们使用了网友制作的 archive 存档，深表感激。同时感谢许多网友与我们共享资料并提供建议。
 
@@ -78,7 +78,7 @@
 ### 三联生活周刊
 | 日期 | 标题 | 原始URL|截图|archive|
 |---|:----------:|:---:|-----|-----|
-|![#32a852](https://placehold.it/15/32a852/000000?text=+) 01-22|武汉新型肺炎：为何直到今天才引起更大注意？|[link](https://mp.weixin.qq.com/s/xuf8nn1OPOY51cyZMduQ-Q)|[link](articles/sanlian/sanlian-1.png)|[link](https://archive.ph/Dm0pv)|
+|01-22|武汉新型肺炎：为何直到今天才引起更大注意？|[link](https://mp.weixin.qq.com/s/xuf8nn1OPOY51cyZMduQ-Q)|[link](articles/sanlian/sanlian-1.png)|[link](https://archive.ph/Dm0pv)|
 |01-23|武汉肺炎一线医生口述：大爆发期或将到来|[link](https://mp.weixin.qq.com/s?__biz=MTc5MTU3NTYyMQ==&mid=2650709421&idx=1&sn=b643a6cbe426320e5a64bcbbacbd3bb2&chksm=5afc8c876d8b059163ff43a650baea29857c1d8cb71010513e24de31c629f01e2e79a2261d32&scene=126&sessionid=1580366836&key=1f3bd73ca2cb19584342f3aa2370c04e7fc6f8e4f82ed6048fa2d6135a7ab3ff22ce7a8f3d9e22056bd52e1bf0de7d462a9aa8995cd08a545868ae7c407c23063ed8b7b044c11ffac1a7c18420ed9177&ascene=1&uin=MTE4NzU2NTYyOQ%3D%3D&devicetype=Windows+10&version=6208006f&lang=zh_CN&exportkey=AyFz3BtC8iCrYiPrNcKDwho%3D&pass_ticket=i9btyJOnbdJyPOU5NMCl5joL3LW7wnzSU%2FfpPiBYy%2Fuz50mYZm6MO38z1f3hfOZP)|[link](articles/sanlian/sanlian-2.png)|[link](http://archive.is/49ZPr)|
 |01-23|武汉肺炎重症患者：一床难求|[link](https://mp.weixin.qq.com/s?__biz=MTc5MTU3NTYyMQ==&mid=2650709439&idx=1&sn=a3d126f52128e2fcfeee337e32d01034&chksm=5afc8c956d8b058381afab4727df60aaf7b7bee5a1da095abf764bd7e11b3a4c685a30f248a9&scene=126&sessionid=1580366836&key=1f3bd73ca2cb195878ba682f0ba71a4250f2092911c01610e9cf86c03941138026079a09127c0da2da82a266f0c1a6af3809c6e9be45624ecdf25d4e65ce02d05d4647727dd15889f9d4711982c6b5aa&ascene=1&uin=MTE4NzU2NTYyOQ%3D%3D&devicetype=Windows+10&version=6208006f&lang=zh_CN&exportkey=A8OoZdJNCTCOaxh%2FwVebzi4%3D&pass_ticket=i9btyJOnbdJyPOU5NMCl5joL3LW7wnzSU%2FfpPiBYy%2Fuz50mYZm6MO38z1f3hfOZP)|[link](articles/sanlian/sanlian-3.png)|[link](https://archive.ph/DD4X3)|
 |01-24|“灯下黑”：武汉周边的疫情危机|[link](https://mp.weixin.qq.com/s/PpEqQsyF2HklmlOvHDLw4A)|[link](articles/sanlian/sanlian-4.png)|[link](https://archive.ph/mmewS)|
