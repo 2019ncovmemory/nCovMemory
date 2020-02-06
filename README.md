@@ -57,17 +57,32 @@
 希望这一选编有助于理解疫情及其影响下的每一个人，并为观察内地传媒如何呈现这场疫情做初步的资料收集。
 
 ## 贡献
-欢迎网友参与贡献，为本站指出错误，或更新、补充、推荐文章。
+欢迎网友参与贡献，为本站更新、补充、推荐文章，成为贡献者。贡献的方式是通过 **[issue](https://github.com/2019ncovmemory/nCovMemory/issues)** 或 **[pull requests](https://github.com/2019ncovmemory/nCovMemory/pulls)** 提交原文链接，archive，与截图。一些工具请参见[工具](#工具)。
 
-请通过 **[issue](https://github.com/2019ncovmemory/nCovMemory/issues)** 或 **[pull requests](https://github.com/2019ncovmemory/nCovMemory/pulls)** 提交原文和存档(archive)的链接，我们将在审核后收录。存档方法参见[工具](#工具)。
+
+为了方便整理与阅读，请贡献者在提交新文章时，遵循以下的指南。我们将会优先考虑收录符合 **指南标准** 的贡献。
+- 收录文章：请确保文章是免费并对所有互联网使用者开放的。我们不会收录任何需要付费才可以阅读的文章。
+- 一个完整的条目需包括：*日期，原始URL，archive，截图* 四个要素。
+  - 日期：需要标注 **原始文章** 发表日期。
+  - 原始链接：请尽量寻找 **原始链接**，并将链接简化，去除会包含个人隐私的内容，详情请见[#13](https://github.com/2019ncovmemory/nCovMemory/issues/13)。
+  - archive：产生 archive 时请确保文章内图片已完整加载。不同的 archive [工具](#工具)在不同的网站上效果可能不同。
+  - 截图：请确保截图内的图片已经完整加载。截图的左右留白区域应使用图片编辑工具去除，以减小文件所占空间。
+- 我们创建了4个Labels来标记不同种类的issue。请贡献者在创建issue时按需标记。正确标记的issue会更容易得到关注。
+  - ![#098728](https://placehold.it/15/098728/000000?text=+) 建议：对此站的建议。
+  - ![#e99695](https://placehold.it/15/e99695/000000?text=+) 新文章：新文章条目。
+  - ![#f490ea](https://placehold.it/15/f490ea/000000?text=+) 更新链接：更新已有但错误或不可使用的链接。
+  - ![#fef2c0](https://placehold.it/15/fef2c0/000000?text=+) 讨论：讨论其他事宜。
+
 
 需要说明，本站收录以描述性为主的深度报道、非虚构作品，也收录亲历者个人书写（[Google](https://docs.google.com/document/d/1lpZ-4BiuG6KRW5LgcN6S3E-9XYlHP0pSI58kGTxYzWo/edit?usp=sharing)）。后者尚未同步至本站，欢迎网友协助。
 
-人力所限，本站将不再大规模增收媒体、公众号。同时，我们不收录评论、分析、科普等类别的作品。欢迎网友自行整理、备份，并告知地址，以补本站之不足，我们将列入友情站点内。
+人力所限，本站将不再大规模增收媒体、公众号。同时，我们不收录评论、分析、科普等类别的作品，希望理解。欢迎网友自行整理、备份，并告知地址，以补本站之不足，我们将列入[友情站点](#友情站点)内。
 
 
 ## 工具
-我们使用[这个程序](https://gist.github.com/2019ncovmemory/1e4225aa73011cb0d6e544aad1468541)产生截图。
+我们使用[这个程序](https://gist.github.com/2019ncovmemory/1e4225aa73011cb0d6e544aad1468541)以及[这个插件](https://gofullpage.com/)产生截图。
+
+我们使用[这个网站](https://www.iloveimg.com/crop-image)编辑截图大小。
 
 我们使用[archive.is](https://archive.is/), [archive.org](https://archive.org)等产生archive。前者用于微信公众号，后者用于一般网页。
 
@@ -636,5 +651,3 @@
 
 #### [Telegram频道：2019肺炎疫情新闻赛博坟场](https://t.me/wuhancensored)
 记录网上曾被消失、篡改的内容。
-
-
