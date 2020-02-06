@@ -48,6 +48,7 @@
   * [系列：武汉封城日记](#武汉封城日记)
   * [系列：疫区影像日记](#疫区影像日记)
   * [单篇](#单篇)
+* [友情站点](#友情站点)
 
 ## 介绍
 此处收集内地各类传媒发布（原创或转载）的有关新型冠状病毒感染的肺炎(2019-nCoV)的深度报道和非虚构作品，并将持续更新。
@@ -55,12 +56,19 @@
 希望这一选编有助于理解疫情及其影响下的每一个人，并为观察内地传媒如何呈现这场疫情做初步的资料收集。
 
 ## 贡献
-欢迎网友参与贡献。请通过 **[issue](https://github.com/2019ncovmemory/nCovMemory/issues)** 或 **[pull requests](https://github.com/2019ncovmemory/nCovMemory/pulls)** 提交文章和截图，我们在审核后会收录。
+欢迎网友参与贡献，为本站指出错误，或更新、补充、推荐文章。
+
+请通过 **[issue](https://github.com/2019ncovmemory/nCovMemory/issues)** 或 **[pull requests](https://github.com/2019ncovmemory/nCovMemory/pulls)** 提交原文和存档(archive)的链接，我们将在审核后收录。存档方法参见[工具](#工具)。
+
+需要说明，本站收录以描述性为主的深度报道、非虚构作品，也收录亲历者个人书写（[石墨](https://shimo.im/docs/RVQ88TKTtjRRtv8D)、[Google](https://docs.google.com/document/d/1lpZ-4BiuG6KRW5LgcN6S3E-9XYlHP0pSI58kGTxYzWo/edit?usp=sharing)）。后者尚未同步至本站，欢迎网友协助。
+
+人力所限，本站将不再大规模增收媒体、公众号。同时，我们不收录评论、分析、科普等类别的作品。欢迎网友自行整理、备份，并告知地址，以补本站之不足，我们将列入友情站点内。
+
 
 ## 工具
-我们使用[这个](https://gist.github.com/2019ncovmemory/1e4225aa73011cb0d6e544aad1468541)产生截图。
+我们使用[这个程序](https://gist.github.com/2019ncovmemory/1e4225aa73011cb0d6e544aad1468541)产生截图。
 
-我们使用[archive.is](https://archive.is/), [archive.org](https://archive.org)等产生archive。
+我们使用[archive.is](https://archive.is/), [archive.org](https://archive.org)等产生archive。前者用于微信公众号，后者用于一般网页。
 
 ## 联系
 如发现链接失效，或有其他问题、建议，请发送email至2019ncovmemory@gmail.com。
@@ -563,5 +571,32 @@
 | 日期 | 标题 | 原始URL|截图|archive|
 |---|:----------:|:---:|-----|-----|
 
+
+
+## 友情站点
+### 本站相关的翻译和存档
+本站尚未建立时，不少网友为当时仅有的[石墨文档](https://shimo.im/docs/2d05dce1eaa743c7)中的文章做了翻译、备份等，如：
+#### [Mainland News Outlets Coverage on 2019-nCoV](https://docs.google.com/document/d/1RqYvfEbLhcyH8rhw0xLpjc2w0JqPBQINzj3ORE-Jka0/edit?usp=sharing)
+由Muyi Xiao, Shen Lu,Ye Ming, Nancy Tang, Bessie Du, Miles Goscha翻译了文章标题，并附有archive，截止02-01。
+
+#### [GitHub repo: NewsCoverageOnWuhan](https://github.com/SaveWuhan/NewsCoverageOnWuhan)
+尚有[文档版本](https://drive.google.com/file/d/0ByRCPj_-SsMwcjgwWWlKZmxlYThCNkJJUFItMnBPY1I1UXRR/view?usp=sharing)，包含截止02-02前的文章archive。
+
+尚有其他网友制作了截图、pdf和archive备份。一并致谢！
+
+
+### 独立的工作
+本站之外，许多网友也在做类似的整理工作，如：
+#### [Anti404 - 2019nCov信息ICU](https://shimo.im/docs/onq7MwVO6pf4FjA9/read)
+旨在保存舆情线索，记录个体遭遇，分专题编排。
+
+#### [2020新型冠状病毒报道汇总](https://shimo.im/sheets/QjTYy6rgVV3WDRkh/MODOC/)
+分为媒体报道、自媒体评论或报道、热门微博。
+
+#### [公众号文章存档: 2019-nCoV](https://2019-ncov.sogiecn.com/)
+收录微信公众号上的文章，含原文链接、网页存档、截图存档。
+
+#### [Telegram频道：2019肺炎疫情新闻赛博坟场](https://t.me/wuhancensored)
+记录网上曾被消失、篡改的内容。
 
 
