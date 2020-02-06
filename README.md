@@ -628,6 +628,9 @@
 
 
 ## 亲历者叙述
+
+尚未同步，请见[Google](https://docs.google.com/document/d/1lpZ-4BiuG6KRW5LgcN6S3E-9XYlHP0pSI58kGTxYzWo/edit?usp=sharing)。
+
 ### 疫区日记
 | 日期 | 标题 | 原始URL|截图|archive|
 |---|:----------:|:---:|-----|-----|
