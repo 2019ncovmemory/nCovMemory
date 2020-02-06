@@ -5,7 +5,7 @@
 
 我们使用了网友制作的 archive 存档，深表感激。同时感谢许多网友与我们共享资料并提供建议。
 
-目前[石墨文档](https://shimo.im/docs/2d05dce1eaa743c7)和[Google Doc](https://docs.google.com/document/d/1EQndEHB0gNlNWY1J5cwI_IT3u-1RP3UJJyzURotwqvk/edit?usp=sharing)的版本会同步更新，但计划在未来几日内停更，今后一切更新将在此处完成。
+目前[Google Doc](https://docs.google.com/document/d/1EQndEHB0gNlNWY1J5cwI_IT3u-1RP3UJJyzURotwqvk/edit?usp=sharing)的版本会同步更新，但计划在未来几日内停更，今后一切更新将在此处完成。
 
 ### 目录
 <!--ts-->
