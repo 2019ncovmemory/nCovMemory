@@ -571,6 +571,6 @@
 ### 疫区日记
 | 日期 | 标题 | 原始URL|截图|archive|
 |---|:----------:|:---:|-----|-----|
-|02-05|赵教授（建筑系）日记 1: 武汉新冠患者的救赎||[link](articles/zhaojiaoshou/Zhao1.JPG) [link](articles/zhaojiaoshou/Zhao2.JPG) [link](articles/zhaojiaoshou/Zhao3.JPG) [link](articles/zhaojiaoshou/Zhao4.JPG) [link](articles/zhaojiaoshou/Zhao5.JPG)||
+|02-05|赵教授（建筑系）日记 1: 武汉新冠患者的救赎||[link](articles/zhaojiaoshou/Zhao1.JPG) [link](articles/zhaojiaoshou/Zhao2.PNG) [link](articles/zhaojiaoshou/Zhao3.PNG) [link](articles/zhaojiaoshou/Zhao4.PNG) [link](articles/zhaojiaoshou/Zhao5.PNG)||
 
 
