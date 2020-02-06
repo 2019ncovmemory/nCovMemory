@@ -61,7 +61,7 @@
 
 请通过 **[issue](https://github.com/2019ncovmemory/nCovMemory/issues)** 或 **[pull requests](https://github.com/2019ncovmemory/nCovMemory/pulls)** 提交原文和存档(archive)的链接，我们将在审核后收录。存档方法参见[工具](#工具)。
 
-需要说明，本站收录以描述性为主的深度报道、非虚构作品，也收录亲历者个人书写（[石墨](https://shimo.im/docs/RVQ88TKTtjRRtv8D)、[Google](https://docs.google.com/document/d/1lpZ-4BiuG6KRW5LgcN6S3E-9XYlHP0pSI58kGTxYzWo/edit?usp=sharing)）。后者尚未同步至本站，欢迎网友协助。
+需要说明，本站收录以描述性为主的深度报道、非虚构作品，也收录亲历者个人书写（[Google](https://docs.google.com/document/d/1lpZ-4BiuG6KRW5LgcN6S3E-9XYlHP0pSI58kGTxYzWo/edit?usp=sharing)）。后者尚未同步至本站，欢迎网友协助。
 
 人力所限，本站将不再大规模增收媒体、公众号。同时，我们不收录评论、分析、科普等类别的作品。欢迎网友自行整理、备份，并告知地址，以补本站之不足，我们将列入友情站点内。
 
@@ -613,7 +613,7 @@
 
 ## 友情站点
 ### 本站相关的翻译和存档
-本站尚未建立时，不少网友为当时仅有的[石墨文档](https://shimo.im/docs/2d05dce1eaa743c7)中的文章做了翻译、备份等，如：
+很多网友为文章做了翻译、备份等，如：
 #### [Mainland News Outlets Coverage on 2019-nCoV](https://docs.google.com/document/d/1RqYvfEbLhcyH8rhw0xLpjc2w0JqPBQINzj3ORE-Jka0/edit?usp=sharing)
 由Muyi Xiao, Shen Lu,Ye Ming, Nancy Tang, Bessie Du, Miles Goscha翻译了文章标题，并附有archive，截止02-01。
 
