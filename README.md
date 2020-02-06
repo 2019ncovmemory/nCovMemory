@@ -559,9 +559,18 @@
 
 
 ## 亲历者叙述
+#
+### NGOCN
+| 日期 | 标题 | 原始URL|截图|archive|
+|---|:----------:|:---:|-----|-----|
+|02-05|事件防腐剂  新型冠状病毒蔓延的31日|[link](https://matters.news/@ngocncat/%E4%BA%8B%E4%BB%B6%E9%98%B2%E8%85%90%E5%89%82-%E6%96%B0%E5%9E%8B%E5%86%A0%E7%8A%B6%E7%97%85%E6%AF%92%E8%94%93%E5%BB%B6%E7%9A%8431%E6%97%A5-zdpuAv3cYLzdq1EREz3gF4LjdrqHMchXotLkPqaDKkCpHYCw1)|[link](articles/ngocn/ngocn-1.JPG)||
+
+
+
+## 亲历者叙述
 ### 疫区日记
 | 日期 | 标题 | 原始URL|截图|archive|
 |---|:----------:|:---:|-----|-----|
-
+|02-05|赵教授（建筑系）日记 1: 武汉新冠患者的救赎||[link](articles/zhaojiaoshou/Zhao1.JPG) [link](articles/zhaojiaoshou/Zhao2.JPG) [link](articles/zhaojiaoshou/Zhao3.JPG) [link](articles/zhaojiaoshou/Zhao4.JPG) [link](articles/zhaojiaoshou/Zhao5.JPG)||
 
 
