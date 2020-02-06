@@ -39,7 +39,7 @@
   * [人物](#人物)
   * [在人间living](#在人间living)
   * [GQ报道](#GQ报道)
-  * [深网](#深网)
+  * [腾讯深网](#腾讯深网)
   * [故事FM](#故事FM)
   * [云林街十七号](#云林街十七号)
   * [偶尔治愈](#偶尔治愈)
@@ -197,6 +197,7 @@
 |02-02|卫健委专家组成员王广发出院了，回答了我们8个问题|[link](https://mp.weixin.qq.com/s/DWcRVz10zps27VIrml_Khg)|[link](articles/bingdian/bingdian-10.png)|[link](https://archive.vn/UonXY)|
 |02-03|他感染了，可仍在网上给患者看病|[link](https://mp.weixin.qq.com/s/X024ciV2BPayaLabwHoo5w)|[link](articles/bingdian/bingdian-11.png)|[link](https://archive.vn/HThCt)|
 |02-05|最后一道防线|[link](https://mp.weixin.qq.com/s/akX0GrqhjKtsm6s-crVttA)|[link](articles/bingdian/bingdian-12.png)|[link](http://archive.ph/iJOOF)|
+|02-05|随州告急，一县医院多项防护物资库存为“0”|[link](https://mp.weixin.qq.com/s/LMgPjJPwX30ObpzMx12z2Q)|[link](articles/bingdian/bingdian-13.png)|[link](http://archive.ph/wJrIK)|
 
 
 
@@ -529,7 +530,7 @@
 |02-05|饭圈救援2020|[link](https://mp.weixin.qq.com/s/Wj0P1aT-1oHRbVij_Icbgg)|[link](articles/gq/gq-12.png)|[link](http://archive.is/tvF2p)
 |02-06|被感染护士治愈后重新上岗：如果我也害怕，大家可能都不干了|[link](https://mp.weixin.qq.com/s/Uqf4mm_axUnDpkkBIqYPVA)|[link](articles/gq/gq-13.png)|[link](http://archive.is/MoK4z)
 
-### 深网
+### 腾讯深网
 | 日期 | 标题 | 原始URL|截图|archive|
 |---|:----------:|:---:|-----|-----|
 |01-25|九个武汉普通人家的别样除夕|[link](https://mp.weixin.qq.com/s/mP9BJ-7Jjvkg-5dd2cvRqQ)|[link](articles/shenwang/shenwang-1)|[link](http://archive.is/95tQJ)|
@@ -573,6 +574,8 @@
 |01-27|武汉不设防|[link](https://mp.weixin.qq.com/s/_H8_U41jm02-Z7opzOPSiw)|[link](articles/ouerzhiyu/ouerzhiyu-2.png)|[link](http://archive.ph/C7XKa)|
 |01-31|除夕夜自我隔离的武汉人和 100 套防护服曲折路|[link](https://mp.weixin.qq.com/s/gIfjcaMuzadobmDvXkq77g)|[link](articles/ouerzhiyu/ouerzhiyu-3.png)|[link](http://archive.ph/FAXHl)|
 |02-04|武汉现场：核酸检测来不及，能用 CT 影像确诊新冠肺炎吗？|[link](https://mp.weixin.qq.com/s/wgAYDAFCRJ-UKWD6CZ6ViA)|[link](articles/ouerzhiyu/ouerzhiyu-4.png)|[link](http://archive.ph/wip/lvTn3)|
+|02-05|父亲被隔离 6 天后，疫情阴影下的残障少年之死|[link](https://mp.weixin.qq.com/s/qQiIITJpHQowiITg6NDGDw)|[link](articles/ouerzhiyu/ouerzhiyu-5.png)|[link](http://archive.ph/1XK7m)|
+
 
 
 ### 女孩别怕
