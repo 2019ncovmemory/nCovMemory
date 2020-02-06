@@ -3,7 +3,7 @@
 
 过去一日更新的文章前会加入 ![#32a852](https://placehold.it/15/32a852/000000?text=+) ，方便阅读。截图会比链接稍晚更新，但一般不超过24小时。
 
-我们使用了网友制作的 archive 存档，深表感激。同时感谢许多网友与我们共享资料并提供建议。
+我们使用了网友制作的 archive 存档，深表感激。同时感谢许多网友与我们共享资料并提供建议。我们持续欢迎网友的参与和贡献，请见[如何贡献](#如何贡献)。
 
 目前[Google Doc](https://docs.google.com/document/d/1EQndEHB0gNlNWY1J5cwI_IT3u-1RP3UJJyzURotwqvk/edit?usp=sharing)的版本会同步更新，但计划在未来几日内停更，今后一切更新将在此处完成。
 
@@ -14,7 +14,7 @@
 ### 目录
 <!--ts-->
 * [介绍](#介绍)
-* [贡献](#贡献)
+* [如何贡献](#如何贡献)
 * [工具](#工具)
 * [联系](#联系)
 * [传媒报道与非虚构写作](#传媒报道与非虚构写作)
@@ -60,7 +60,7 @@
 若详尽细致或角度新颖，且来自较可信赖的传媒，原则上均予收入，尤其重视对一线、基层（不只是最受关注的，而是包括各地、各群体、各行业）的非虚构写作和描述性报道，也收入摄影报道。来源包括各主流媒体及网络自媒体的微信公众号、网站等。
 希望这一选编有助于理解疫情及其影响下的每一个人，并为观察内地传媒如何呈现这场疫情做初步的资料收集。
 
-## 贡献
+## 如何贡献
 欢迎网友参与贡献，为本站更新、补充、推荐文章，成为贡献者。贡献的方式是通过 **[issue](https://github.com/2019ncovmemory/nCovMemory/issues)** 或 **[pull requests](https://github.com/2019ncovmemory/nCovMemory/pulls)** 提交原文链接，archive，与截图。一些工具请参见[工具](#工具)。
 
 
@@ -71,6 +71,7 @@
   - 原始链接：请尽量寻找 **原始链接**，并将链接简化，去除会包含个人隐私的内容，详情请见[#13](https://github.com/2019ncovmemory/nCovMemory/issues/13)。
   - archive：产生 archive 时请确保文章内图片已完整加载。不同的 archive [工具](#工具)在不同的网站上效果可能不同。
   - 截图：请确保截图内的图片已经完整加载。截图的左右留白区域应使用图片编辑工具去除，以减小文件所占空间。
+- 如有多个条目希望贡献，请在一个issue内列出条目的链接，并将截图上传至别处（如Google Photos），方便获取。
 - 我们创建了4个Labels来标记不同种类的issue。请贡献者在创建issue时按需标记。正确标记的issue会更容易得到关注。
   - ![#098728](https://placehold.it/15/098728/000000?text=+) 建议：对此站的建议。
   - ![#e99695](https://placehold.it/15/e99695/000000?text=+) 新文章：新文章条目。
@@ -321,6 +322,7 @@
 |02-02|“每只利润四五厘”，中国口罩产业17年沉浮 |[link](https://mp.weixin.qq.com/s/zvWu8S0oy8stR2XmaOoRAg)|[link](articles/lengjing/lengjing-12.png)|[link](http://archive.is/dwUMH)|
 |02-03|一位湖北村支书的“硬核”防疫样本：封村第九天，无确诊病例 |[link](https://mp.weixin.qq.com/s/uoqXdSU0k64MliChSml4Dw)|[link](articles/lengjing/lengjing-13.png)|[link](http://archive.is/sqT0L)|
 |02-04|审批时限两年变四天，试剂盒“一路狂奔”进武汉|[link](https://mp.weixin.qq.com/s/H-nB72VGs3eUQ5l5UDxkBg)|[link](articles/lengjing/lengjing-14.png)|[link](http://archive.is/TQPm9)|
+|02-05|中小企业“抗疫”：安全放第一；创业者总得乐观一些|[link](https://mp.weixin.qq.com/s/mVAi8JzrCPM9xBj3vMiM7Q)|[link](articles/lengjing/lengjing-14.png)|[link](http://archive.ph/wip/msJkG)|
 
 
 
@@ -464,6 +466,8 @@
 |02-01|疾控中心无辜吗？|[link](https://mp.weixin.qq.com/s/MIzNa1Brqse1DY5HyV4r2Q)|[link](articles/diyicaijing/diyicaijing-6.png)|[link](https://archive.is/0JZji)|
 |02-02|“失踪”的口罩和红十字会“黑洞”|[link](https://mp.weixin.qq.com/s/k-tWQpbld2z4upwp9BX-Yw)|[link](articles/diyicaijing/diyicaijing-7.png)|[link](https://archive.is/jMtPm)|
 |02-04|武汉可以从非典的经验中学到什么？|[link](https://mp.weixin.qq.com/s/mtOqvgXq_pJPSBAILvAc4w)|[link](articles/diyicaijing/diyicaijing-8.png)|[link](https://archive.is/DbYVk)|
+|02-05|疫情之下，在线教育能否“逆行而上”？|[link](https://mp.weixin.qq.com/s/B_K0CB1BTaU2bJ0UxBG9qQ)|[link](articles/diyicaijing/diyicaijing-9.png)|[link](http://archive.ph/NXByv)|
+
 
 
 ### 清流工作室
@@ -509,6 +513,7 @@
 |02-05|专访王广发：快速诊断是当务之急|[link](https://mp.weixin.qq.com/s/9LOM6C7DGD8Meb6O6cZOoA)|[link](articles/renwu/renwu-19.png)|[link](http://archive.is/jb532)
 |02-05|黄冈，疫情下的床位扩张战|[link](https://mp.weixin.qq.com/s/JjRFGDvQT0TI93Tlzst1IQ)|[link](articles/renwu/renwu-20.png)|[link](http://archive.is/wDm0h)
 |02-06|和疫情一线的医生聊的越多，就越尊重他们|[link](https://mp.weixin.qq.com/s/GkWo9jxxzU3UFDE_z_X-7w)|[link](articles/renwu/renwu-21.png)|[link](http://archive.is/i0d1k)
+
 
 
 ### 在人间living
@@ -558,8 +563,7 @@
 |02-02|京东武汉战事：金银潭医院500米处，为机枪手递上子弹|[link]( https://mp.weixin.qq.com/s/0BvECo4bwvmx6fc-807scw)|[link](articles/shenwang/shenwang-8)|[link](http://archive.is/bzOey)|
 |02-03|33吨钢材火线驰援：19个小时、1100公里直抵雷神山 |[link]( https://mp.weixin.qq.com/s/1eCvcbovu1G_1D5BzqVgKw)|[link](articles/shenwang/shenwang-9)|[link](http://archive.is/wq2sq)|
 |02-04|一位治愈患者的抗疫日记：走过生死考验，我总结了这六个建议 |[link](https://mp.weixin.qq.com/s/3oTkd0s4OsrqM1EiPoys3Q)|[link](articles/shenwang/shenwang-10)|[link](http://archive.is/lHHg8)|
-
-
+|02-06|一位教育培训创业者的抗疫计划：我们准备这样扛过三个月|[link](https://mp.weixin.qq.com/s/O00QQMVXRuLAaLIbcN5XuQ)|[link](articles/shenwang/shenwang-10)|[link](http://archive.ph/wip/tgCBm)|
 
 
 
@@ -627,6 +631,9 @@
 
 
 ## 亲历者叙述
+
+尚未同步，请见[Google](https://docs.google.com/document/d/1lpZ-4BiuG6KRW5LgcN6S3E-9XYlHP0pSI58kGTxYzWo/edit?usp=sharing)。
+
 ### 疫区日记
 | 日期 | 标题 | 原始URL|截图|archive|
 |---|:----------:|:---:|-----|-----|
