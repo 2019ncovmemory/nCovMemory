@@ -637,4 +637,9 @@
 #### [Telegram频道：2019肺炎疫情新闻赛博坟场](https://t.me/wuhancensored)
 记录网上曾被消失、篡改的内容。
 
+#### [端点星计划](https://github.com/Terminus2049/Terminus2049.github.io)
+在 GitHub 开放平台搭建的一个站点，用于备份微信、微博等平台被删文章。
+
+#### [Telegram 备份机器人](https://2049bbs.xyz/t/2849)
+发送网址即可保存网页到archive.org、archive.today 和端点星存档服务
 
