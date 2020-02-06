@@ -506,6 +506,7 @@
 |---|:----------:|:---:|-----|-----|
 |01-27|10000个临时发往武汉的口罩|[link](https://mp.weixin.qq.com/s/p-uPky_zB6XKcAetthqkKg)|[link](articles/gq/gq-1.png)|[link](https://archive.ph/9s1ug)|
 |01-28|我家离华南海鲜市场很近：返乡、封城、过年，一位武汉大学生的过去一周|[link](https://mp.weixin.qq.com/s/n7dXGHh-79d6VEzDhhOUbQ)|[link](articles/gq/gq-2.png)|[link](https://archive.ph/RSmFx)|
+|01-28|武汉隔离：疫区、信息孤岛与一辆鄂A车的漂流|[link](https://mp.weixin.qq.com/s/M-hVivF7NQmZHlu8YMnL_w)|[link](articles/gq/gq-14.png)|[link](http://archive.is/3XKZD)
 |01-29|孝感前线医生：武汉更难，我们下面不好意思提要求|[link](https://mp.weixin.qq.com/s/uGaFeqrqmLBQe5qdRSTeSQ)|[link](articles/gq/gq-3.png)|[link](https://archive.ph/MnZrn)|
 |01-29|疫情危机中不被看见的人们：武汉周边城市百姓的自救行动|[link](https://mp.weixin.qq.com/s/D8Ob8pNmecHKXg7yR7EWFg)|[link](articles/gq/gq-4.png)|[link](https://archive.ph/vDSj5)|
 |01-30|恐慌很正常，当疫情结束，才是心理问题高发期|[link](https://mp.weixin.qq.com/s/3Ox4w365hKqDU-_MAZJmbg)|[link](articles/gq/gq-5.png)|[link](https://archive.ph/WVjSQ)|
@@ -516,6 +517,7 @@
 |02-02|一群00后留学生的捐赠行动：“我们和真实的社会接上了”|[link](https://mp.weixin.qq.com/s/JtBYRWZADzEF5fT9k7PgsQ)|[link](articles/gq/gq-10.png)|[link](https://archive.vn/uNEOx)|
 |02-03|疫情中的武汉孕妇：我想活命，我的孩子也是|[link](https://mp.weixin.qq.com/s/-RADC529RPq099XE6-kwyw)|[link](articles/gq/gq-11.png)|[link](https://archive.vn/HMvOi)|
 |02-05|饭圈救援2020|[link](https://mp.weixin.qq.com/s/Wj0P1aT-1oHRbVij_Icbgg)|[link](articles/gq/gq-12.png)|[link](http://archive.is/tvF2p)
+|02-06|被感染护士治愈后重新上岗：如果我也害怕，大家可能都不干了|[link](https://mp.weixin.qq.com/s/Uqf4mm_axUnDpkkBIqYPVA)|[link](articles/gq/gq-13.png)|[link](http://archive.is/MoK4z)
 
 ### 深网
 | 日期 | 标题 | 原始URL|截图|archive|
