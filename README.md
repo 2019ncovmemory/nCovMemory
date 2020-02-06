@@ -1,0 +1,3 @@
+- [ ] hero.png
+- [ ] pwa manifest
+- [ ] [docs/README.md](docs/README.md)
