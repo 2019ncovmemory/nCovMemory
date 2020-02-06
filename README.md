@@ -235,6 +235,9 @@
 |02-04|驰援武汉的上海专家：多数重症病人体内突然启动炎症风暴|[link](https://mp.weixin.qq.com/s/rSR9IG3Kf6DqMFC17DLbAQ)|[link](articles/nanfang/nanfang-35.png)|[link](http://archive.ph/s3BDM)|
 |02-05|“我想保护好我的村”|[link](https://mp.weixin.qq.com/s/6YSBkxFykIO2HOe34JP3vw)|[link](articles/nanfang/nanfang-36.png)|[link](http://archive.is/Im9d1)|
 |02-05|鄂外重灾区：国内多地重点管控“温州返回人员”|[link](https://mp.weixin.qq.com/s/vzb7EeQjpgI9NO2S1_lCRw)|[link](articles/nanfang/nanfang-37.png)|[link](http://archive.is/zpJDS)|
+|02-06|广东医疗队援汉日记：带上SARS防治经验，进入武汉疫区|[link](https://mp.weixin.qq.com/s/58vY15giGS0SKGzL3-HD3w)|[link](articles/nanfang/nanfang-38.png)|[link](http://archive.is/WnrtZ)|
+|02-06|“征用”疫情紧张地区防疫物资，大理太无理|[link](https://mp.weixin.qq.com/s/SIBVrTfti5Nk42BwLvs7EA)|[link](articles/nanfang/nanfang-39.png)|[link](http://archive.is/TZoof)|
+|02-06|谁是“假阴性”新冠肺炎病人|[link](https://mp.weixin.qq.com/s/AFwRYmcdKjxuSyRj3l7vrA)|[link](articles/nanfang/nanfang-39.png)|[link](http://archive.is/7rhcJ)|
 
 
 ### 南都周刊
