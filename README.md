@@ -173,7 +173,7 @@
 |02-04|武汉早期感染最重医生：出ICU还要很长康复期，目前呼吸仍困难|[link](https://mp.weixin.qq.com/s/KmyIc8SZIYCWZuUSU2cmRg)|[link](articles/beiqing/beiqing-12.png)|[link](http://archive.is/wDwnn)|
 |02-05|鄂A牌车30小时归乡记|[link](https://mp.weixin.qq.com/s/3rEWz5fSvPvSJTaGZkEcCQ)|[link](articles/beiqing/beiqing-13.png)|[link](http://archive.is/pTg0b#selection-41.64-41.75)
 |02-05| 湖北一线心理咨询师：恐慌让他每半个小时测一次体温|[link](https://mp.weixin.qq.com/s/gjBMJkXdcracVbA4TYFVcw)|[link](articles/beiqing/beiqing-14.png)|[link](http://archive.is/rOlKQ)
-
+|02-06| 一名中国人在菲律宾的隔离日记|[link](https://mp.weixin.qq.com/s/QT7tuiR7OfFIOHEG9zB-jQ)|[link](articles/beiqing/beiqing-15.png)|[link](http://archive.is/laQr0)
 
 
 ### 冰点周刊
