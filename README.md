@@ -335,6 +335,7 @@
 |02-02|肺炎日记｜2月2日：力不从心红会“让路”，双黄连惹质疑|[link](http://www.caixin.com/2020-02-03/101510766.html)|[link](articles/caixin/caixin-16.png)|[link](https://web.archive.org/web/20200203104351/http://www.caixin.com/2020-02-03/101510766.html)|
 |02-03|肺炎日记｜2月3日：武汉大量疑似患者获收治 医疗措施是关键|[link](http://www.caixin.com/2020-02-04/101511212.html)|[link](articles/caixin/caixin-016a.png)|[link](https://web.archive.org/web/20200204085039/http://www.caixin.com/2020-02-04/101511212.html)|
 |02-04|肺炎日记｜2月4日:确诊破两万，停工停业何时休|[link](http://www.caixin.com/2020-02-05/101511603.html)|[link](articles/caixin/caixin-16b.png)|[link](https://web.archive.org/web/20200205074602/http://www.caixin.com/2020-02-05/101511603.html)|
+|02-04|肺炎日记｜2月5日：疫情不确定性增加，危重病人三周定生死 |[link](http://www.caixin.com/2020-02-06/101512029.html)|[link](articles/caixin/caixin-16c.png)|[link](http://archive.is/vWEb6)|  
 |01-22|记者手记｜野味成武汉肺炎元凶 你见过香港菜市场这么卖活物吗？|[link](http://www.caixin.com/2020-01-22/101507417.html)|[link](articles/caixin/caixin-17.png)|[link](https://web.archive.org/web/20200202210656/http://www.caixin.com/2020-01-22/101507417.html)|
 |01-23|解读｜武汉肺炎是如何确诊和发布的|[link](http://www.caixin.com/2020-01-23/101507556.html)|[link](articles/caixin/caixin-18.png)|[link](https://web.archive.org/web/20200202210707/http://www.caixin.com/2020-01-23/101507556.html)|
 |01-23|武汉百步亭“万家宴”过后 当地药店口罩脱销|[link](http://www.caixin.com/2020-01-23/101507508.html)|[link](articles/caixin/caixin-19.png)|[link](https://web.archive.org/web/20200202210722/http://www.caixin.com/2020-01-23/101507508.html)|
@@ -356,6 +357,9 @@
 |02-04|武汉疫情调查追踪：医护感染应受关注|[link](http://www.caixin.com/2020-02-04/101511377.html)|[link](articles/caixin/caixin-35.png)|[link](https://web.archive.org/web/20200204084331/http://www.caixin.com/2020-02-04/101511377.html)|
 |02-04|珠海暂停餐饮企业运营 禁止顾客现场就餐|[link](http://www.caixin.com/2020-02-04/101511321.html)|[link](articles/caixin/caixin-36.png)|[link](https://web.archive.org/web/20200205074118/http://www.caixin.com/2020-02-04/101511321.html)|
 |02-05|武汉百步亭社区多个门栋现发热患者 中老年人为主|[link](http://www.caixin.com/2020-02-05/101511617.html)|[link](articles/caixin/caixin-37.png)|[link](https://web.archive.org/web/20200205031020/http://www.caixin.com/2020-02-05/101511617.html)|
+|02-05|独家|石正丽回应质疑 专家一致认为新冠病毒非人造|[link](http://www.caixin.com/2020-02-05/101511847.html)|[link](articles/caixin/caixin-38.png)|[link](http://archive.is/X8gXV)|
+|02-05|解药|武汉病毒所陷争议：为何此时宣布申请瑞德西韦新用途专利？|[link](http://www.caixin.com/2020-02-05/101511847.html)|[link](articles/caixin/caixin-39.png)|[link](http://archive.is/nLBnh)|
+|02-06|记者手记|疫情中的货车司机：每天只吃一顿饭|[link](http://www.caixin.com/2020-02-06/101512091.html)|[link](articles/caixin/caixin-40.png)|[link](http://archive.is/W5BXe)|
 
 
 
