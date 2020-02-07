@@ -644,10 +644,10 @@
 ### 本站相关的翻译和存档
 很多网友为文章做了翻译、备份等，如：
 #### [Mainland News Outlets Coverage on 2019-nCoV](https://docs.google.com/document/d/1RqYvfEbLhcyH8rhw0xLpjc2w0JqPBQINzj3ORE-Jka0/edit?usp=sharing)
-由Muyi Xiao, Shen Lu,Ye Ming, Nancy Tang, Bessie Du, Miles Goscha翻译了文章标题，并附有archive，截止02-01。
+由Muyi Xiao, Shen Lu, Ye Ming, Nancy Tang, Bessie Du, Miles Goscha翻译了文章标题，并附有archive，截止02-01。
 
 #### [GitHub repo: NewsCoverageOnWuhan](https://github.com/SaveWuhan/NewsCoverageOnWuhan)
-尚有[文档版本](https://drive.google.com/file/d/0ByRCPj_-SsMwcjgwWWlKZmxlYThCNkJJUFItMnBPY1I1UXRR/view?usp=sharing)，包含截止02-02前的文章archive。
+文字版本的备份。可于[GitBook]阅读。
 
 尚有其他网友制作了截图、pdf和archive备份。一并致谢！
 
