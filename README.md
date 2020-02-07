@@ -649,6 +649,9 @@
 #### [GitHub repo: NewsCoverageOnWuhan](https://github.com/SaveWuhan/NewsCoverageOnWuhan)
 文字版本的备份。可于[GitBook](https://freewuhan2020.gitbook.io/wuhan2020/)阅读。
 
+####[GitHub repo: wuhan2019](https://github.com/lestweforget/wuhan2019)
+pdf版本的备份，有日期、标题备查。
+
 尚有其他网友制作了截图、pdf和archive备份。一并致谢！
 
 
