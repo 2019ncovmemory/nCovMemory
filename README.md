@@ -647,7 +647,7 @@
 由Muyi Xiao, Shen Lu, Ye Ming, Nancy Tang, Bessie Du, Miles Goscha翻译了文章标题，并附有archive，截止02-01。
 
 #### [GitHub repo: NewsCoverageOnWuhan](https://github.com/SaveWuhan/NewsCoverageOnWuhan)
-文字版本的备份。可于[GitBook]阅读。
+文字版本的备份。可于[GitBook](https://freewuhan2020.gitbook.io/wuhan2020/)阅读。
 
 尚有其他网友制作了截图、pdf和archive备份。一并致谢！
 
