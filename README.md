@@ -638,6 +638,10 @@
 | 日期 | 标题 | 原始URL|截图|archive|
 |---|:----------:|:---:|-----|-----|
 
+### 单篇
+| 日期 | 标题 | 原始URL|截图|archive|
+|---|:----------:|:---:|-----|-----|
+|01-28|记录一下首次发现新型冠状病毒的经历（小山狗，个人微信）|[link](https://mp.weixin.qq.com/s/KMKSVFnNCikEs9BRZzkr4A)|[link](articles/xiaoshangou/xiaoshangou-1.png)|[link](https://archive.vn/DpZkX)|
 
 
 ## 友情站点
