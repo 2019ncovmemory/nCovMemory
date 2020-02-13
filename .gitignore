@@ -1,3 +1,9 @@
+/gen
+/docs/*
+!/docs/.vuepress
+/docs/.vuepress/public/manifest.webmanifest
+/docs/.vuepress/public/icons
+
 # Logs
 logs
 *.log
