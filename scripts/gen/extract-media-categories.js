@@ -92,7 +92,7 @@ exports.extractMediaCategoriesFromData = async ({
         articlesOfMedia.push(
           ...articlesByDate[date].map((v, i) => {
             const name =
-              v.category + "/" + v.media + "2020/" + date + "/" + v.title;
+              v.category + "/" + v.media + "/" + date + "/" + v.title;
             const id = hash(name);
 
             if (usedArticleIds[id]) {
