@@ -68,7 +68,7 @@ exports.extractHomepageAndSiteInfo = ({ originalMd, mediaCategories }) => {
   }
 
   info.appName = info.title.split(/[：:]/)[0];
-  info.shortName = SITE_SHORT_NAME;
+  info.appShortName = SITE_SHORT_NAME;
 
   return { content: home, info };
 };
