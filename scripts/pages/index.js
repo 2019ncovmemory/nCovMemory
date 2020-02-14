@@ -6,6 +6,8 @@ const { main: gen } = require("../gen");
 const { pagesOfMediaCategories } = require("./media");
 const { pagesOfHomepage } = require("./homepage");
 
+const { getNav, getSidebar } = require("../sidebars");
+
 exports.additionalPagesAndData = async () => {
   const data = await gen();
   const {
@@ -26,6 +28,8 @@ exports.additionalPagesAndData = async () => {
 
   return {
     ...data,
+    nav: getNav(mediaCategories),
+    sidebar: getSidebar(mediaCategories),
     pages: [...mediaPages, ...homePages],
   };
 };

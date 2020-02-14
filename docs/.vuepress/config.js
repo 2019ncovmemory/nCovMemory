@@ -1,7 +1,6 @@
 /* eslint-env node */
 
 const VuetifyLoaderPlugin = require("vuetify-loader/lib/plugin");
-const themeConfig = require("./theme-configs/default");
 const webpack = require("webpack");
 const { webpackAlias } = require("../../scripts/constants");
 const { additionalPagesAndData } = require("../../scripts/pages");
@@ -9,12 +8,13 @@ const { additionalPagesAndData } = require("../../scripts/pages");
 const data = additionalPagesAndData();
 
 module.exports = async () => {
-  const { pages, siteInfo, head } = await data;
+  const { pages, siteInfo, head, nav, sidebar } = await data;
   return {
     title: siteInfo.appName,
     description: siteInfo.description,
     base: process.env.CUSTOM_BASE || "/",
-    themeConfig,
+    // https://vuepress.vuejs.org/theme/default-theme-config.html
+    themeConfig: { nav, sidebar },
     additionalPages: pages,
     markdown: {
       extendMarkdown: md => {
