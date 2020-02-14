@@ -5,6 +5,7 @@ const { SITE_SHORT_NAME } = require("../constants");
 
 // remove first 5 non-empty line in README
 const REMOVE_LINE_COUNT = 5;
+const DESC_LINE_NUM = 2;
 
 exports.extractHomepageAndSiteInfo = ({ originalMd, mediaCategories }) => {
   const resList = regexps.mdMatchAllHeaders(originalMd);
@@ -20,27 +21,8 @@ exports.extractHomepageAndSiteInfo = ({ originalMd, mediaCategories }) => {
       curIndex = res.index;
     }
 
-    if (res.groups.tag.length === 2) {
-      const category = mediaCategories.find(c => c.title === res.groups.inline);
-      if (category !== undefined) {
-        const { mediaList, route } = category;
-        if (!info.defaultLink) info.defaultLink = route;
-        update = () => {
-          home +=
-            res.raw +
-            `
-
-[查看 ${mediaList.length} 家媒体的 ${mediaList.reduce(
-              (n, m) => n + m.articles.length,
-              0,
-            )} 篇文章](${route})
-`;
-        };
-      } else if (res.groups.inline.trim() === "目录") {
-        update = () => (home += res.raw + "\n\n[[toc]]\n");
-      } else {
-        update = undefined;
-      }
+    if (res.groups.tag.length === 2 && res.groups.inline.trim() === "目录") {
+      update = () => (home += res.raw + "\n\n[[toc]]\n");
     } else if (res.groups.tag.length === 1) {
       if (info.title) console.warn("detected multiple h1 in README");
       else info.title = res.groups.inline;
@@ -51,7 +33,7 @@ exports.extractHomepageAndSiteInfo = ({ originalMd, mediaCategories }) => {
         const removedLines = matches.slice(0, count).map(m => m[0]);
         const rest = str.slice(matches[count].index);
 
-        info.description = removedLines[1];
+        info.description = removedLines[DESC_LINE_NUM];
 
         home += rest;
       };
@@ -69,6 +51,23 @@ exports.extractHomepageAndSiteInfo = ({ originalMd, mediaCategories }) => {
 
   info.appName = info.title.split(/[：:]/)[0];
   info.appShortName = SITE_SHORT_NAME;
+  info.defaultLink = mediaCategories[0].route;
+
+  home = home.replace(
+    /{{!-- category --}}.+{{\/each}}/s,
+    mediaCategories
+      .map(
+        c =>
+          `## ${c.title}
+
+[查看 ${c.mediaList.length} 家媒体的 ${c.mediaList.reduce(
+            (n, m) => n + m.articles.length,
+            0,
+          )} 篇文章](${c.route})
+    `,
+      )
+      .join("\n"),
+  );
 
   return { content: home, info };
 };
