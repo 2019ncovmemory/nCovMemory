@@ -68,6 +68,13 @@ module.exports = async () => {
           },
         },
       ],
+      [
+        "named-chunks",
+        {
+          pageChunkName: page => "page" + page.key.slice(1),
+          layoutChunkName: layout => "layout-" + layout.componentName,
+        },
+      ],
     ],
   };
 };

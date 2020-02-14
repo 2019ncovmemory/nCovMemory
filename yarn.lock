@@ -8545,6 +8545,11 @@ vuepress-plugin-container@^2.0.2:
   dependencies:
     markdown-it-container "^2.0.0"
 
+vuepress-plugin-named-chunks@^1.1.2:
+  version "1.1.2"
+  resolved "https://registry.yarnpkg.com/vuepress-plugin-named-chunks/-/vuepress-plugin-named-chunks-1.1.2.tgz#b44d7f6bb43a8c68939b485d56cda0860afc129c"
+  integrity sha512-9x2xj3kj9fkGY8B+nGJVVGzcH9M/gKpnsZfJy56SXSrt6cg2u9jss+8D/rphcmCuXL4huqAvN2alkgTyZZ13tA==
+
 vuepress-plugin-smooth-scroll@^0.0.3:
   version "0.0.3"
   resolved "https://registry.yarnpkg.com/vuepress-plugin-smooth-scroll/-/vuepress-plugin-smooth-scroll-0.0.3.tgz#6eff2d4c186cca917cc9f7df2b0af7de7c8c6438"
