@@ -20,12 +20,13 @@ title: ${JSON.stringify(articleInfo.info.title)}
     md +
     `
 <script>
-import articleInfo from '${pathUsingAlias(
+import { articles } from '${pathUsingAlias(
       PATH_GEN_MEDIA,
       articleInfo.info.category,
       articleInfo.info.media,
-      articleInfo.id,
-    )}.json';
+    )}';
+
+const articleInfo = articles[${JSON.stringify(articleInfo.id)}]
 
 export default {
   data: () => articleInfo

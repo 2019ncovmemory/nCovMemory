@@ -36,7 +36,7 @@ exports.sidebar = Object.assign(
           path: route + m.media + "/",
           children: m.articles.map(a => ({
             title: a.info.title,
-            path: route + m.media + "/" + a.id,
+            path: route + m.media + "/" + a.id + "/",
           })),
         })),
       ],

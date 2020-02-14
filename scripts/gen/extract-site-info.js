@@ -1,34 +1,15 @@
 "use strict";
 
-const fs = require("fs").promises;
 const regexps = require("../lib/regexps");
-const { categoryTitleToName, categoryToSubRoute } = require("../category");
+const { SITE_SHORT_NAME } = require("../constants");
 
-const prependHome = ({ title, description, link }) => `---
-home: true
-heroText: ${title}
-tagline: ${description}
-actionText: 开始阅读
-actionLink: ${link}
-# features:
-#   - title: Simplicity First
-#     details: Minimal setup with markdown-centered project structure helps you focus on writing.
-#   - title: Vue-Powered
-#     details: Enjoy the dev experience of Vue + webpack, use Vue components in markdown, and develop custom themes with Vue.
-#   - title: Performant
-#     details: VuePress generates pre-rendered static HTML for each page, and runs as an SPA once a page is loaded.
-# footer: MIT Licensed | Copyright © 2018-present Evan You
----
-
-`;
-
-function homepageReadme(originalMd, mediaByCategory, route) {
+exports.extractHomepageAndSiteInfo = ({ originalMd, mediaCategories }) => {
   const resList = regexps.mdMatchAllHeaders(originalMd);
   let home = "";
   let curIndex = 0;
   let update = str => (home += str);
 
-  let info = {};
+  const info = {};
 
   for (const res of resList.filter(res => res.groups.tag.length <= 2)) {
     if (typeof update === "function") {
@@ -37,11 +18,10 @@ function homepageReadme(originalMd, mediaByCategory, route) {
     }
 
     if (res.groups.tag.length === 2) {
-      const categoryName = categoryTitleToName(res.groups.inline);
-      const mediaList = mediaByCategory[categoryName];
-      if (categoryName !== undefined) {
-        const r = route + categoryToSubRoute(categoryName);
-        if (!info.link) info.link = r;
+      const category = mediaCategories.find(c => c.title === res.groups.inline);
+      if (category !== undefined) {
+        const { mediaList, route } = category;
+        if (!info.defaultLink) info.defaultLink = route;
         update = () => {
           home +=
             res.raw +
@@ -50,7 +30,7 @@ function homepageReadme(originalMd, mediaByCategory, route) {
 [查看 ${mediaList.length} 家媒体的 ${mediaList.reduce(
               (n, m) => n + m.articles.length,
               0,
-            )} 篇文章](${r})
+            )} 篇文章](${route})
 `;
         };
       } else if (res.groups.inline.trim() === "目录") {
@@ -85,20 +65,8 @@ function homepageReadme(originalMd, mediaByCategory, route) {
     update(originalMd.slice(curIndex));
   }
 
-  return { content: prependHome(info) + home, info };
-}
+  info.appName = info.title.split(/[：:]/)[0];
+  info.shortName = SITE_SHORT_NAME;
 
-exports.pagesOfHomepage = async ({
-  originalFile,
-  mediaByCategory,
-  baseRoute,
-}) => {
-  const md = await fs.readFile(originalFile, "utf-8");
-
-  let { content, info } = homepageReadme(md, mediaByCategory, baseRoute);
-
-  return {
-    pages: [{ path: baseRoute, content }],
-    info,
-  };
+  return { content: home, info };
 };

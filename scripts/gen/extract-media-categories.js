@@ -4,8 +4,6 @@ const fs = require("fs").promises;
 const Papa = require("papaparse");
 const { hash } = require("../lib/hash");
 
-const { DEV_MEDIA_MAX_COUNT } = require("../constants");
-
 async function getArticles(dataFile) {
   const csv = await fs.readFile(dataFile, "utf-8");
 
@@ -33,7 +31,14 @@ async function getOrdering(file) {
   return JSON.parse(content);
 }
 
-exports.extractMediaCategoriesFromData = async ({ dataCsv, orderingJson }) => {
+exports.extractMediaCategoriesFromData = async ({
+  dataCsv,
+  orderingJson,
+  categoryNameToTitle,
+  categoryNameToSubRoute,
+  mediaBaseRoute,
+  DEV_MEDIA_MAX_COUNT,
+}) => {
   const [articles, ordering] = await Promise.all([
     getArticles(dataCsv),
     getOrdering(orderingJson),
@@ -151,15 +156,28 @@ exports.extractMediaCategoriesFromData = async ({ dataCsv, orderingJson }) => {
       : mediaInfoList.sort((m1, m2) => (m1.media > m2.media1 ? 1 : -1));
   }
 
+  let categoriesResult = categories;
+
   if (DEV_MEDIA_MAX_COUNT > 0) {
     console.warn(
       `media count in each category is limited to ${DEV_MEDIA_MAX_COUNT} for quicker development`,
     );
-    return Object.assign(
+    categoriesResult = Object.assign(
       {},
       ...Object.keys(categories).map(c => ({
         [c]: categories[c].slice(0, DEV_MEDIA_MAX_COUNT),
       })),
     );
-  } else return categories;
+  }
+
+  return Object.keys(categoriesResult).map(c => {
+    const subRoute = categoryNameToSubRoute(c);
+    return {
+      name: c,
+      mediaList: categoriesResult[c],
+      title: categoryNameToTitle(c),
+      subRoute,
+      route: mediaBaseRoute + subRoute,
+    };
+  });
 };

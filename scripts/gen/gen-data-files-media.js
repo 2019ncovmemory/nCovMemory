@@ -3,6 +3,7 @@
 const { mkdirp } = require("../lib/path");
 const fs = require("fs").promises;
 const path = require("path");
+const { rimrafChildren } = require("../lib/path");
 
 async function genDataFileForMediaHome(mediaInfoList, dir) {
   await mkdirp(dir);
@@ -30,7 +31,8 @@ async function genDataFileForMediaHome(mediaInfoList, dir) {
   ]);
 }
 
-function genDataFilesForMediaList(mediaList, dir) {
+function genDataFilesForCategory(category, dir) {
+  const { mediaList } = category;
   return Promise.all([
     // mediaInfoList => media-home
     genDataFileForMediaHome(mediaList, dir),
@@ -38,33 +40,41 @@ function genDataFilesForMediaList(mediaList, dir) {
     ...mediaList.map(async mediaInfo => {
       const mediaDir = path.join(dir, mediaInfo.media);
       await mkdirp(mediaDir);
-      const indexJsExports = `
-{
+      const defs = mediaInfo.articles
+        .map((a, i) => `const a${i} = ${JSON.stringify(a)};`)
+        .join("\n");
+      const articlesObject = `articles = {
+${mediaInfo.articles
+  .map((a, i) => `  ${JSON.stringify(a.id)}: a${i},`)
+  .join("\n")}
+}
+`;
+      const indexJsExports = `{
   media: ${JSON.stringify(mediaInfo.media)},
   articles: [${mediaInfo.articles.map((_, i) => `a${i}`).join(", ")}]
 }
 `;
       await Promise.all([
-        ...mediaInfo.articles.map(article =>
-          fs.writeFile(
-            path.join(mediaDir, article.id + ".json"),
-            JSON.stringify(article),
-          ),
-        ),
+        // ...mediaInfo.articles.map(article =>
+        //   fs.writeFile(
+        //     path.join(mediaDir, article.id + ".json"),
+        //     JSON.stringify(article),
+        //   ),
+        // ),
         fs.writeFile(
           path.join(mediaDir, "index.js"),
-          mediaInfo.articles
-            .map((a, i) => `import a${i} from "./${a.id}.json"`)
-            .join("\n") +
-            "\nexport default " +
+          defs +
+            "\n" +
+            `export const ${articlesObject};\n` +
+            "export default " +
             indexJsExports,
         ),
         fs.writeFile(
           path.join(mediaDir, "cjs.js"),
-          mediaInfo.articles
-            .map((a, i) => `const a${i} = require("./${a.id}.json")`)
-            .join("\n") +
-            "\nexports.default = " +
+          defs +
+            "\n" +
+            `exports.${articlesObject};\n` +
+            "exports.default = " +
             indexJsExports,
         ),
       ]);
@@ -72,19 +82,14 @@ function genDataFilesForMediaList(mediaList, dir) {
   ]);
 }
 
-exports.genDataFilesForMediaCategories = async (
-  mediaInfoListByCategory,
-  dir,
-) => {
-  const content = JSON.stringify(Object.keys(mediaInfoListByCategory));
+exports.genDataFilesForCategories = async ({ categories, dir }) => {
+  await rimrafChildren(dir);
+  const content = JSON.stringify(categories.map(c => c.name));
 
   await Promise.all([
     fs.writeFile(path.join(dir, "info.json"), content),
-    ...Object.keys(mediaInfoListByCategory).map(category =>
-      genDataFilesForMediaList(
-        mediaInfoListByCategory[category],
-        path.join(dir, category),
-      ),
+    ...categories.map(category =>
+      genDataFilesForCategory(category, path.join(dir, category.name)),
     ),
   ]);
 };

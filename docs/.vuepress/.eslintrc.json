@@ -1,9 +1,10 @@
 {
-  "extends": [
-    "eslint:recommended",
-    "plugin:node/recommended",
-    "plugin:prettier/recommended"
-  ],
+  "root": true,
+  "extends": ["eslint:recommended", "plugin:prettier/recommended"],
+  "parserOptions": {
+    "ecmaVersion": 2020,
+    "sourceType": "module"
+  },
   "rules": {
     "prefer-const": "error",
     "no-var": "error",

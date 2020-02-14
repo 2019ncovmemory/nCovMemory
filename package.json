@@ -34,9 +34,9 @@
     "vuetify-loader": "EqualMa/vuetify-loader#fix/handle-all-vue-loaders"
   },
   "scripts": {
-    "gen": "node ./scripts/gen/main.js",
-    "docs:dev": "yarn run gen && vuepress dev docs",
-    "docs:build": "yarn run gen && vuepress build docs"
+    "lint-all": "eslint . docs/.vuepress",
+    "docs:dev": "vuepress dev docs",
+    "docs:build": "vuepress build docs"
   },
   "dependencies": {
     "normalize.css": "^8.0.1",
