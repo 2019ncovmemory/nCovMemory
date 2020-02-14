@@ -3,6 +3,9 @@
 const regexps = require("../lib/regexps");
 const { SITE_SHORT_NAME } = require("../constants");
 
+// remove first 5 non-empty line in README
+const REMOVE_LINE_COUNT = 5;
+
 exports.extractHomepageAndSiteInfo = ({ originalMd, mediaCategories }) => {
   const resList = regexps.mdMatchAllHeaders(originalMd);
   let home = "";
@@ -43,8 +46,7 @@ exports.extractHomepageAndSiteInfo = ({ originalMd, mediaCategories }) => {
       else info.title = res.groups.inline;
       // h1
       update = str => {
-        // remove first 4 non-empty line in README
-        const count = 4;
+        const count = REMOVE_LINE_COUNT;
         const matches = [...str.matchAll(/^.+$/gm)].slice(0, count + 1);
         const removedLines = matches.slice(0, count).map(m => m[0]);
         const rest = str.slice(matches[count].index);
