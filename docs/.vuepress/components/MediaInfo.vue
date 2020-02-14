@@ -27,7 +27,7 @@
 export default {
   props: {
     media: String,
-    articles: Array
+    articles: Array,
   },
   computed: {
     articlesToShow() {
@@ -41,12 +41,17 @@ export default {
     },
     articleCount() {
       return this.articles.length;
-    }
+    },
   },
   methods: {
     seeAllArticles() {
-      this.$router.push(this.media);
-    }
-  }
+      // https://github.com/vuejs/vue-router/issues/2881#issuecomment-520554378
+      this.$router.push(this.media + "/").catch(err => {
+        console.log(
+          "some harmless error occurs in router.push: " + (err && err.message),
+        );
+      });
+    },
+  },
 };
 </script>
