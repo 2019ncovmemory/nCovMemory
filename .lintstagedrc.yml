@@ -1,0 +1,2 @@
+"*.js": "eslint --cache --fix"
+"*.{vue,md,json,yml,yaml}": "prettier --write"

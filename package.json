@@ -21,6 +21,8 @@
     "eslint-plugin-node": "^11.0.0",
     "eslint-plugin-prettier": "^3.1.2",
     "fibers": "^4.0.2",
+    "husky": "^4.2.3",
+    "lint-staged": "^10.0.7",
     "markdown-it-include": "^1.1.0",
     "papaparse": "^5.1.1",
     "prettier": "^1.19.1",
@@ -42,5 +44,10 @@
   "dependencies": {
     "normalize.css": "^8.0.1",
     "vuetify": "^2.2.11"
+  },
+  "husky": {
+    "hooks": {
+      "pre-commit": "lint-staged"
+    }
   }
 }
