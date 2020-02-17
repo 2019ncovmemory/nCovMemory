@@ -6,7 +6,9 @@
         <v-chip outlined label small class="mr-1">
           <v-icon small left>mdi-calendar</v-icon>{{ a.info.date }}
         </v-chip>
-        <a :href="`${media}/${a.id}`">{{ a.info.title }}</a>
+        <router-link :to="{ path: media, hash: a.info.title }">{{
+          a.info.title
+        }}</router-link>
       </div>
     </v-card-text>
     <v-spacer />

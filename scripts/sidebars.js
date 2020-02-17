@@ -14,10 +14,6 @@ exports.getSidebar = categories =>
           ...mediaList.map(m => ({
             title: m.media,
             path: route + m.media + "/",
-            children: m.articles.map(a => ({
-              title: a.info.title,
-              path: route + m.media + "/" + a.id + "/",
-            })),
           })),
         ],
       };

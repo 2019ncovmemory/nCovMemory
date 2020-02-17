@@ -2,28 +2,7 @@
   <div>
     <h1 class="mb-6">{{ info.title }}</h1>
 
-    <div class="mb-6">
-      <v-chip outlined label>
-        <v-icon small left>mdi-calendar</v-icon>{{ info.date }}
-        <div class="mx-2 vline" style="height: 100%" />
-        <span class="vline-l">{{ info.media }}</span>
-      </v-chip>
-
-      <v-chip outlined label :href="info.url" target="_blank">
-        查看原文
-        <v-icon small right>mdi-open-in-new</v-icon>
-      </v-chip>
-
-      <v-chip outlined label :href="info.archive" target="_blank">
-        archive
-        <v-icon small right>mdi-open-in-new</v-icon>
-      </v-chip>
-
-      <v-chip outlined label :href="this.imgSrc" target="_blank">
-        截图
-        <v-icon small right>mdi-open-in-new</v-icon>
-      </v-chip>
-    </div>
+    <article-actions class="mb-6" />
 
     <v-container>
       <v-row justify="center">
@@ -50,7 +29,7 @@
 </template>
 
 <script>
-import { RESOURCE_REPO } from "../constants";
+import { getArticleImgSrc } from "../constants";
 
 export default {
   props: {
@@ -63,14 +42,8 @@ export default {
   }),
   computed: {
     imgSrc() {
-      return `https://github.com/${RESOURCE_REPO}/raw/master/archive/jpg/${this.info.id}.jpg`;
+      return getArticleImgSrc(this.info.id);
     },
   },
 };
 </script>
-
-<style lang="sass" scoped>
-.vline
-  height: 100%
-  border-left: thin solid #e0e0e0
-</style>

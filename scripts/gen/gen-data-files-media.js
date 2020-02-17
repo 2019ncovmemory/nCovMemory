@@ -84,7 +84,9 @@ ${mediaInfo.articles
 
 exports.genDataFilesForCategories = async ({ categories, dir }) => {
   await rimrafChildren(dir);
-  const content = JSON.stringify(categories.map(c => c.name));
+  const content = JSON.stringify(
+    categories.map(c => ({ name: c.name, subRoute: c.subRoute })),
+  );
 
   await Promise.all([
     fs.writeFile(path.join(dir, "info.json"), content),

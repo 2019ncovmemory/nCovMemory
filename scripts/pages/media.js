@@ -2,15 +2,6 @@
 
 const { templateForMedia } = require("../../templates/media");
 const { templateForMediaCategory } = require("../../templates/category");
-const { templateForArticle } = require("../../templates/article");
-
-async function pagesOfArticle(article, route) {
-  const md = await templateForArticle(article);
-  return {
-    path: route + `${article.id}/`,
-    content: md,
-  };
-}
 
 function pagesOfMediaCategory(category) {
   const { mediaList, route } = category;
@@ -23,9 +14,6 @@ function pagesOfMediaCategory(category) {
       path: route + mediaInfo.media + "/",
       content: await templateForMedia(mediaInfo),
     })),
-    ...mediaList
-      .map(m => m.articles.map(a => pagesOfArticle(a, route + m.media + "/")))
-      .flat(1),
   ]);
 }
 

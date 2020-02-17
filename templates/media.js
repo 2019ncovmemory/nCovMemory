@@ -12,18 +12,29 @@ exports.templateForMedia = async mediaInfo => {
   if (!md) md = await fs.readFile(TEMPLATE_FILE, "utf-8");
 
   return (
-    `# ${mediaInfo.media}\n\n` +
-    md +
+    md.replace(
+      "<!-- REPLACE CONTENT -->",
+      `# ${mediaInfo.media}\n` +
+        mediaInfo.articles
+          .map(
+            a => `
+## ${a.info.title}
+
+<article-actions :article="articles['${a.id}']" hide-media-name />
+`,
+          )
+          .join("\n"),
+    ) +
     `
 <script>
-import mediaInfo from '${pathUsingAlias(
+import { articles } from '${pathUsingAlias(
       PATH_GEN_MEDIA,
       mediaInfo.category,
       mediaInfo.media,
     )}';
 
 export default {
-data: () => mediaInfo
+  data: () => ({ articles }),
 }
 </script>
 `
