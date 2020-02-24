@@ -5,7 +5,8 @@ const { SITE_SHORT_NAME } = require("../constants");
 
 // remove first 5 non-empty line in README
 const REMOVE_LINE_COUNT = 5;
-const DESC_LINE_NUM = 2;
+// starting from 0
+const DESC_LINE_NUM = 1;
 
 exports.extractHomepageAndSiteInfo = ({ originalMd, mediaCategories }) => {
   const resList = regexps.mdMatchAllHeaders(originalMd);

@@ -20,7 +20,9 @@ exports.templateForMedia = async mediaInfo => {
             a => `
 ## ${a.info.title}
 
-<article-actions :article="articles['${a.id}']" hide-media-name />
+<ClientOnly>
+  <article-actions :article="articles['${a.id}']" hide-media-name />
+</ClientOnly>
 `,
           )
           .join("\n"),
