@@ -66,6 +66,9 @@ module.exports = async () => {
             message: "发现更新内容",
             buttonText: "立即更新",
           },
+          generateSWConfig: {
+            importWorkboxFrom: "local",
+          },
         },
       ],
       [
