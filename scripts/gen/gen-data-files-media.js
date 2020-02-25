@@ -84,6 +84,7 @@ ${mediaInfo.articles
 
 exports.genDataFilesForCategories = async ({ categories, dir }) => {
   await rimrafChildren(dir);
+  await mkdirp(dir);
   const content = JSON.stringify(
     categories.map(c => ({ name: c.name, subRoute: c.subRoute })),
   );
