@@ -20,9 +20,9 @@ exports.templateForMedia = async mediaInfo => {
             a => `
 ## ${a.info.title}
 
-<ClientOnly>
+<client-only-wrapper style="min-height: 32px">
   <article-actions :article="articles['${a.id}']" hide-media-name />
-</ClientOnly>
+</client-only-wrapper>
 `,
           )
           .join("\n"),
