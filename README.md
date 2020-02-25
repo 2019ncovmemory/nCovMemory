@@ -13,7 +13,7 @@ yarn install
 # 此操作会先从 GitHub 下载 data/data.csv 和 data/README.handlebars 文件到 gen 文件夹
 # 然后在 gen 文件夹中生成一些临时文件
 # 并生成网站，生成的文件在 docs/.vuepress/dist 文件夹
-yarn docs:build
+yarn build-site
 
 # 发布网站
 ###########

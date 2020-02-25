@@ -38,6 +38,7 @@
   },
   "scripts": {
     "lint-all": "eslint . docs/.vuepress",
+    "build-site": "cross-env CUSTOM_BASE=/nCovMemory/ yarn run docs:build",
     "docs:dev": "vuepress dev docs",
     "docs:build": "vuepress build docs"
   },
