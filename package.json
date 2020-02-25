@@ -45,7 +45,7 @@
   },
   "dependencies": {
     "normalize.css": "^8.0.1",
-    "vuetify": "^2.2.14"
+    "vuetify": "^2.2.15"
   },
   "husky": {
     "hooks": {
