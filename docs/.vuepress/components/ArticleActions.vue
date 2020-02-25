@@ -9,7 +9,18 @@
     </v-chip>
 
     <v-chip outlined label :href="article.info.url" target="_blank">
-      查看原文
+      {{ article.info.isDeleted ? "❌原文已失效" : "查看原文" }}
+      <v-icon small right>mdi-open-in-new</v-icon>
+    </v-chip>
+
+    <v-chip
+      v-if="article.info.alternative"
+      outlined
+      label
+      :href="article.info.alternative"
+      target="_blank"
+    >
+      查看转载
       <v-icon small right>mdi-open-in-new</v-icon>
     </v-chip>
 
