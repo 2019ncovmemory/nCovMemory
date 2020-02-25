@@ -1,5 +1,34 @@
 # nCovMemory site publisher
 
+## 发布流程
+
+> 需要在 Node.js >=12 环境下进行
+
+```shell
+# 安装依赖
+yarn install
+
+# 生成网站
+###########
+# 此操作会先从 GitHub 下载 data/data.csv 和 data/README.handlebars 文件到 gen 文件夹
+# 然后在 gen 文件夹中生成一些临时文件
+# 并生成网站，生成的文件在 docs/.vuepress/dist 文件夹
+yarn docs:build
+
+# 发布网站
+###########
+# 切换到生成网站的文件夹
+cd docs/.vuepress/dist
+# 在此处初始化一个新的 git 仓库并提交所有文件
+git init
+git add -A
+git commit -m 'deploy'
+# 此操作会将生成的文件发布到 2019ncovmemory/nCovMemory 的 gh-pages 分支
+# 由于使用了 force push，请注意不要操作错误
+git push -f https://github.com/2019ncovmemory/nCovMemory.git master:gh-pages
+
+```
+
 ## 可配置环境变量
 
 - `CUSTOM_DATA_REPO`
