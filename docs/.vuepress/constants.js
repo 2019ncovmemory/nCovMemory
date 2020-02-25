@@ -1,3 +1,5 @@
+/* eslint-env node */
+
 export const DATA_REPO =
   process.env.CUSTOM_DATA_REPO || "2019ncovmemory/nCovMemory";
 
