@@ -1,0 +1,13 @@
+{
+  "extends": [
+    "eslint:recommended",
+    "plugin:node/recommended",
+    "plugin:prettier/recommended"
+  ],
+  "rules": {
+    "prefer-const": "error",
+    "no-var": "error",
+    "no-unused-vars": ["error", { "args": "after-used" }],
+    "strict": ["error", "safe"]
+  }
+}

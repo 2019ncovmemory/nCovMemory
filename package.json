@@ -1,0 +1,55 @@
+{
+  "name": "ncov-memory-publish",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/2019ncovmemory/nCovMemory",
+  "author": "",
+  "license": "MIT",
+  "private": true,
+  "engines": {
+    "node": ">=12"
+  },
+  "files": [
+    "docs/"
+  ],
+  "devDependencies": {
+    "@mdi/font": "^4.9.95",
+    "@vuepress/plugin-pwa": "^1.4.0",
+    "cross-env": "^7.0.0",
+    "deepmerge": "^4.2.2",
+    "eslint": "^6.8.0",
+    "eslint-config-prettier": "^6.10.0",
+    "eslint-plugin-node": "^11.0.0",
+    "eslint-plugin-prettier": "^3.1.2",
+    "fibers": "^4.0.2",
+    "husky": "^4.2.3",
+    "lint-staged": "^10.0.8",
+    "markdown-it-include": "^1.1.0",
+    "papaparse": "^5.1.1",
+    "prettier": "^1.19.1",
+    "request": "^2.88.2",
+    "rimraf": "^3.0.2",
+    "sass": "^1.26.0",
+    "sass-loader": "^8.0.2",
+    "sharp": "^0.24.1",
+    "to-ico": "^1.1.5",
+    "vuepress": "^1.4.0",
+    "vuepress-plugin-named-chunks": "^1.1.2",
+    "vuetify-loader": "EqualMa/vuetify-loader#fix/handle-all-vue-loaders"
+  },
+  "scripts": {
+    "lint-all": "eslint . docs/.vuepress",
+    "build-site": "cross-env CUSTOM_BASE=/nCovMemory/ yarn run docs:build",
+    "docs:dev": "vuepress dev docs",
+    "docs:build": "vuepress build docs"
+  },
+  "dependencies": {
+    "normalize.css": "^8.0.1",
+    "vuetify": "^2.2.15"
+  },
+  "husky": {
+    "hooks": {
+      "pre-commit": "lint-staged"
+    }
+  }
+}

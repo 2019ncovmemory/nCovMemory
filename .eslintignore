@@ -1,0 +1,3 @@
+/gen
+!/docs/.vuepress
+/docs/.vuepress/dist
