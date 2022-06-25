@@ -20,7 +20,7 @@
     "error-ex": "git+https://github.com/Qix-/node-error-ex.git",
     "fs-extra": "^8.1.0",
     "handlebars": "^4.7.3",
-    "node-fetch": "^2.6.0",
+    "node-fetch": "^2.6.7",
     "papaparse": "^5.1.1"
   },
   "devDependencies": {
